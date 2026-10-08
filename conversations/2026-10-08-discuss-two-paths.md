@@ -148,3 +148,17 @@ Claude 的判断：GT 内部转博难在导师名额和经费，不在资格。�
 - 中国新增：清华音乐脑科学中心（王小勤）、华南理工 BCI 中心（广州本地）、HKUST Horner、浙大 NEXT、华东理工陈宁。上音 / 星海无音乐科技博士。
 - 欧洲：Plymouth 脑机音乐接口博士、QMUL AIM CDT（每年 12+ 全奖，收 CSC）、Jyväskylä CoE（带薪岗位）、KTH Bresin（机器人声音）、JKU Widmer、Aarhus MIB、EPFL DCML、Max Planck、IRCAM、ADASP、TU Berlin、Ghent、Genoa、UAL Fiebrink、Cambridge、MSCA 网络。
 - 修正：Smaragdis 已从 UIUC 到 MIT；Honing 已荣休；Drexel Kim 转行政。
+
+---
+
+## 第六轮：有没有博士申请的"标准线"；担心两头空
+
+我的话：能不能找到博士能成功申请的标准线。担心考不上博士，工作也没找好。
+
+Claude：没有公布的分数线，导师制实验室看四条（导师预联系回复 / 一作论文或公开系统 / 强推荐信 / 硬门槛过线）加一个具体问题的 SoP。我的位置是"还有一年准备期"，不是"考不上"。写入 `decisions/phd-readiness.md`。
+
+两头空在时间上不同时发生：秋招 offer 2027 年底先到，博士结果 2028 年春才出；科研院所研究助理面试制、全年招、本身是读博上车点。申请分冲刺 / 匹配 / 保底三档，六到八所。
+
+本周两件事：PeerJ 推到投稿；邮件 natcs@gatech.edu。
+
+待我回答：仍是"转博难"具体指什么。
