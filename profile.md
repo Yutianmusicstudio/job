@@ -7,6 +7,15 @@
 - 所在实验室：Robotic Musicianship 方向（Shimon / Shimi 机器人），导师组会每周一次。
 - 目前同时在准备一篇 EEG 论文，目标期刊 PeerJ，投稿准备中。
 
+## 研究主线（2026-10-08 定）
+
+**我研究人如何感知机器演奏的音乐，并造出能演奏和教学的音乐机器。**
+
+- 感知侧：EEG 解码音乐想象；Shimon 观众 EEG 研究。
+- 行动侧：pianobot、钢琴机器人、机械臂、音乐表演 agent、钢琴可视化教育系统。
+- 主线之外（工具与收入，不写进研究材料）：coze / n8n、Upwork、ruiting app。
+- 冻结规则：到 2027 年夏，lab 外只保留一个项目（钢琴可视化教育系统或 pianobot，待定）。
+
 ## 研究方向
 
 - EEG 解码音乐想象（music imagery vs. perception），已跑过 logreg / random forest / CNN / EEGNet 的跨被试交叉验证。
