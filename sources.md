@@ -38,3 +38,20 @@
 | 罗兰上海有研发 | 🔧 错 | 只有销售公司 |
 | 高通、苹果、英伟达深圳研发岗 | ❌ | 未核实 |
 | 舒尔、楼氏在苏州 | ❌ | 未核实 |
+
+## 2026-10-08 第四轮（GT 之外的博士选项）— 写前已搜
+
+| 信息 | 状态 | 来源 |
+|---|---|---|
+| 港科大广州 CMA 在南沙，方向含 sonic art / music，全奖，英文授课，两种博士轨道 | ✅（2021-23 资料） | [CMA 招聘页](https://cma.hkust-gz.edu.cn/recruitment/)、[2022 招生公告](https://itp.nyu.edu/opportunities/2022/02/10/recruit-fully-funded-phd-opportunities-at-hong-kong-univ-of-science-and-technology-computational-media-and-arts-program/) |
+| 港科广 CMA 音乐科技导师名单 | ❌ | 未抓到，需官网筛 |
+| 港中深音乐学院博士只有表演 / 音乐学 / 作曲 | ✅（2025 简章） | 本地宝转载 |
+| 中央音乐学院音乐 AI 博士：三年、双导师、要求 CS + 乐器 | ✅ | [CSDN](https://damodev.csdn.net/6a424a3310ee7a33f283e1a2.html)、[ICMC 2025](https://icmc2025.sites.northeastern.edu/?p=6173) |
+| KAIST MAC Lab 方向；KAIST 国际生全奖 | ✅ | [实验室](https://mac.kaist.ac.kr)、[奖学金页](https://admission.kaist.ac.kr/intl-graduate/FinancialSupport/Scholarship) |
+| RITMO 带薪博士岗、要求硕士论文 ≥30 ECTS、有机器人方向 | ✅（2021-24 岗位） | [微节奏岗](https://stilling.forskning.no/job-ads-jobads-oslo/doctoral-research-fellowship-in-microrhythm/2421297) |
+| 罗切斯特 AIR Lab：MIR + 音乐家机器人，15 博士生 | ✅ | [实验室](https://labsites.rochester.edu/air/people.html)、[2025 研究陈述](https://hajim.rochester.edu/ece/sites/zduan/resource/ZhiyaoDUAN_ResearchStatement_Feb2025.pdf) |
+| 麦克马斯特 LIVELab：观众 + 演奏者 EEG、动捕 | ✅ | [CIFAR](https://cifar.ca/bios/laurel-trainor/) |
+| MIT Opera of the Future 申请要求：音乐 + 互补技能 + 作品集 | ✅ | [申请页](https://www.media.mit.edu/groups/opera-of-the-future/applicant-information/) |
+| QMUL C4DM 国际生资助靠 CSC；studentship 多只覆盖 home fee | ✅ | [2025 招生帖](https://auditory.org/mhonarc/2024/msg00572.html)、[QMUL S&E studentship](https://qmul.ac.uk/maths/postgraduate/postgraduate-research/fees-and-funding/science-and-engineering-phd-studentships) |
+| UPF MTG 有 funded positions，要求 ML + DSP + Python/C++ | ⚠️ 日期不明 | [MTG 公告](https://www.upf.edu/web/mtg/news/-/asset_publisher/WM181VyAQipW/content/the-mtg-opens-four-funded-phd-positions/maximized) |
+| CCRMA、NYU、UCSD、港本部三校 | ❌ | 未搜 |
