@@ -138,3 +138,13 @@ Claude 的判断：GT 内部转博难在导师名额和经费，不在资格。�
 
 ### 待我回答
 - "转博难"具体指：导师没名额 / 对研究信心不够 / 申请流程麻烦？
+
+---
+
+## 第五轮：扩大搜索，第一梯队中美、第二梯队欧洲
+
+20 轮联网搜索，结果写入 `decisions/phd-candidates.md`。要点：
+- 美国新增：Cornell Hoffman（Shimon 共同创造者）、MIT 新的 Music Technology and Computation PhD、Stanford Fujioka、UMD Shamma（2025 年 EEG 解码想象巴赫，和我课题一致）、NYU MARL、Northeastern Loui、Northwestern Pardo、UCSB MAT、UCSD、Brown、Indiana。
+- 中国新增：清华音乐脑科学中心（王小勤）、华南理工 BCI 中心（广州本地）、HKUST Horner、浙大 NEXT、华东理工陈宁。上音 / 星海无音乐科技博士。
+- 欧洲：Plymouth 脑机音乐接口博士、QMUL AIM CDT（每年 12+ 全奖，收 CSC）、Jyväskylä CoE（带薪岗位）、KTH Bresin（机器人声音）、JKU Widmer、Aarhus MIB、EPFL DCML、Max Planck、IRCAM、ADASP、TU Berlin、Ghent、Genoa、UAL Fiebrink、Cambridge、MSCA 网络。
+- 修正：Smaragdis 已从 UIUC 到 MIT；Honing 已荣休；Drexel Kim 转行政。
