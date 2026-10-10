@@ -17,7 +17,7 @@
 
 | 项目 | 状态 | 说明 | 下一步 |
 |---|---|---|---|
-| 机械臂 pet | 进行中 | 硬件 + 控制 | 完善机器臂功能 |
+| robot pet | 进行中，真机已验证跟随 / 注视 / 归位 | SO101 六轴 + 相机；表达靠时机与多关节 | 七步计划，先换 YuNet；见 projects/robot-pet.md |
 | 钢琴机器人 | 进行中 | 硬件 | 待补细节 |
 | 音乐表演分析 agent（perfagent） | 进行中，M0 已开工 | 现成大模型编排 + MIR 工具感知 + 评测基准；面向 DMA 学生 | 搭 Agent 循环；见 projects/music-performance-agent.md |
 | 钢琴视觉化教育系统 | 进行中，v0.0.7 已跑通 | 声学钢琴旁屏幕，画随演奏逐笔生长；快层本地 + Claude 导演 + 本机 GPU 出图 | 约 Freeman / Weinberg；真琴导出记录；见 projects/piano-visual-education.md |

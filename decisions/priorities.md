@@ -12,7 +12,7 @@
 |---|---|---|
 | 论文 1 | PeerJ | 唯一已有数据的，博士申请前提 |
 | 论文 2 | Shimon 观众研究 | lab 硬任务，导师在推 |
-| demo | 四手联弹阶段一 | 低风险、6h/周、MIT / Cornell 作品集 |
+| demo | robot pet 七步 → 四手联弹阶段一（同一台 SO101，同一套动作原语） | 低风险、6h/周、MIT / Cornell / KTH 作品集；pet 终点是作品不是论文 |
 | 排队 | perfagent | ≤4h/周维持 M0，PeerJ 投出后评估升格 |
 | 排队，待一次会议决定 | 钢琴视觉化教育系统 | 约 Freeman / Weinberg；有 PI 则 2027-03 后替换 Shimon 之外的一个槽位，无 PI 则退为 demo |
 
