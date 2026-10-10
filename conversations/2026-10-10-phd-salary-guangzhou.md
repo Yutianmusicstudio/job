@@ -180,3 +180,11 @@ Claude（1 次检索）：
 ## 第十三轮：归档 robot pet 状态稿
 
 归档到 `projects/robot-pet.md`。本仓库看法：终点选作品演示不选论文（论文槽位已满）；pet 是四手联弹阶段一的前半段，同一台 SO101，第 4 步动作原语 + 第 6 步音乐节拍就是四手联弹要的东西，做完第 6 步分叉。对口 Hoffman（Kip、Blossom）、Weinberg（Shimi）、Bresin。相机同意 YuNet 后再比。计入 demo 槽位不另加时间。
+
+---
+
+## 第十四轮：重整清单；对项目的看法；Paper 1 = PeerJ
+
+我的话：重新整理清单；你觉得这些项目怎么样；Paper 1 就是 PeerJ，还没投，再等几天。
+
+Claude：`projects.md` 重写为分层清单（一有截止 / 二条件触发 / 三排队 / 支撑），每项带公开日期。看法：主题统一；只有 PeerJ 接近完成；价值在交付时解锁。具体：SO101 按键能力要在第 4 步前真琴验证，不行改电磁铁推杆；perfagent 守住评测与编造率；视觉系统是最"Media Lab"的一个，MIT demo 候选与四手联弹并列，PI 最可能 Freeman。Paper 1 = PeerJ 已在各文件更新。
