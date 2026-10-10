@@ -188,3 +188,11 @@ Claude（1 次检索）：
 我的话：重新整理清单；你觉得这些项目怎么样；Paper 1 就是 PeerJ，还没投，再等几天。
 
 Claude：`projects.md` 重写为分层清单（一有截止 / 二条件触发 / 三排队 / 支撑），每项带公开日期。看法：主题统一；只有 PeerJ 接近完成；价值在交付时解锁。具体：SO101 按键能力要在第 4 步前真琴验证，不行改电磁铁推杆；perfagent 守住评测与编造率；视觉系统是最"Media Lab"的一个，MIT demo 候选与四手联弹并列，PI 最可能 Freeman。Paper 1 = PeerJ 已在各文件更新。
+
+---
+
+## 第十五轮：pet 就是 pet，四手联弹单独
+
+我的话：robot pet 只想做 pet，用设计动作达到宠物交互感；四手联弹是单独项目，将来钢琴 bot 做出来了动作系统可能用得上。
+
+Claude：撤回合并。pet 独立占 demo 槽位，终点宠物交互感，作品路线；四手联弹退到排队层，待 pet 动作系统成型后评估复用。对博士申请无损失（Hoffman Blossom / Kip、Weinberg Shimi、Bresin）。给了动作设计八条（反应延迟、预备 / 跟随、不静止、注视移开、不重复、全身配合、状态机、节拍略不准）和作品路线验收法（10 人看 30 秒视频三问）。文件：projects.md、priorities.md、robot-pet.md、phd-roadmap.md 同步。
