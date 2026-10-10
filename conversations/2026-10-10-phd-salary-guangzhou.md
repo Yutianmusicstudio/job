@@ -114,3 +114,11 @@ Claude：好消息，记录里本来就没有 MIR。MIR = 音频 / 符号内容�
 
 两句诚实的话：不卷不等于轻松，这两条线的痛苦是"慢"；去掉 MIR 等于主动关掉最大企业出口。
 顺带好处：不和一百篇 ISMIR 论文的作者抢导师。
+
+---
+
+## 第七轮：拍 PhD 申请路线
+
+我的话：拍一个 PhD 可申请路线。
+
+Claude：定稿写入 `decisions/phd-roadmap.md`。八所（冲刺 MIT Machover / Cornell Hoffman / Stanford Fujioka；匹配 UMD Shamma / McMaster Trainor / KTH Bresin 或 RITMO；保底 GT 直博 / 港科广 CMA），机动华南理工 BCI、Jyväskylä。时间线从 2026-10 到 2028-09 分六段。四个决策点：2027-03-31 Weinberg 答复、2027-06-30 PeerJ 状态、2027-09-30 导师回信数、2028-04-15 offer。多 offer 排序：导师匹配 + 四年资助 > 地点。前提：PeerJ 在 2027-09 前在审或接收。截止日期除 HKPFS 外均为惯例，2027-09 逐个核实。
