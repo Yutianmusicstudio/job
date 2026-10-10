@@ -46,6 +46,13 @@
 - B 档：UMD Shamma、McMaster Trainor、KTH Bresin / RITMO。
 - C 档：港科广 CMA > 华南理工 BCI > Jyväskylä。
 
+## 五之前：MIT 这一档要什么（2026-10-10）
+
+Media Lab 录取看作品集，不看分数；估计录取率个位数百分比（❌ 估计），Machover 一年收一两人。三样缺一不可：
+1. 一个公开的、别人会转发的 demo 视频 → 脑驱动四手联弹，2027-09 前有视频。
+2. 一篇论文 → PeerJ。
+3. 一封 Machover 认识的人写的信 → Weinberg 1997-2003 在 Media Lab 读博（✅ CV）；导师是否为 Machover未核实（❌），直接问他。
+
 ## 五、前提
 
 PeerJ 论文在 2027-09 前处于在审或接收状态。它是导师邮件的附件、推荐信的依据、SoP 的第一段。
