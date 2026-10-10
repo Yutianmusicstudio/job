@@ -76,3 +76,10 @@
 | 具身智能平均年薪 33.38 万、职位 +75%（猎聘） | ⚠️ | [第一财经](https://www.yicai.com/news/103146071.html) |
 | 小鹏 IRON 广州试产、量产基地在广州；广汽慧仑 GoMate | ✅ | 同花顺 2026-09 / 2026-08 |
 | 研究型音乐科技教职全球每年个位数 | ❌ 估计 | 由论文产量倒推 |
+
+## 2026-10-10（捏握玩具乐器想法）— 写前已搜
+| 信息 | 状态 | 来源 |
+|---|---|---|
+| Weinberg & Gan《The Squeezables》CMJ 25(2) 2001；Gan 硕士论文；Embroidered Musical Ball；2000 Ars Electronica 首演 | ✅ | [CMJ](https://labs.sonicfield.org/library/the-squeezables-toward-an-expressive-and-interdependent-multi-player-musical-ins)、[DSpace](https://dspace.mit.edu/handle/1721.1/61103)、[Media Lab](https://www.media.mit.edu/publications/the-embroidered-musical-ball-a-squeezable-instrument-for-expressive-performance-2) |
+| Skoog：爱丁堡大学出，可捏方块，面向自闭症 / SEN，治疗轮流玩；证据为厂商与个案；一版本停产 | ✅ 厂商口径 | [autism.org.uk](https://autism.org.uk/autism-services-directory/s/skoog)、[REF 案例](https://impact.ref.ac.uk/casestudies/CaseStudy.aspx?Id=24039) |
+| 自闭症儿童可捏乐器的同行评审效果研究 | ❌ 未搜 NIME / 音乐治疗期刊 | — |
