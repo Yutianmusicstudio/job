@@ -174,3 +174,9 @@ Claude（1 次检索）：
 它与 Shimon 是同类工作（IRB、被试、对照、可能阴性），命运由约 Freeman / Weinberg 那次会决定：有 PI 进有截止清单，无 PI 退为 demo。
 新增 `decisions/priorities.md`：任一时刻在飞论文 ≤2、demo ≤1。当前：PeerJ、Shimon、四手联弹阶段一；perfagent 与视觉系统排队。2027-03 PeerJ 投出后按"有无 PI、要不要被试"选风险低的补位。
 仍待确认："Paper 1 回复"指什么。
+
+---
+
+## 第十三轮：归档 robot pet 状态稿
+
+归档到 `projects/robot-pet.md`。本仓库看法：终点选作品演示不选论文（论文槽位已满）；pet 是四手联弹阶段一的前半段，同一台 SO101，第 4 步动作原语 + 第 6 步音乐节拍就是四手联弹要的东西，做完第 6 步分叉。对口 Hoffman（Kip、Blossom）、Weinberg（Shimi）、Bresin。相机同意 YuNet 后再比。计入 demo 槽位不另加时间。
