@@ -20,7 +20,7 @@
 | 机械臂 pet | 进行中 | 硬件 + 控制 | 完善机器臂功能 |
 | 钢琴机器人 | 进行中 | 硬件 | 待补细节 |
 | 音乐表演分析 agent（perfagent） | 进行中，M0 已开工 | 现成大模型编排 + MIR 工具感知 + 评测基准；面向 DMA 学生 | 搭 Agent 循环；见 projects/music-performance-agent.md |
-| 钢琴可视化教育系统 | 进行中 | 弹琴生成图案、AI 伴奏教学 | 待补细节 |
+| 钢琴视觉化教育系统 | 进行中，v0.0.7 已跑通 | 声学钢琴旁屏幕，画随演奏逐笔生长；快层本地 + Claude 导演 + 本机 GPU 出图 | 约 Freeman / Weinberg；真琴导出记录；见 projects/piano-visual-education.md |
 | coze / n8n 工作流 | 进行中 | 自动化、可能接 Upwork 单 | 待补细节 |
 | 小乐器 | 构想 | 做一个新的小乐器 | — |
 | ruiting app | 构想 | 待补 | — |
@@ -35,7 +35,7 @@
 | EEG 到音乐生成 | 终极 B（控制版，非重建版） | 阶段二：一个 EEG 参数驱动机器演奏，3 人 pilot，2027-08 | 博士课题 |
 | robot pet | 独立硬件 | 冻结，或作四手联弹机械 / 控制练手 | — |
 | 音乐表演专用 agent 开源项目（perfagent） | 研究项目，两篇论文 | 不冻结；每周 ≤4h 直到 PeerJ 投出；详见 projects/music-performance-agent.md | 开源 + 评测基准 + 2 篇论文 |
-| 钢琴视觉化教育系统 | 软件，产品向 | 冻结到 2027 夏 | 创业备选 |
+| 钢琴视觉化教育系统（v0.0.7，儿童钢琴项目） | 已跑通系统 + 待 PI 的儿童对照实验 | 约 Freeman / Weinberg 定命运；有 PI 进有截止清单，无 PI 退为 demo | music-based intervention 论文；音乐治疗第二研究 |
 | 论文选题思路、机器学习入门教学 | 支撑 | 按需 | — |
 
 两个终极项目是同一篇博士论文的两端（音乐从机器出 / 音乐从脑出），交集是"脑驱动的四手联弹"。

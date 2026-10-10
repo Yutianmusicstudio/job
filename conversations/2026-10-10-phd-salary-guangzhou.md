@@ -165,3 +165,12 @@ Claude（1 次检索）：
 我粘贴了该项目会话生成的完整概念稿。归档到 `projects/music-performance-agent.md`。
 变化：撤回"冻结"判断，它是有两篇论文产出的研究项目（perfagent，M0 已开工）。优先级排在 PeerJ、Shimon、四手联弹阶段一之后，每周 ≤4h 直到 PeerJ 投出。与"不做 MIR"有张力：工具链是 MIR，研究问题是误差传播和 Agent 评估。
 待我确认："Paper 1 回复"指什么；"儿童钢琴项目"是否即钢琴视觉化教育系统。
+
+---
+
+## 第十二轮：归档钢琴视觉化教育系统状态稿
+
+归档到 `projects/piano-visual-education.md`。确认"儿童钢琴项目"即此项目。撤回"冻结"判断。
+它与 Shimon 是同类工作（IRB、被试、对照、可能阴性），命运由约 Freeman / Weinberg 那次会决定：有 PI 进有截止清单，无 PI 退为 demo。
+新增 `decisions/priorities.md`：任一时刻在飞论文 ≤2、demo ≤1。当前：PeerJ、Shimon、四手联弹阶段一；perfagent 与视觉系统排队。2027-03 PeerJ 投出后按"有无 PI、要不要被试"选风险低的补位。
+仍待确认："Paper 1 回复"指什么。
