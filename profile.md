@@ -15,6 +15,7 @@
 - 行动侧：pianobot、钢琴机器人、机械臂、音乐表演 agent、钢琴可视化教育系统。
 - 主线之外（工具与收入，不写进研究材料）：coze / n8n、Upwork、ruiting app。
 - 冻结规则：到 2027 年夏，lab 外只保留一个项目（钢琴可视化教育系统或 pianobot，待定）。
+- 对外两套词（2026-10-10）：对 BCI / 神经组讲 neural decoding of auditory imagery；对音乐科技组讲 music cognition / robotic musicianship。
 
 ## 研究方向
 
@@ -35,6 +36,7 @@
 - 工作流自动化（coze、n8n）。
 - 音乐：钢琴，作曲 / 制作基础。
 - 待补：C++、DSP 基础、LeetCode 刷题量。
+- BCI 线待补（2026-10-10）：CSP / 黎曼特征、统计校正、实时闭环（LSL / OpenViBE）、一门神经科学或 BME 课。
 
 ## 身份与地域
 
