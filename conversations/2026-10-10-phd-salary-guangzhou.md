@@ -157,3 +157,11 @@ Claude（1 次检索）：
 - EEG 到音乐生成现状：Brain2Music（fMRI）、EEG 潜扩散 2024、北理工 IEEE TMM 2026、JCSS 2026 alpha 奖励微调。重建版 = 生成刷分，不做；控制版 = BCMI，就是阶段二。
 - 清单按侧栏名重排，有截止的只有四行（PeerJ、Shimon、终极 A 阶段一、终极 B 阶段二）。agent 若不冻，改为伴奏决策层。
 - PeerJ 卡法的解法：先写完方法 → 三张图（流程、每被试平衡准确率带 0.5 线、模型对比）→ 讨论四段模板 → 引言最后。Claude 可从 Drive 的 cv_metrics.csv 出图初稿和骨架，待我说投 PeerJ 主刊还是 PeerJ CS。
+
+---
+
+## 第十一轮：归档音乐表演分析 Agent 的概念稿
+
+我粘贴了该项目会话生成的完整概念稿。归档到 `projects/music-performance-agent.md`。
+变化：撤回"冻结"判断，它是有两篇论文产出的研究项目（perfagent，M0 已开工）。优先级排在 PeerJ、Shimon、四手联弹阶段一之后，每周 ≤4h 直到 PeerJ 投出。与"不做 MIR"有张力：工具链是 MIR，研究问题是误差传播和 Agent 评估。
+待我确认："Paper 1 回复"指什么；"儿童钢琴项目"是否即钢琴视觉化教育系统。
