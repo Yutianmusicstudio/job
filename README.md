@@ -17,7 +17,8 @@
 | `decisions/phd-roadmap.md` | PhD 申请路线定稿：八所、时间线、四个决策点 |
 | `decisions/priorities.md` | 项目优先级规则：两篇论文一个 demo 在飞 |
 | `decisions/idea-intake.md` | 想法入口规则：五问、就绪 / 某天 |
-| `ideas/inbox.md` | 想法收件箱，新想法先进这里，不新开项目 |
+| `ideas/map.md` | 所有想法的唯一总览，按主线两半 + 成熟度分层 |
+| `ideas/inbox.md` | 想法收件箱（入口），新想法先进这里过五问 |
 | `conversations/` | 每次对话的记录，文件名 `YYYY-MM-DD-主题.md` |
 | `timeline.md` | 关键时间节点（校招、投稿、毕业、认证） |
 | `sources.md` | 每条事实的来源和核实状态 |
