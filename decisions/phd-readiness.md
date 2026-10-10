@@ -16,9 +16,11 @@
 
 | 档 | 候选 | 录取逻辑 |
 |---|---|---|
-| 冲刺 ×2 | MIT（Machover 或新项目）、Stanford CCRMA、Cornell Hoffman | 导师个人选择，竞争极高 |
-| 匹配 ×3 | UMD Shamma、Rochester Duan、McMaster Trainor、QMUL AIM（配 CSC）、KTH Bresin | 导师有经费 + 方向吻合 |
-| 保底 ×2-3 | 港科大广州 CMA、华南理工 BCI 中心、中央音乐学院、KAIST Nam | 硕士学位 + 一篇论文 + 面试 |
+| 冲刺 ×2 | MIT Machover、Stanford Fujioka、Cornell Hoffman | 导师个人选择，竞争极高 |
+| 匹配 ×3 | UMD Shamma、McMaster Trainor、KTH Bresin、Plymouth Miranda、Oslo RITMO | 导师有经费 + 方向吻合 |
+| 保底 ×2-3 | GT 直博、港科大广州 CMA、华南理工 BCI 中心、Jyväskylä CoE | 硕士学位 + 一篇论文 + 面试 |
+
+（2026-10-10 去掉 MIR 线后重排：QMUL AIM、KAIST、中央音乐学院、Rochester 移出组合。）
 
 ## "两头空"为什么在结构上难以发生
 

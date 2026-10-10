@@ -101,3 +101,16 @@ Claude（6 次检索）：
 **修正二**：国内出东西的是 CS 系和公司，不是音乐学院。YuE（港科大 + M-A-P，2025-01）、DiffRhythm（西工大）、ACE-Step（ACE Studio）、字节 Seed-Music、昆仑 Mureka。中央音乐学院的贡献是博士点，产出不在一个量级。
 
 **含义**：供给少是优势；需求最大出口是生成式音乐 AI 公司（企业）；研究型音乐科技教职全球每年估计个位数；所以"音乐科技博士进高校"比"进 BCI / 具身智能研究院"窄得多。港科广 CMA 与做出 YuE 的港科大是一体的。
+
+---
+
+## 第六轮：不想搞 MIR
+
+我的话：不想搞 MIR，太卷太无聊。
+
+Claude：好消息，记录里本来就没有 MIR。MIR = 音频 / 符号内容的检索、转录、生成，社区 ISMIR，刷基准。我的两件事分属听觉神经科学 / BCI（BCI Society、SfN、ICMPC）和 HRI / 新乐器（HRI、NIME、RO-MAN），都比 ISMIR 小、不那么卷。Weinberg lab 本身不做 MIR。
+
+名单重排为神经线 + 具身线，MIR 为主的降为不投（QMUL、MTG、JKU、KAIST、Indiana、中央音乐学院音乐 AI）。申请组合同步改（见 phd-readiness.md）。
+
+两句诚实的话：不卷不等于轻松，这两条线的痛苦是"慢"；去掉 MIR 等于主动关掉最大企业出口。
+顺带好处：不和一百篇 ISMIR 论文的作者抢导师。

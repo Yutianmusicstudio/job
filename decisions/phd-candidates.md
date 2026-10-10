@@ -82,3 +82,30 @@
 1. 2027-03 前：把三条线各选两个导师，发第一封邮件（附 PeerJ 论文 + 一页作品集）。
 2. 2027 春起：每月看一次 RITMO、KTH、JKU、Jyväskylä、MSCA 的岗位页。
 3. 2027-09 至 12：美国 / 中国 / 港校正式申请；CSC 若走 QMUL 则 2028-03 报。
+
+---
+
+## 2026-10-10 重排：去掉 MIR 线
+
+我明确不做 MIR（卷、无聊）。候选名单按两条线重排，MIR 为主的降为不投或最后考虑。
+
+### 神经线（EEG / BCMI / 音乐认知）
+Stanford Fujioka、UMD Shamma、McMaster Trainor、Northeastern Loui、Plymouth Miranda、Jyväskylä CoE、Aarhus MIB、Max Planck 经验美学、清华王小勤、华南理工 BCI 中心。
+
+### 具身线（HRI / 机器人声音 / 表现性动作 / 新乐器）
+GT Weinberg（直博）、Cornell Hoffman、MIT Machover、KTH Bresin、Oslo RITMO、Ghent IPEM、Genoa Camurri、港科大广州 CMA。
+
+### 一半 MIR（视导师而定）
+Rochester Duan（MIR + 音乐家机器人）、MIT 音乐科技计算项目（Egozy 侧偏交互，Smaragdis 侧偏 MIR）、NYU MARL（Ripollés 神经，其余 MIR）。
+
+### 降为不投
+QMUL AIM / C4DM、UPF MTG、JKU Widmer、KAIST Nam、Indiana、中央音乐学院音乐 AI 博士、Northwestern Pardo、UCSB / UCSD（偏创作）。
+
+### 社区对照
+- MIR：ISMIR，基准刷分。
+- 神经线：BCI Society、SfN、ICMPC / SMPC。
+- 具身线：HRI、NIME、RO-MAN。
+
+### 代价
+- 去掉 MIR 即去掉最大企业出口（腾讯音乐、生成式音乐公司）。剩余出口：研究院 / 高校、具身智能公司、文旅机器人。与"不想去企业"一致，但是主动关门。
+- 神经和 HRI 线的痛苦是"慢"：IRB、被试、效应做不出来。
