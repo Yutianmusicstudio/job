@@ -63,3 +63,16 @@
 
 ## 2026-10-10（广州博士薪资）— 写前已搜，10 次检索
 来源逐条列在 `decisions/salary-guangzhou.md` 各表的来源列。
+
+## 2026-10-10（领域规模与国内产出）— 写前已搜
+| 信息 | 状态 | 来源 |
+|---|---|---|
+| ISMIR 2025 收 99 篇；2024 收 123 篇、录取率 35.55% | ✅ | [Zenodo](https://zenodo.org/records/17717337)、[Adobe](https://research.adobe.com/news/bridging-tech-and-musical-creativity-ismir-2024) |
+| 国内"音乐科技"专业代码 130215T，艺术学学位，南艺 2024 新增 | ✅ | [来源](https://www.dxsbb.com/news/50119.html) |
+| YuE：HKUST + M-A-P，2025-01，LLaMA2 架构，全曲生成 | ✅ | [arXiv 2503.08638](https://arxiv.org/pdf/2503.08638) |
+| ACE-Step：ACE Studio；DiffRhythm：西工大 ASLP | ✅ / ⚠️ | [arXiv 2506.00045](https://arxiv.org/pdf/2506.00045) |
+| Suno 2026-06 D 轮 4 亿美元，估值 54 亿 | ✅ | [Forbes](https://www.forbes.com.au/news/investing/ai-music-generator-suno-eyes-5-billion-valuation-after-latest-funding-round/) |
+| Mureka 2026-06 升级为 AI 原生音乐平台 | ⚠️ | [DMN](https://www.digitalmusicnews.com/2026/06/22/mureka-ai-music-platform/) |
+| 具身智能平均年薪 33.38 万、职位 +75%（猎聘） | ⚠️ | [第一财经](https://www.yicai.com/news/103146071.html) |
+| 小鹏 IRON 广州试产、量产基地在广州；广汽慧仑 GoMate | ✅ | 同花顺 2026-09 / 2026-08 |
+| 研究型音乐科技教职全球每年个位数 | ❌ 估计 | 由论文产量倒推 |
