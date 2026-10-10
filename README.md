@@ -12,6 +12,7 @@
 | `decisions/phd-vs-work.md` | 核心决策：读 PhD 还是硕士毕业回国工作 |
 | `decisions/phd-candidates.md` | 博士候选实验室清单（中美 / 欧洲） |
 | `decisions/phd-readiness.md` | 博士申请准备度自评与申请组合 |
+| `decisions/salary-guangzhou.md` | 广州各类单位博士 / 博后薪资与补贴 |
 | `conversations/` | 每次对话的记录，文件名 `YYYY-MM-DD-主题.md` |
 | `timeline.md` | 关键时间节点（校招、投稿、毕业、认证） |
 | `sources.md` | 每条事实的来源和核实状态 |
