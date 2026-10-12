@@ -20,6 +20,7 @@
 | `decisions/events.md` | 会议与活动：去的规则、对口会议时间、年内唯一动作 |
 | `decisions/startups-in-field.md` | 本领域创业案例与规律 |
 | `decisions/gt-campus.md` | GT 校内活动与旁听规则 |
+| `decisions/gt-resources.md` | 最大化利用学校资源：框架、逐类、前十动作 |
 | `ideas/map.md` | 所有想法的唯一总览，按主线两半 + 成熟度分层 |
 | `ideas/inbox.md` | 想法收件箱（入口），新想法先进这里过五问 |
 | `conversations/` | 每次对话的记录，文件名 `YYYY-MM-DD-主题.md` |
