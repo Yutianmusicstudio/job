@@ -13,7 +13,7 @@
 
 - 感知侧：EEG 解码音乐想象；Shimon 观众 EEG 研究。
 - 行动侧：pianobot、钢琴机器人、机械臂、音乐表演 agent、钢琴可视化教育系统。
-- 主线之外（工具与收入，不写进研究材料）：coze / n8n、Upwork、ruiting app。
+- 主线之外（工具与收入，不写进研究材料）：coze / n8n、ruiting app。Upwork 在美期间不做（F-1 未授权就业风险，2026-10-12），回国或 OPT 后再说。
 - 冻结规则：到 2027 年夏，lab 外只保留一个项目（钢琴可视化教育系统或 pianobot，待定）。
 - 对外两套词（2026-10-10）：对 BCI / 神经组讲 neural decoding of auditory imagery；对音乐科技组讲 music cognition / robotic musicianship。
 

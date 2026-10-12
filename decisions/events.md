@@ -47,9 +47,10 @@
 ### GT 校内（免费，最该用）
 | 项目 | 内容 | 时间 | 状态 | 来源 |
 |---|---|---|---|---|
-| CREATE-X Startup Launch | 12 周暑期；$5k 种子 + 最高 $200k 实物服务；GT 学生可申 | 2026 届截止 03-17；2027 届入口已挂，截止未查到 | ✅ / ⚠️ | [官网](https://startuplaunch.gatech.edu/launch/startup-launch) |
-| Idea to Prototype（I2P） | 学期制、算学分、给原型经费 | 日期金额未查到 | ❌ | create-x.gatech.edu |
-| ATDC | GT 孵化器 | 未查 | ❌ | — |
+| CREATE-X Startup Launch | 12 周暑期；$5k 种子 + $150-200k 实物（法律、会计、IP）；明写面向硕博；未见"须留佐治亚"要求；F-1/CPT 未写，措辞"以实习形式创办公司"，需问 OIE | 2026 届截止 03-17；2027 届入口已挂，截止未查到 | ✅ / ⚠️ | [CREATE-X](https://create-x.gatech.edu/programs-overview) |
+| Idea to Prototype（I2P） | 每队每学期 $500 材料费；3 学分走本科研究课（2699/4699），可做两次；研究生可参加但不能注册该课，报销需至少一名队员注册 → 需一名本科生队友；全专业 | 2027 春截止未查到，去 i2p.gatech.edu | ✅ 规则 / ❌ 日期 | [FAQ](https://create-x.gatech.edu/idea-prototype-frequently-asked-questions) |
+| ATDC | Educate 会员对 GT 学生免费（找 CREATE-X 要码），是自学课程无资金；Accelerate 要求公司注册在佐治亚，回国不适用 | — | ✅ | [USG](https://www.usg.edu/innovation-and-entrepreneurial-strategies/resources/statewide-resources/) |
+| InVenture Prize | 仅本科生，不适用 | — | ✅ | [规则](https://inventureprize.gatech.edu/rules-eligibility) |
 
 **分岔**：Startup Launch 占 2027 暑假，与"留 lab 推 Shimon 论文 / 港科广访学"冲突，2027-03 前要选。建议用 I2P 在春季学期测创业意愿，不用暑假测。
 
@@ -65,7 +66,8 @@
 | 项目 | 内容 | 状态 | 来源 |
 |---|---|---|---|
 | 海交会（中国留学人员广州科技交流会） | 每年 12 月；2024 南沙，2025 与创交会同期；全国最大留学人员创业对接会 | ✅ 往年 / ❌ 2026 | [报道](https://www.chinanews.com/cj/2025/12-10/10530595.shtml) |
-| 南沙留学归国创业团队奖励 | 最高 100 万（2026-07 官员口述，办法原文未查到） | ⚠️ | [南沙](https://www.gz.gov.cn/zt/ljgaqngcwqwl/wlxd/content/post_10964351.html) |
+| 南沙留学归国创业团队奖励 | 最高 100 万，仅见 2026-07 欧美同学会双创大赛推介会上区领导表述，无文件名与申报条件；港澳青年办法是另一人群 → 状态"宣传口径，待办法" | ⚠️ 降级 | [金羊网](https://news.ycwb.com/ikimvkltkc/content_54218185.htm) |
+| 欧美同学会"双创"大赛 | 留学人员创新创业正式通道，2026 有生物医药赛区大湾区推介会在南沙 | ✅ | 同上 |
 | 南沙港澳青年创业落户补贴 | 最高 30 万（2025） | ⚠️ | 同上 |
 | 广州高校毕业生创业租金补贴 | 覆盖毕业 5 年内留学回国人员，金额未查到 | ⚠️ | — |
 | 春晖杯 | 教育部留服留学人员创新创业大赛，2026 届报名未查到 | ❌ | — |
@@ -73,6 +75,13 @@
 ### 哪个产品适合创业（本仓库看法）
 - 适合：捏握玩具乐器（硬件消费品，深圳供应链，解压 + 特殊教育两个市场，Skoog 证明有人买）；钢琴视觉化教育系统（教育消费品，广州钢琴教育市场最密，难点 GPU 成本和教学效果无证据）。
 - 不适合：perfagent（用户少、付费意愿低；作为开源研究项目价值远大于公司）。
+
+### 在美期间的钱（2026-10-12）
+- 校内 GRA / GTA：F-1 允许每周 20h；GT 音乐科技给少数硕士生，15-20h/周，学费减免 + 津贴。问 Weinberg。最大的一笔。
+- 暑期带薪 CPT 实习：合法，占暑假。
+- Upwork / coze 远程接单：多来源一致认为人在美国境内给境外客户做自由职业属未授权就业，不做（[f1jobs](https://www.f1jobs.io/resources/blog/freelancing-1099-on-f1-opt-h1b-visa-legality)、[MIT ISO](https://iso.mit.edu/?p=15)）。等 OPT 或回国。
+- 奖金：I2P $500、Startup Launch $5k、黑客松，小额。
+- 大钱在回国后的政策里，前提是回去时有能演示的产品和团队。
 
 ### 建议
 2027 春季报 I2P，拿捏握乐器或视觉系统做一学期；做完再定开公司还是读博。创业的会，等有能放桌上让人捏的东西再去。
