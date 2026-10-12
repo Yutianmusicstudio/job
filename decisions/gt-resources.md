@@ -14,32 +14,32 @@
 - James（博士生）：Shimon 操作权限。
 - VIP 本科生：I2P 队友、pet 劳力、"指导过学生"。✅
 - IRIM 讲者：2026-09-09 Shepherd 中心脊髓损伤研究主任 → 临床合作线索（MedRhythms 类）。⚠️ 线索
-- 校友：GT 音乐科技校友在 Dolby / Amazon / Netflix ✅；广深校友会 ⚠️。
+- 校友：GT 音乐科技校友在 Dolby / Amazon / Netflix ✅；广深校友会未查到 ❌，GT 深圳学院 2024 起停办。
 
 ### 钱
 - GRA / GTA（最大）；I2P $500 ✅；Startup Launch $5k ✅；Neuro Next 学生研究奖 ✅；Guthman 奖金。
-- 研究生会议差旅资助（学生会 / 学院）⚠️，为 HRI 2027 查。
+- 研究生会议差旅资助 ✅：SGA Conference Fund 每位全日制学生每财年一次，作为系 / 导师资助之外的补充；今秋已用掉 55%，45% 留给春季，春季开学再申（[SGA](https://www.sga.gatech.edu/6806-2)）。各学院另有：ECE 最高 $900、BME 研究生 $300、理学院 $500；设计学院 / 音乐学院的额度待问 Erin Jackson。
 
 ### 设备与场地
 - EEG：Chris 实验室 32 通道，PI 对 PI。
 - The Hive：PCB、焊台、台式仪器 ✅。Invention Studio 春季重开 ✅。
-- GPU：校级研究计算集群，导师申请 ⚠️ → 视觉系统实验阶段不自购 GPU。
+- GPU ✅：PACE Phoenix 集群由导师替学生申请，有免费层（[PACE](https://sites.gatech.edu/pacewww-dev/?p=449)）；ICE 集群只随课程开放。→ 让 Weinberg 申请 Phoenix，视觉系统实验阶段不自购 GPU。
 - 音乐学院琴房与真琴；marimba 演奏者与乐队（导师说"我们有"）。
 
 ### 课程与学分
 - 旁听每学期一门，不注册。✅ 规则见 gt-campus.md
 - 课程项目 = 项目进度：HRI / HCI 课的大作业做 Shimon LBR；神经课期末做 PeerJ 后续分析。最大时间杠杆。
-- 研究学分（special problems 类）⚠️：lab 工作计入学位。
-- 交流中心免费改英文论文 ⚠️：PeerJ 讨论部分投稿前过一遍。
+- 研究学分 ✅：MUSI 7100 研究实验室 12 学分，一年级后与导师定 Project 或 Thesis 轨；Thesis 轨另有 MUSI 7000 ×2（[目录](https://catalog.gatech.edu/programs/music-technology-ms)、2026 秋研究课大纲）。lab 工作就是学位本身。
+- 交流中心 ✅：Naugle CommLab，447 Clough，全校免费，半小时一对一，可帮组织论证和引用；期刊稿件是否专门支持未写明，邮件 wcc@gatech.edu 问（[CommLab](https://www.commlab.gatech.edu/)）。PeerJ 讨论部分投稿前过一遍。
 
 ### 证书与手续
 - IRB 经 GT，CITI 入口；CPT / OPT 经 OIE；港科广支持函 GT 出；图书馆数据集与文献趁有权限下载。
 
 ### 展示与曝光
-- Guthman（主场）；Listening Machines（历年 4 月，pet 上台三分钟，最便宜的公开 demo）；GT 新闻办报道学生机器人 ⚠️；CREATE-X 学期末展示；IRIM 学生环节。
+- Guthman（主场）；Listening Machines（历年 4 月，pet 上台三分钟，最便宜的公开 demo）；GT 新闻办报道学生机器人 ⚠️ 未查；CREATE-X 学期末展示；IRIM 学生环节。
 
 ### 跨校
-- 亚特兰大高校跨校选课 ⚠️（Emory 神经科学课）；Emory、Shepherd 为临床线潜在合作方。
+- 跨校选课 ✅：ARCHE，GT 研究生可申；课程须 GT 当学期不开；GT 本校至少 3 个计费学分；先 Phase I 注册再经 GT ARCHE 门户申请；Emory 截止秋季 7-15、春季 11-15，无暑期，免对方学费，每学期最多 2 门（[GT 注册办](https://registrar.gatech.edu/registration/cross-registration)、[Emory FAQ](https://registrar.emory.edu/registration/cross-registration/faq.html)）。**2027 春去 Emory 上神经科学课的截止是 2026-11-15。** Emory、Shepherd 为临床线潜在合作方。
 
 ### 服务
 - 学生心理咨询免费，用。职业中心对回国帮助小，跳过。
@@ -55,7 +55,11 @@
 8. 查会议差旅资助。
 9. 2027-04 Listening Machines 让 pet 上台。
 10. 趁有图书馆权限存数据集与文献。
+11. （新增）2026-11-15 前决定要不要经 ARCHE 去 Emory 上 2027 春的神经科学课。
 前五个一个月内可启动，均不与 PeerJ 冲突。
 
-## 待核实
-研究计算集群学生访问规则；会议差旅资助；交流中心论文服务；跨校选课协议；研究学分课号；GT 广深校友会。
+## 已核实（2026-10-12 第二轮，6 次检索）
+PACE Phoenix 导师申请 ✅；SGA 差旅 ✅；CommLab ✅；ARCHE 跨校 ✅（Emory 春季截止 11-15）；MUSI 7100 研究学分 ✅；广深校友会 ❌。
+
+## 仍待核实
+设计学院 / 音乐学院差旅额度；CommLab 是否接期刊稿；GT 新闻办流程。
