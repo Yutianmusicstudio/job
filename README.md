@@ -18,6 +18,7 @@
 | `decisions/priorities.md` | 项目优先级规则：两篇论文一个 demo 在飞 |
 | `decisions/idea-intake.md` | 想法入口规则：五问、就绪 / 某天 |
 | `decisions/events.md` | 会议与活动：去的规则、对口会议时间、年内唯一动作 |
+| `decisions/startups-in-field.md` | 本领域创业案例与规律 |
 | `ideas/map.md` | 所有想法的唯一总览，按主线两半 + 成熟度分层 |
 | `ideas/inbox.md` | 想法收件箱（入口），新想法先进这里过五问 |
 | `conversations/` | 每次对话的记录，文件名 `YYYY-MM-DD-主题.md` |
