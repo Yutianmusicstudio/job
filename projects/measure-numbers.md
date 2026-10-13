@@ -30,7 +30,11 @@ Mutopia 756 份 LilyPond 公有领域钢琴谱，矢量小节线零误差标注 
   - 为什么要看（对项目无用，对我有用）：推荐信只能写他亲眼见过的事，这是唯一"完成了"的证据；讲成"谱面结构的基础零件"（Shimon 读谱、四手联弹知道弹到哪、观众研究按小节对齐）就不跑题；换一封转发邮件拿真实用户。
   - 两个风险：显得分心（解法：顺序放最后）；他让我继续做（解法：预备一句"等 EEG 论文投出再回来"）。
 - 展示：产品 demo 行；研究 demo 不行（输给基线）；博士申请材料强（合成零误差标注、小模型 CPU、预注册评估、诚实报告）。与 pet 视频同列作品集。
-- 先例要引：Pacha & Kletz 谱表 / 小节检测（WoRMS）；TROMPA CNN measure detector。差异化：几 MB、CPU、1 秒 / 页、端到端编号含音乐规则。
+- 先例分两层（2026-10-13 核实）：
+  - 检测层有人做过：Kletz & Pacha（WoRMS 第三届，Detectron2 Faster R-CNN，MUSCIMA++ + AudioLabs v2，单类 mAP > 90%）；Edirom Measure Detector（扫描 → 带小节位置的 MEI，不编号）；AudioLabs 2019 半自动小节框工具；TROMPA 用过 CNN measure detector。BarlineNet 是这件事更小更快的做法，不是第一个。
+  - 编号层 + 产品没人做过：无上传即出编号 PDF 的服务；Audiveris 编号是完整 OMR 副产品；论坛建议 GIMP 手工贴。"计数问题"（弱起、房子、反复、乐章边界）无人单独定义评估。
+  - 准确说法：检测是前人的，编号和产品是我的，我的那层目前输 Audiveris 24 行。
+  - README 放四行对比表：Audiveris / Edirom / Kletz & Pacha / 本项目 × 做什么、给编号吗、速度依赖、准确率。
 - **许可证坑**：Audiveris 为 AGPL。assign_numbers 若含从 Audiveris 源码翻译 / 改写的逻辑，不能用 MIT；若只是读其输出格式且自写，MIT 可用。公开前必须查清。伪标签来源写致谢即可。
 - 下一步：GitHub 干净快照（一晚）、README 首屏写留出集数字与先例、找 5 个试用者，然后封档。不做 roadmap 的节奏识别（几个月，且回到 OMR 深水区）。
 - AI 披露：写。面试要能独立讲清：LilyPond 合成数据、BarlineNet 设计、评估协议。
