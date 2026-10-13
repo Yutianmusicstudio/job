@@ -16,6 +16,7 @@
 | 一 · 有截止 | robot pet | 真机已验证跟随 / 注视 / 归位；七步计划；终点是宠物交互感 | 2027-03 | 三分钟视频；作品路线 | projects/robot-pet.md |
 | 二 · 条件触发 | 钢琴视觉化教育系统（v0.0.7，儿童钢琴项目） | 系统已跑通；待 PI | 2026-10 约 Freeman / Weinberg | 有 PI → 进第一层；无 PI → demo + 作品集 | projects/piano-visual-education.md |
 | 二 · 条件触发 | 音乐表演分析 Agent（perfagent） | M0 已开工 | 2027-03 评估 | PeerJ 投出后补论文槽，先做研究 1（误差传播，无需被试） | projects/music-performance-agent.md |
+| 已封档 | 小节号自动标注（measure-numbers） | MVP 封档 2026-10-12，线上可用 | GitHub 干净快照后公开 | perfagent 看谱层零件 + 作品集条目；不续做 roadmap | projects/measure-numbers.md |
 | 三 · 排队 | 钢琴四手联弹机器人平台（终极 A） | 独立项目；待 pet 动作系统成型后评估复用 | 不定 | — | — |
 | 三 · 排队 | 终极 B 阶段二（EEG 参数驱动机器演奏） | 构想；挂在四手联弹之后 | 不定 | 一个参数、3 人 pilot | — |
 | 三 · 排队 | 音乐治疗线；pet 语音 | 构想 | 不定 | — | — |

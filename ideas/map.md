@@ -40,6 +40,7 @@
 | perfagent 音乐表演分析 Agent | 条件触发：PeerJ 投出后补论文槽 | 看谱、听演奏、比较、解释，每句绑小节号和数值；贡献来自评测基准与编造率 | 工具层 music21 / partitura / synctoolbox；ASAP | projects/music-performance-agent.md |
 | ├ 研究 1：对齐误差向音乐学结论的传播 | 就绪（无需被试） | — | — | 同上 |
 | └ 研究 2：Agent 与专家一致性、不可测维度编造率 | 排队（需专家标注 + IRB） | — | — | 同上 |
+| 小节号自动标注（measure-numbers） | 已封档，待开源 | 乐谱 PDF 自动编小节号，1 秒 / 页 CPU；留出集 258 vs Audiveris 282 | perfagent 看谱层零件；作品集 | projects/measure-numbers.md |
 
 ## 五、支撑
 机器学习入门教学；论文选题思路。不排时间。
