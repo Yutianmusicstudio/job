@@ -1,5 +1,7 @@
 # 各项目能不能做出来、做出来去哪（2026-10-19）
 
+> 姊妹篇：`project-targets.md`（做到哪算有用、对申请有什么用）。
+
 > 不新增事实；会议日期沿用 `decisions/events.md`（已核实的标 ✅，推断的标 ⚠️）。
 > "做出来"按每个项目自己的定义写，不统一要求论文。概率是我的估计，不是数据。
 
@@ -9,7 +11,7 @@
 |---|---|---|---|---|---|---|---|
 | PeerJ EEG 论文 | 投出 | 95%（数据、方法都有） | 2026-11 前投出；2027 春见刊 | 图和讨论没写完，纯时间 | PeerJ 主刊或 PeerJ CS + 投出当天公开仓库 | 审稿期间当预印本发套磁邮件 | Shamma、Trainor、华工 BCI 中心；BCI 研究院简历 |
 | Shimon 观众 EEG | 数据收完、一篇短文 | 60%（lab 任务，但慢） | IRB 2026-11；数据 2027 春；短文 2027-12 | IRB、被试、效应小 | HRI 2028 LBR（截止 2027-12 ⚠️） | ICMPC19 / SMPC 2027 海报 ⚠️；RO-MAN | Hoffman、Weinberg 推荐信的实质内容 |
-| robot pet | 三分钟视频 + 十人三问 | 75%（真机已验证，七步清楚） | 2027-03 | SO101 慢，表达力靠时机；被 Shimon 挤时间 | NIME 2027 demo / installation（截止 2027-01 底 ⚠️，视频可早交半成品） | TEI 2028 Arts / WIP；HRI 2028 video；GT Listening Machines | Hoffman、Bresin、Weinberg；具身智能岗位作品 |
+| robot pet | 三分钟视频 + 十人三问 | 75%（真机已验证，七步清楚） | 2027-03 | SO101 慢，表达力靠时机；被 Shimon 挤时间 | NIME 2027：2000 词短文 + 现场 demo，或 Music 轨装置（NIME 无独立 demo 轨 ✅；截止历年 2 月初 ⚠️） | TEI 2028 Arts / WIP；HRI 2028 video；GT Listening Machines | Hoffman、Bresin、Weinberg；具身智能岗位作品 |
 | perfagent 研究 1（误差传播） | 一篇论文 + 基准 v0 | 70%（工具数据全现成、不要被试） | 2027-06 投 | 范围膨胀；两数据集曲目不相交 | DLfM 2027（ISMIR 卫星会，伦敦 9 月）或 TENOR 2028 | Journal of New Music Research / Music & Science | 港科广 CMA、计算音乐学方向；DMA 用户 |
 | perfagent 整体（开源 Agent + 研究 2） | 可用 v0.1 + 编造率论文 | 40%（一年以上兼职、要专家标注） | 2027-12 以后 | 专家标注人力；"不做 MIR"对外表述 | GitHub 开源 + CMJ / ISMIR LBD | Startup Launch 2027 夏候选（若做产品面） | 创业备选 |
 | 钢琴视觉化教育系统 | 有 PI：儿童对照实验论文；无 PI：demo + 作品集 | 有 PI 50% / demo 90% | 会议 2026-11 决定；pilot 2027 春；论文 2027 秋 | 没 PI 就没有儿童实验；阴性；GPU | IDC 2027（西雅图 6 月，截止约 2027-01 ⚠️） | CHI 2027 LBW ⚠️；NIME 2027 demo；I2P / CREATE-X | Machover 组（音乐学习 + 健康干预）；Freeman |

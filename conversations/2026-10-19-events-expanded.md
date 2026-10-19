@@ -36,3 +36,9 @@ Claude：写成 `decisions/project-feasibility.md` 一页表，十一行（含�
 ## 第五轮：PeerJ 这么重要吗，论文没什么研究意义
 
 我问 Claude 看没看过那篇论文。Claude 从 Drive 读了 2026-06-29 版稿件和结果表（10 月新版没见过），结论：同意研究意义有限（听 vs 想象含声音混淆；只用 3 / 10 被试；主结论是跨被试 0.52 的边界），但验证设计规范；它的价值是"最完整资产"而非"最强资产"。投前必须：补全 10 人、处理混淆、改投 PeerJ CS（主刊范围不含社科 ✅）。可选加一组 EA / 黎曼对齐实验把阴性结果变成方法比较（2–4 周），顺便补 BCI 基本功。归档到 `projects/eeg-openmiir-paper.md`。
+
+---
+
+## 第六轮：每个项目做到哪算有用、对申请有什么用
+
+Claude 13 次检索后写 `decisions/project-targets.md`。要点：MuseAgent-1（2026-01）已做了"会看谱会听的 Agent"，perfagent 只剩评测两篇；Music Paint Machine 12 人九个月阴性，视觉系统要测过程指标 + 保持；Blossom 的评估是现场使用，pet 的作品路线成立；NIME 无独立 demo 轨；观众 EEG 无机器人 vs 人类先例，Shimon 空位真实；具身岗位要 ROS2 / C++ / 模仿学习，BCI 岗位要 EEG 论文那套技能，音频算法岗要 C++ / DSP，所有项目都不给 C++。

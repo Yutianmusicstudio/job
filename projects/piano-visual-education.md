@@ -46,3 +46,8 @@
 - 决定它命运的是一件便宜的事：约 Freeman 和 Weinberg 那次会。有 PI → 变成 lab 项目，进有截止的清单；没有 PI → 退为 demo + 作品集，不做实验。
 - 对博士申请：作为"有导师的进行中项目 + demo"已经够用；论文是加分不是必需。
 - 2026-10-10：音乐治疗第二研究线新增第二个物件候选"捏握玩具乐器"（见 ideas/inbox.md），与本项目同属 music-based intervention 线：一个做学习，一个做干预。
+
+## 2026-10-19 补：先例核实
+- Music Paint Machine（Nijs & Leman 2014，Computers & Education）：12 个一二年级孩子、九个月、6 vs 6、Gordon 音乐听想前后测，无显著差异 ✅。
+- Monash 2024 = ICCC 2024《Exploring Real-Time Music-to-Image Systems for Creative Inspiration in Music Creation》（Yang, Llano, McCormack），对象是成人音乐人 ✅。
+- 设计含义：测过程指标（表达探索）而非音乐能力；加撤画面后的保持测试。

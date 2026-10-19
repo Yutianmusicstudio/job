@@ -91,3 +91,18 @@
 | PeerJ 主刊范围：生物 / 环境 / 医学 / 健康；排除社会科学；只审方法可靠性不审新颖性 | [PeerJ aims and scope](https://www.peerj.com/about/aims-and-scope) | ✅（神经科学是否收本文：⚠️ 邮件问 editorial.support@peerj.com） |
 | 跨被试对齐方法：Euclidean Alignment、Riemannian re-centering | [arXiv 2401.10746](https://arxiv.org/html/2401.10746v4)、[IEEE Brain 综述](https://brain.ieee.org/newsletter/2020-issue-1/transfer-learning-for-brain-computer-interfaces-euclidean-alignment-and-label-alignment/) | ✅ |
 | 六月版稿件内容与结果 | Drive `manuscript_jop_submission_draft_rendered_QA.pdf`、`loso_metrics_summary.csv` 等 | ✅ 已读 |
+
+## 2026-10-19 · 项目目标与用处（13 次检索）
+| 事项 | 来源 | 状态 |
+|---|---|---|
+| MuseAgent-1 / MuseBench：LLM + OMR + AMT + 对齐，含表演层分析 | [arXiv 2601.11968](https://arxiv.org/abs/2601.11968v1) | ✅ |
+| PPA（EU 项目）、Jiang 2022 Sonic Visualiser 原型 | [CORDIS 101106400](https://cordis.europa.eu/project/id/101106400)、[DLfM 2022](https://dlfm.web.ox.ac.uk/files/jiang2022ai-assistedpdf) | ✅ |
+| Music Paint Machine 2014：N=12，九个月，无显著差异 | [Nijs & Leman 2014](https://orbilu.uni.lu/handle/10993/58713) | ✅ |
+| Monash 2024 = ICCC 2024 Yang/Llano/McCormack | [arXiv 2407.05584](https://arxiv.org/html/2407.05584v1) | ✅ |
+| Blossom THRI 2019 评估为现场使用 | [Cornell News](https://news.cornell.edu/node/311226)、[Ceramics.org](https://ceramics.org/ceramic-tech-today/video-knit-yourself-a-robot/) | ✅（论文全文未读）|
+| NIME 2026：无独立 demo 轨；论文 6000/4000/2000 词；Music 轨含装置；截止 2026-02-12 | [NIME 2026 第二轮征稿](https://forum.nime.org/t/nime-2026-second-call-for-contributions/1036)、[Camera-ready 页](https://nime.org/web_archive/2026/camera-ready/index.html) | ✅ |
+| 观众 EEG：无机器人 vs 人类演奏者研究；移动 EEG 同场 ≤23 人 | [NEUROLIVE](https://academy.ant-neuro.com/blog/showcases-1/the-neurolive-project-10)、[Rai 2022](https://musicinthebrain.au.dk/display/artikel/default-cd2c6bbcc4) | ✅（未找到 ≠ 不存在）|
+| 博士导师看什么：主导的项目、角色、挫折；发表有帮助非必需 | [Michigan Robotics](https://robotics.umich.edu/news/2024/what-are-specific-faculty-looking-for-in-phd-applications) | ✅ |
+| 具身智能岗位要求：Python/C++、ROS2、机械臂真机、模仿学习；广州岗位少 | [猎聘](https://www.liepin.com/a/79582863.shtml)、[牛企校招](https://campus.niuqizp.com/job-vYU5zaMML.html) | ✅ |
+| BCI 岗位要求：EEG 预处理、时频、Python/MATLAB、范式经验；RA 看论文 | [猎聘 医疗算法](https://www.liepin.com/a/79207705.shtml)、[复旦 RA](https://campus.niuqizp.com/job-vlU5tCttZ.html) | ✅（广州岗位未检到）|
+| 音频算法岗：DSP、C/C++、Python、ISMIR/ICASSP 论文优先 | [猎聘](https://www.liepin.com/job/1977528445.shtml)、[小红书校招](https://campus.niuqizp.com/job-vys5LtZNC.html) | ✅（酷狗 / 网易云广州岗未检到）|

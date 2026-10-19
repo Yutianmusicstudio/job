@@ -54,3 +54,7 @@ T1 读谱结构与和声；T2 描述一个演奏；T3 比较多个演奏；T4 �
 - 它与博士申请的关系：对神经线、具身线不直接加分；对港科广 CMA、MIT 新项目、Cambridge CMS 这类计算音乐学方向有用。
 - 优先级：排在 PeerJ、Shimon、四手联弹阶段一之后；每周时间上限建议 4 小时，直到 PeerJ 投出。
 - 已确认（2026-10-10）：Paper 1 = PeerJ，几天内投出；"儿童钢琴项目"= 钢琴视觉化教育系统。
+
+## 2026-10-19 补：新先例
+- MuseAgent-1（arXiv 2601.11968，2026-01）：大模型 + OMR + AMT + 谱音对齐，基准 MuseBench 含表演层分析 ✅。EU 项目 PPA（Performance Precision Annotator）、Jiang 2022（Sonic Visualiser 改造）。
+- 结论：Agent 本体已有人做，守得住的只剩研究 1（误差传播）和研究 2（编造率）。先做研究 1。
