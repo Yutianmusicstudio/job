@@ -36,5 +36,5 @@ Mutopia 756 份 LilyPond 公有领域钢琴谱，矢量小节线零误差标注 
   - 准确说法：检测是前人的，编号和产品是我的，我的那层目前输 Audiveris 24 行。
   - README 放四行对比表：Audiveris / Edirom / Kletz & Pacha / 本项目 × 做什么、给编号吗、速度依赖、准确率。
 - **许可证坑**：Audiveris 为 AGPL。assign_numbers 若含从 Audiveris 源码翻译 / 改写的逻辑，不能用 MIT；若只是读其输出格式且自写，MIT 可用。公开前必须查清。伪标签来源写致谢即可。
-- 下一步：GitHub 干净快照（一晚）、README 首屏写留出集数字与先例、找 5 个试用者，然后封档。不做 roadmap 的节奏识别（几个月，且回到 OMR 深水区）。
+- 下一步：GitHub 干净快照（一晚）、README 首屏写留出集数字与先例、找 5 个试用者；**2026-12-15 前投 TENOR 2027（根特，2027-04）短文 / demo**，材料 = README + 留出集评估 + 先例表（2026-10-19 加）。然后封档。不做 roadmap 的节奏识别（几个月，且回到 OMR 深水区）。
 - AI 披露：写。面试要能独立讲清：LilyPond 合成数据、BarlineNet 设计、评估协议。

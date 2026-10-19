@@ -1,4 +1,83 @@
-# 会议与活动（2026-10-12 核实）
+# 会议与活动（2026-10-19 扩大版，24 次检索；原 10-12 版保留在下方）
+
+## 去的规则
+只去三种：能展示一个东西；能见到名单上的导师本人；在亚特兰大不花钱。纯听报告的不去。
+
+## 音乐科技本职
+| 会 | 时间 / 地点 | 截止 | 投什么 | 状态 | 来源 |
+|---|---|---|---|---|---|
+| TENOR 2027（乐谱技术与表示） | 2027-04-20 至 23（另一页 21-23），根特 Orpheus 研究所 | **2026-12-15** | 小节号标注工具 + 留出集对比；顺访根特 IPEM（Leman） | ✅ | [官网](https://orpheusinstituut.be/en/events/tenor2027) |
+| NIME 2027 | 未公布；欧洲，5-7 月 | 历年 1 月底 | pet demo / 微分音机器人 | ⚠️ | [nime.org](https://nime.org)、[bid call](https://forum.nime.org/t/call-for-hosting-nime-2026-and-2027/594) |
+| ISMIR 2026 | 2026-11-08 至 12，阿布扎比，混合 | LBD 已过 | 线上看 | ✅ | [LBD](https://ismir2026.ismir.net/call-for-late-breaking-demo) |
+| ISMIR 2027 | 2027-09-12 至 16，伦敦 | 历年 4 月 / LBD 8 月 | perfagent 研究 1 的 LBD，仅当做出 | ⚠️ 列表站 | [beri](https://www.beri.net/events/ismir-2027) |
+| AIMC 2026 / 2027 | 2026-09-16 至 18 柏林已过；2027 未公布 | — | 视觉系统 / perfagent | ⚠️ | [SIM](https://www.simpk.de/aimc-2026.html) |
+| ICMC 2027 | 未公布（2026 汉堡 5 月） | — | — | ❌ | [ICMA](https://computermusic.org/) |
+| SMC 2026 / 2027 | 2026-11-02 至 07 萨格勒布；2027 未公布 | — | — | ✅ / ❌ | [SMC](https://smcnetwork.org/conf.html) |
+| WoRMS 2026 / 2027 | 2026-09-04 维也纳已过；2027 未公布 | — | 小节号标注 | ⚠️ | [WoRMS](https://sites.google.com/view/worms2026/) |
+| DLfM 2026 / 2027 | 2026-07-02 塞萨洛尼基已过；2027 未公布 | — | perfagent 研究 1 | ⚠️ | [DLfM](https://dlfm.web.ox.ac.uk/) |
+| DAFx 2027 | 2027-08-24 至 27，克雷莫纳 | 约 4 月 | 不对口 | ✅ | [官网](https://dafx27.deib.polimi.it/) |
+| EvoMUSART 2027 | 2027-03-31 至 04-02 | 2026-11-01 | 跳过 | ✅ | — |
+| ICLC 2027（live coding） | 2027-03-09 至 13，安特卫普 | — | 跳过 | ✅ | — |
+| ADC 2026（音频开发者大会） | 2026-11-09 至 11，布里斯托 + 线上 | — | 买线上票；perfagent / 小节号的用户圈 | ✅ | [票务](https://ti.to/audio-developer-conference/adc-bristol-2026) |
+| AES Europe 2027 | 2027-04-29 至 05-01，阿姆斯特丹 | — | 跳过 | ⚠️ 列表站 | — |
+| Audio Mostly 2026、WAC 2027 | 未查到 | — | — | ❌ | — |
+
+## 周边但更对口
+| 会 | 时间 / 地点 | 截止 | 对哪个项目 | 状态 | 来源 |
+|---|---|---|---|---|---|
+| TEI 2027（有形 / 具身交互） | 2027-01-24 至 27，里斯本 | 正文 07-31 已过；WIP / 学生设计挑战赛未查到（历年 10-11 月） | pet、捏握乐器 | ✅ 日期 | [官网](https://tei.acm.org/) |
+| HRI 2027 | 2027-03-08 至 12，圣克拉拉 | LBR 约 12 月上旬（推断） | Shimon | ⚠️ | [CFP](https://groups.google.com/g/uai-list/c/RR2pHxFfPQk) |
+| IDC 2027（儿童交互设计） | 约 2027-06-21，西雅图 | 历年 1 月 | 视觉系统（有 PI 时） | ⚠️ 单一来源 | — |
+| CHI 2027 | 2027-05-10 至 14，匹兹堡 | 正文 09-10 已过；LBW 历年 1 月 | 视觉系统 | ✅ | [SIGCHI](https://sigchi.org/events/chi-2027/) |
+| MOCO 2027 | 未公布（2026 蒙彼利埃 4 月） | — | pet 动作设计 | ⚠️ | — |
+| ICASSP 2027 | 2027-05-16 至 21，多伦多 | 已过 | 跳过 | ✅ | — |
+| RO-MAN 2027 | 未公布 | — | 备选 | ❌ | — |
+
+## 神经线
+SfN 2026 11-14 至 18 华盛顿（无海报不去）；ICMPC 19（2027，未公布；18 届 2025 圣保罗）；SMPC 2027、BCI Society 2027 未公布。
+
+## 展会 / 艺术节（有实物再去）
+| 活动 | 时间 / 地点 | 状态 | 来源 |
+|---|---|---|---|
+| Superbooth 2027 | 2027-05-06 至 08，柏林 | ✅ | [Synthtopia](https://www.synthtopia.com/?p=154183) |
+| NAMM 2027 | 2027-01-28 至 30，安纳海姆 | ⚠️ 聚合站 | [ExpoBeds](https://www.expobeds.com/events/anaheim-us/entertainment) |
+| Ars Electronica 2027 | 2027-09-08 至 12，林茨；Prix Ars 数字音乐类截止历年 3 月（未核实） | ⚠️ | [news.at](https://www.news.at/technik/ruckkehr-der-ars-in-die-linzer-city-bescherte-rekord-an-besuchen) |
+| Music Tectonics 2026 | 2026-10-27 至 29，圣莫尼卡 | ✅ | — |
+| ISEA 2027、Sónar+D 2027 | 未查到 | ❌ | — |
+
+## 国内
+| 活动 | 时间 | 状态 | 来源 |
+|---|---|---|---|
+| 中央音乐学院 10·15 艺术节 | 2026-10-15 至 11-15；世界音乐人工智能大会 2023 曾在其中，2026 未查到 | ⚠️ | [新京报](https://www.bjnews.com.cn/detail/1790728406189995.html) |
+| MUSICACOUSTICA-Hangzhou 2026（浙音） | 2026-09-22 至 27 已过；北京届 2026 未查到 | ⚠️ | [公告](https://groups.google.com/g/cec-conference/c/LhEKJl1jLwQ) |
+| 上海国际电子音乐周、CSMT 2026 | 未查到 | ❌ | — |
+| 全国脑机接口大会 / 世界机器人大会 | 见下方 10-12 版 | — | — |
+
+## 十二个月日历（2026-11 至 2027-10）
+| 月 | 事 | 动作 |
+|---|---|---|
+| 2026-11 | ADC 线上 9-11；ISMIR 线上 8-12；ARCHE 15 截止 | 买 ADC 线上票 |
+| 2026-12 | HRI LBR 上旬；TENOR 15 日 | 投两篇短文 |
+| 2027-01 | TEI 里斯本 24-27；NIME 截止月底；NAMM 28-30 | 投 NIME demo |
+| 2027-03 | HRI 圣克拉拉 8-12；Guthman 决赛；ICLC | 中了就去见 Hoffman |
+| 2027-04 | Listening Machines；TENOR 根特 20-23；AES 阿姆斯特丹 | pet 上台；去根特顺访 IPEM |
+| 2027-05 | Superbooth 6-8；CHI 10-14；ICASSP 16-21 | 按需 |
+| 2027-06 | NIME（欧洲待定）；IDC 西雅图 | 按录取 |
+| 2027-08 | DAFx；世界机器人大会 | 按需 |
+| 2027-09 | ISMIR 伦敦 12-16；Ars Electronica 8-12；MUSICACOUSTICA 杭州 | 按情况 |
+| 2027-10 | 中央音乐学院 10·15 艺术节 | 回国线 |
+
+## 两个月内要动手的三件
+1. ADC 2026 线上票。
+2. 12 月上旬 HRI 2027 LBR（Shimon 或 pet）。
+3. 12 月 15 日 TENOR 2027（小节号工具：README + 留出集评估，3-4 页，材料全有）。
+
+## 仍未公布 / 未查到
+NIME 2027、ICMC 2027、SMC 2027、AIMC 2027、WoRMS 2027、DLfM 2027、MOCO 2027、RO-MAN 2027、ICMPC 19、SMPC 2027、BCI Society 2027、TEI 2027 WIP 截止、HRI 2027 LBR 官方截止、Audio Mostly 2026、WAC 2027、ISEA 2027、Sónar+D 2027、上海电子音乐周 2026、CSMT 2026、MUSICACOUSTICA-Beijing 2026、Guthman 2027 届投稿窗口。
+
+---
+
+# （2026-10-12 版，保留）会议与活动
 
 ## 去的规则
 只去三种：能展示一个东西（海报、视频、demo）；能见到名单上的导师本人；在亚特兰大不花钱。纯听报告的不去。

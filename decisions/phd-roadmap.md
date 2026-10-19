@@ -22,7 +22,7 @@
 
 | 阶段 | 任务 | 产出 |
 |---|---|---|
-| 2026-10 至 12 | PeerJ 投出；CITI 认证；Shimon protocol 合一；邮件 natcs@gatech.edu；问 Weinberg GRA / GTA 名额与 PACE Phoenix 申请；问 OIE Startup Launch 能否走 CPT；11-15 前定是否 ARCHE 去 Emory 上春季神经课；EEG pipeline 用 MNE 整理成公开 repo；查托福有效期；12 月前投 HRI 2027 late-breaking report（见 events.md） | 论文在审；repo 公开；LBR 投出 |
+| 2026-10 至 12 | PeerJ 投出；CITI 认证；Shimon protocol 合一；邮件 natcs@gatech.edu；问 Weinberg GRA / GTA 名额与 PACE Phoenix 申请；问 OIE Startup Launch 能否走 CPT；11-15 前定是否 ARCHE 去 Emory 上春季神经课；EEG pipeline 用 MNE 整理成公开 repo；查托福有效期；12 月上旬投 HRI 2027 LBR；12-15 投 TENOR 2027（小节号工具）；买 ADC 2026 线上票（见 events.md） | 论文在审；repo 公开；LBR 投出 |
 | 2027-01 至 03 | NIME 2027 投短文（pianobot 或 EEG）；Shimon 收数据；03-31 前与 Weinberg 谈名额和资助；03-15 前给 6 位导师发第一封邮件（神经 3、具身 3），附论文 + 一页作品集 | 导师回信；Gate A |
 | 2027-04 至 06 | 暑假决定：Weinberg 点头 → 留 lab 推 Shimon 论文；未点头 → 华南理工或港科广访学一个暑假（细则见第七节） | Shimon 初步数据；Gate B |
 | 2027-07 至 09 | SoP 一底稿两变体（神经版 / 具身版）；CV；作品集定稿；09-15 前约 3-4 封推荐信（Weinberg + 课程老师 + 合作者）；托福过期重考；HKPFS 09-01 开放 | 材料齐；Gate C |
