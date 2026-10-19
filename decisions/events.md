@@ -25,7 +25,7 @@
 ## 周边但更对口
 | 会 | 时间 / 地点 | 截止 | 对哪个项目 | 状态 | 来源 |
 |---|---|---|---|---|---|
-| TEI 2027（有形 / 具身交互） | 2027-01-24 至 27，里斯本 | 正文 07-31 已过；WIP / 学生设计挑战赛未查到（历年 10-11 月） | pet、捏握乐器 | ✅ 日期 | [官网](https://tei.acm.org/) |
+| TEI 2027（有形 / 具身交互） | 2027-01-24 至 27，里斯本 | 正文已过；第二轮（组织者 LinkedIn，年份与时区未标，需在 tei.acm.org/2027 核对）：**Work in Progress 10-26、Arts & Performances 10-26、Graduate Student Consortium 10-30、Studios 11-02、Student Design Competition 11-09** | pet（WIP）、捏握乐器（Student Design Competition） | ⚠️ 截止来自非官方 | [官网](https://tei.acm.org/)、[2026 SDC 参考](https://tei.acm.org/2026/participate/student-design-challenge/) |
 | HRI 2027 | 2027-03-08 至 12，圣克拉拉 | LBR 约 12 月上旬（推断） | Shimon | ⚠️ | [CFP](https://groups.google.com/g/uai-list/c/RR2pHxFfPQk) |
 | IDC 2027（儿童交互设计） | 约 2027-06-21，西雅图 | 历年 1 月 | 视觉系统（有 PI 时） | ⚠️ 单一来源 | — |
 | CHI 2027 | 2027-05-10 至 14，匹兹堡 | 正文 09-10 已过；LBW 历年 1 月 | 视觉系统 | ✅ | [SIGCHI](https://sigchi.org/events/chi-2027/) |
@@ -41,7 +41,7 @@ SfN 2026 11-14 至 18 华盛顿（无海报不去）；ICMPC 19（2027，未公�
 |---|---|---|---|
 | Superbooth 2027 | 2027-05-06 至 08，柏林 | ✅ | [Synthtopia](https://www.synthtopia.com/?p=154183) |
 | NAMM 2027 | 2027-01-28 至 30，安纳海姆 | ⚠️ 聚合站 | [ExpoBeds](https://www.expobeds.com/events/anaheim-us/entertainment) |
-| Ars Electronica 2027 | 2027-09-08 至 12，林茨；Prix Ars 数字音乐类截止历年 3 月（未核实） | ⚠️ | [news.at](https://www.news.at/technik/ruckkehr-der-ars-in-die-linzer-city-bescherte-rekord-an-besuchen) |
+| Ars Electronica 2027 | 2027-09-08 至 12，林茨；Prix Ars 截止历年 3 月初（2026 为 03-04），Digital Musics & Sound Art 类别并非每年都设 | ⚠️ | [news.at](https://www.news.at/technik/ruckkehr-der-ars-in-die-linzer-city-bescherte-rekord-an-besuchen) |
 | Music Tectonics 2026 | 2026-10-27 至 29，圣莫尼卡 | ✅ | — |
 | ISEA 2027、Sónar+D 2027 | 未查到 | ❌ | — |
 
@@ -67,7 +67,8 @@ SfN 2026 11-14 至 18 华盛顿（无海报不去）；ICMPC 19（2027，未公�
 | 2027-09 | ISMIR 伦敦 12-16；Ars Electronica 8-12；MUSICACOUSTICA 杭州 | 按情况 |
 | 2027-10 | 中央音乐学院 10·15 艺术节 | 回国线 |
 
-## 两个月内要动手的三件
+## 两个月内要动手的三件（+ 一个一周内的选择）
+0. **一周内的选择**：TEI 2027 WIP 10-26 / Student Design Competition 11-09（非官方日期）。pet 用真机已验证的跟随与注视写 4 页 WIP 可行，但会挤占 PeerJ 一周；捏握乐器只有概念，投 SDC 要先有草图和交互说明。规则：PeerJ 未投出前不开新写作，除非 PeerJ 本周能投出。决定权在我。
 1. ADC 2026 线上票。
 2. 12 月上旬 HRI 2027 LBR（Shimon 或 pet）。
 3. 12 月 15 日 TENOR 2027（小节号工具：README + 留出集评估，3-4 页，材料全有）。

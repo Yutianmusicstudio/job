@@ -9,3 +9,6 @@
 - 展会：Superbooth 5 月、NAMM 1 月、Ars Electronica 9 月，有实物再去。
 - 国内：央音 10·15 艺术节 10-11 月；MUSICACOUSTICA 2026 在杭州已过。
 - 两个月内三件事：ADC 线上票、HRI LBR、TENOR。路线与小节号档案同步。
+
+
+补查（3 次检索）：TEI 2027 第二轮截止（组织者 LinkedIn）WIP 10-26、Arts 10-26、GSC 10-30、Studios 11-02、SDC 11-09，需官网核对；HRI 2027 LBR 官方日期仍未发；Prix Ars 截止历年 3 月初，数字音乐类别不固定。TEI 一周内的选择写入 events.md，规则：PeerJ 未投出前不开新写作。
