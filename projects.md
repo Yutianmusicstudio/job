@@ -11,7 +11,7 @@
 
 | 层 | 项目（侧栏名） | 状态 | 公开日期 | 交付物 | 档案 |
 |---|---|---|---|---|---|
-| 一 · 有截止 | eeg 论文建档发布（PeerJ，Paper 1） | 方法、图、讨论收尾，几天内投出 | 2026-10 | 投稿 + 公开 pipeline 仓库（MNE） | — |
+| 一 · 有截止 | eeg 论文建档发布（PeerJ，Paper 1） | 六月版只有 3 / 10 被试，跨被试 0.52；投前须补全被试、处理声音混淆、改投 PeerJ CS；可选加对齐实验 | 2026-11 最低限度 / 2026-12 含对齐 | 投稿 + 公开 pipeline 仓库（MNE） | projects/eeg-openmiir-paper.md |
 | 一 · 有截止 | eeg-robotic-human（Shimon 观众 EEG 研究） | 定方向；我领 IRB 和写作 | IRB 2026-11；数据 2027 春 | 合一 protocol；HRI 2028 late-breaking | — |
 | 一 · 有截止 | robot pet | 真机已验证跟随 / 注视 / 归位；七步计划；终点是宠物交互感 | 2027-03 | 三分钟视频；作品路线 | projects/robot-pet.md |
 | 二 · 条件触发 | 钢琴视觉化教育系统（v0.0.7，儿童钢琴项目） | 系统已跑通；待 PI | 2026-10 约 Freeman / Weinberg | 有 PI → 进第一层；无 PI → demo + 作品集 | projects/piano-visual-education.md |
@@ -29,7 +29,7 @@
 PeerJ 6h → 投出后转给 pet；Shimon 8h；pet 6h → 12h；perfagent ≤4h；视觉系统只做约会和真琴记录。
 
 ## 对每个项目的看法（2026-10-10）
-- PeerJ：最强资产；投出当天公开仓库。
+- PeerJ：最完整资产（不是最强）；研究意义有限但验证规范，价值在闭环。投出当天公开仓库。2026-10-19 读过六月版后的评估见 projects/eeg-openmiir-paper.md。
 - Shimon：问题好、框架对、角色对；风险是慢。IRB 与被试流程复用到视觉系统。
 - pet：七步切分最好；终点是宠物交互感，作品路线。动作设计八条见档案。
 - perfagent：概念最完整、最诚实；守得住的是评测基准和编造率测量，不是"做了个 agent"。与"不做 MIR"张力可控。

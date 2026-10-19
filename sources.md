@@ -83,3 +83,11 @@
 | Weinberg & Gan《The Squeezables》CMJ 25(2) 2001；Gan 硕士论文；Embroidered Musical Ball；2000 Ars Electronica 首演 | ✅ | [CMJ](https://labs.sonicfield.org/library/the-squeezables-toward-an-expressive-and-interdependent-multi-player-musical-ins)、[DSpace](https://dspace.mit.edu/handle/1721.1/61103)、[Media Lab](https://www.media.mit.edu/publications/the-embroidered-musical-ball-a-squeezable-instrument-for-expressive-performance-2) |
 | Skoog：爱丁堡大学出，可捏方块，面向自闭症 / SEN，治疗轮流玩；证据为厂商与个案；一版本停产 | ✅ 厂商口径 | [autism.org.uk](https://autism.org.uk/autism-services-directory/s/skoog)、[REF 案例](https://impact.ref.ac.uk/casestudies/CaseStudy.aspx?Id=24039) |
 | 自闭症儿童可捏乐器的同行评审效果研究 | ❌ 未搜 NIME / 音乐治疗期刊 | — |
+
+## 2026-10-19 · EEG 论文评估（3 次检索）
+| 事项 | 来源 | 状态 |
+|---|---|---|
+| OpenMIIR 10 名被试、12 段音乐、听 + 想象 | [Stober et al. ISMIR 2015](https://www.ismir2015.uma.es/articles/224_Paper.pdf)、[Stober 2017 Frontiers](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5541010/) | ✅ |
+| PeerJ 主刊范围：生物 / 环境 / 医学 / 健康；排除社会科学；只审方法可靠性不审新颖性 | [PeerJ aims and scope](https://www.peerj.com/about/aims-and-scope) | ✅（神经科学是否收本文：⚠️ 邮件问 editorial.support@peerj.com） |
+| 跨被试对齐方法：Euclidean Alignment、Riemannian re-centering | [arXiv 2401.10746](https://arxiv.org/html/2401.10746v4)、[IEEE Brain 综述](https://brain.ieee.org/newsletter/2020-issue-1/transfer-learning-for-brain-computer-interfaces-euclidean-alignment-and-label-alignment/) | ✅ |
+| 六月版稿件内容与结果 | Drive `manuscript_jop_submission_draft_rendered_QA.pdf`、`loso_metrics_summary.csv` 等 | ✅ 已读 |
