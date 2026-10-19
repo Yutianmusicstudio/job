@@ -22,6 +22,9 @@
 | 三 · 排队 | 音乐治疗线；pet 语音 | 构想 | 不定 | — | — |
 | 支撑 | 机器学习入门教学；论文选题思路 | — | — | — | — |
 
+## 能不能做出来、做出来去哪
+见 `decisions/project-feasibility.md`（2026-10-19）：2027-03 前真正能完成的只有 PeerJ、measure-numbers（已完成）、pet 视频；每个项目的第一去处、第二去处、给谁看列在一页表里。
+
 ## 每周时间（到 PeerJ 投出）
 PeerJ 6h → 投出后转给 pet；Shimon 8h；pet 6h → 12h；perfagent ≤4h；视觉系统只做约会和真琴记录。
 
