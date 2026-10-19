@@ -106,3 +106,5 @@
 | 具身智能岗位要求：Python/C++、ROS2、机械臂真机、模仿学习；广州岗位少 | [猎聘](https://www.liepin.com/a/79582863.shtml)、[牛企校招](https://campus.niuqizp.com/job-vYU5zaMML.html) | ✅ |
 | BCI 岗位要求：EEG 预处理、时频、Python/MATLAB、范式经验；RA 看论文 | [猎聘 医疗算法](https://www.liepin.com/a/79207705.shtml)、[复旦 RA](https://campus.niuqizp.com/job-vlU5tCttZ.html) | ✅（广州岗位未检到）|
 | 音频算法岗：DSP、C/C++、Python、ISMIR/ICASSP 论文优先 | [猎聘](https://www.liepin.com/job/1977528445.shtml)、[小红书校招](https://campus.niuqizp.com/job-vys5LtZNC.html) | ✅（酷狗 / 网易云广州岗未检到）|
+| TENOR 2027：根特，Orpheus Instituut，五类投稿统一截止 2026-12-15，通知 2027-02-17 | [Orpheus Instituut](https://orpheusinstituut.be/en/news/tenor2027) | ✅ |
+| TENOR 类别规则：论文 4–12 页双盲；海报 2 页扩展摘要轻评审；demo | [TENOR 2024 征稿](https://www.zhdk.ch/forschung/icst/tenor24/call-for-contributions-20264) | ✅（2024 规则，2027 待发 ⚠️）|
