@@ -49,3 +49,9 @@ Claude：这是目前最准的自我定位，写入 profile.md 和 `decisions/th
 ## 第八轮：看就业的话 MIR 和 Claire 的 EEG 更适合我，完蛋了
 
 Claude：不完蛋，问题和工具分开。交互实验室给问题和场子，雇主买工具。MIR 不读博士但拿工具；perfagent 感知层就是 MIR 工具链。Claire Arthur 2026-05 拿 Neuroarts 奖做 EEG 音乐想象，与 OpenMIIR 论文同题 ✅。结论：不换实验室，加一个人，Claire 做合作导师 / 委员会。本周邮件约见，附六月稿和补全计划。写入 three-domains.md 五、候选表、roadmap。
+
+---
+
+## 第九轮：技术上在 GT 怎么学
+
+Claude（8 次检索）：写 `decisions/gt-learning-plan.md`。工具 → 渠道：EEG（MUSI 6001、BMED 7610、Claire 的 MUSI 6204）、音频 ML（MUSI 6202 / 6201、CS 7641 → 7643）、HRI（CS 7633）、ROS2（GTRI 机器人 GRA，2027 春岗已挂）、C++（7643 作业 + 固定时段）。三门工具课都在秋季，2027 秋最重，2027 春做 ML 先修 + GRA。本周三封邮件：Claire、Chernova、GTRI。

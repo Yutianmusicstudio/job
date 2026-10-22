@@ -145,3 +145,16 @@
 | 华为 Human-Machine Interaction Lab 招 HCI researcher：看作品集、论文、专利、上线产品；联想 HCI 研究岗要 3 年经验 | [华为加拿大招聘](https://huaweicanada.recruitee.com/o/researcher-human-computer-interaction)、[联想](https://jobs.lenovo.com/en_US/careers/JobDetail/Advisory-Researcher-HCI/66935) | ✅（腾讯 / 字节 HCI 岗未检到 ⚠️）|
 | Claire Arthur：GT 音乐学院副教授、CCML；2026-05 Renée Fleming Neuroarts 奖，EEG 音乐想象课题 | [GT Neuro](https://neuro.gatech.edu/node/2855)、[GT Music](https://music.gatech.edu/feature/arthur-and-smith-map-imagined-sound-neuroarts)、[主页](https://music.gatech.edu/claire-arthur) | ✅ |
 | GT Brain Music Lab（EEG + 新音乐技术） | [brainmusiclab.gatech.edu](https://brainmusiclab.gatech.edu/home) | ⚠️ 负责人未核 |
+
+## 2026-10-22 · GT 怎么学（8 次检索）
+| 事项 | 来源 | 状态 |
+|---|---|---|
+| MS Music Tech：核心 MUSI 6001 / 6003 / 6202；MUSI 6201 为选修；MUSI 7100 四次注册；项目轨 48 学分 | [GT Catalog](https://catalog.gatech.edu/programs/music-technology-ms)、[MUSI 7100 大纲](https://syllabus.gatech.edu/sites/default/files/2026-03/musi-7100.pdf) | ✅ |
+| CS 7643 深度学习：先修 CS 7641 / ISYE 6740 / CSE 6740；作业 Python、C++、PyTorch | [Fall 2026 大纲](https://syllabus.gatech.edu/sites/default/files/2026-04/Fall-2026-85116-Xu-CS-7643-A.pdf)、[课程页](https://sites.cc.gatech.edu/classes/AY2018/cs7643_fall) | ✅ |
+| CS 7633 HRI：Chernova，2026 秋，统计方法 + 研究项目工作室 | [Fall 2026 大纲](https://syllabus.gatech.edu/sites/default/files/2026-03/CS7633_Chernova_Sonia.pdf) | ✅ |
+| BMED 7610 计算神经科学：Stanley，2026 秋，周二四 12:30 | [Fall 2026 大纲](https://syllabus.gatech.edu/sites/default/files/2026-04/BMED7610_Syllabus_Fall2026.pdf) | ✅ |
+| BMED 6791 转化神经工程、BMED 7601 研讨 | [神经科学辅修课程页](https://neuroscience.cos.gatech.edu/minor-elective-courses) | ✅（学期 ⚠️）|
+| Claire Arthur 2026 秋授 MUSI 6204 计算音乐分析、MUSI 7100 等 | [syllabus.gatech.edu](https://syllabus.gatech.edu/node/22679) | ✅ |
+| Lerch 的 MUSI 7100 分节要求信号与系统 + 机器学习 | [Fall 2026 大纲](https://syllabus.gatech.edu/sites/default/files/2026-03/syllabus_9.pdf) | ✅ |
+| GTRI 机器人 GRA：2027 春岗已挂，GT 在读硕博、GPA ≥3.0、ROS/ROS2 优先 | [GTRI careers](https://careers.gtri.gatech.edu/jobs/robotics-graduate-research-assistant-spring-2027-atas-atlanta-georgia-united-states) | ✅ |
+| Neural Engineering Center / CNTP T32 | [NEC 通讯](https://nec.gatech.edu/sites/default/files/2025-07/Summer_2025-Hemispheres_Newsletter.pdf) | ✅ |
