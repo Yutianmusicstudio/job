@@ -158,3 +158,9 @@
 | Lerch 的 MUSI 7100 分节要求信号与系统 + 机器学习 | [Fall 2026 大纲](https://syllabus.gatech.edu/sites/default/files/2026-03/syllabus_9.pdf) | ✅ |
 | GTRI 机器人 GRA：2027 春岗已挂，GT 在读硕博、GPA ≥3.0、ROS/ROS2 优先 | [GTRI careers](https://careers.gtri.gatech.edu/jobs/robotics-graduate-research-assistant-spring-2027-atas-atlanta-georgia-united-states) | ✅ |
 | Neural Engineering Center / CNTP T32 | [NEC 通讯](https://nec.gatech.edu/sites/default/files/2025-07/Summer_2025-Hemispheres_Newsletter.pdf) | ✅ |
+| 港科广博士英语要求：本科或硕士英语授课免；可先申后补 | [FYTGS GZ 入学要求](https://fytgs.hkust-gz.edu.cn/admissions/before-submitting-an-application/admission-requirements)、[FAQ](https://fytgs.hkust-gz.edu.cn/faq) | ✅ |
+| 科大清水湾 FYTGS：本科英语授课免（硕士未写） | [FYTGS HK](https://fytgs.hkust.edu.hk/admissions/Admission-to-Hong-Kong-Campus/submitting-an-application/admission-requirements) | ✅（硕士 ⚠️）|
+| 中大：英语授课学位满足要求；托福 79 / 雅思 6.5，两年有效 | [CUHK HKPFS 宣讲稿](https://www.gs.cuhk.edu.hk/download/HKPFS_Promotional_PowerPoint.pdf) | ✅（较旧）|
+| 港大工程学院：非英语授课学位须达标，豁免个案审批 G2(b) | [HKU Engg](https://engg.hku.hk/Admissions/MSc/Admission-Requirement) | ✅（研究型 ⚠️）|
+| 上海电力大学 2026：英语国家学位 + 留服认证可免英语 | [简章](https://yjsc.shiep.edu.cn/_upload/article/files/91/a0/61f09b2247e8b2e8c4366cb518d2/4130b371-3a76-4960-9964-d1a7a4642a58.pdf) | ✅ |
+| 华东理工：英语国家全日制学习一年以上列为免试情形 | [细则](https://gschool.ecust.edu.cn/_upload/article/files/ee/95/8ee5b4724e98b2614065215b4a70/363cc840-0353-4f77-b180-6d645c81e073.pdf) | ✅ |
