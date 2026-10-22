@@ -55,3 +55,10 @@ Claude：不完蛋，问题和工具分开。交互实验室给问题和场子�
 ## 第九轮：技术上在 GT 怎么学
 
 Claude（8 次检索）：写 `decisions/gt-learning-plan.md`。工具 → 渠道：EEG（MUSI 6001、BMED 7610、Claire 的 MUSI 6204）、音频 ML（MUSI 6202 / 6201、CS 7641 → 7643）、HRI（CS 7633）、ROS2（GTRI 机器人 GRA，2027 春岗已挂）、C++（7643 作业 + 固定时段）。三门工具课都在秋季，2027 秋最重，2027 春做 ML 先修 + GRA。本周三封邮件：Claire、Chernova、GTRI。
+
+---
+
+## 第十轮：整理需求开新讨论组
+
+我说：先考虑香港和国内博士，美国欧洲错位同步申请；我现在是 GT MT 硕士第一学期。
+Claude：写 `briefs/2026-10-22-new-thread-brief.md`（身份、目标、新优先级、项目状态、已定规则、技能课程、新讨论要解决的六个问题、待核实）。phd-geography.md 追加第七节记录优先级变化。
