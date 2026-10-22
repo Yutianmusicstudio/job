@@ -130,3 +130,13 @@
 | Rosa Chan：城大电机，BCI，接收博士生 | [CityU Scholars](https://scholars.cityu.edu.hk/en/persons/rosachan/) | ✅ |
 | Raymond Tong：中大生医工程，EEG BCI 康复 | [CUHK BME 存档](https://webarchive.lib.cuhk.edu.hk/20240123091647mp_/http://www.bme.cuhk.edu.hk/kytong/researchteam) | ✅（2024 存档）|
 | Xiaojuan Ma：科大 CSE 副教授，HRI / 社交机器人，博士导师 Perry Cook | [HKUST 主页](https://cse.hkust.edu.hk/~mxj/about.html)、[CV](https://cse.hkust.edu.hk/~mxj/cv.html) | ✅ |
+
+## 2026-10-22 · 欧洲怎么投（5 次检索）
+| 事项 | 来源 | 状态 |
+|---|---|---|
+| 欧洲博士申请通用材料：学位证、CV、研究提纲、动机信、推荐人；先找导师 | [European Education Area](https://education.ec.europa.eu/news/how-to-apply-for-doctoral-studies-in-europe) | ✅ |
+| SDU：求职信、CV、成绩、5 页项目描述、250 词摘要、发表 ≤2 | [SDU](https://www.sdu.dk/en/om-sdu/institutter-centre/juridisk-institut/phd/saadan-soeger-du-ph,-d-,d,-d-,-uddannelsen) | ✅ |
+| RITMO 博士岗：研究提纲（问题 + 方法）、SKO 1017、jobbnorge | [forskning.no 历年广告](https://stilling.forskning.no/job-ads-jobads-oslo/doctoral-research-fellowship-in-microrhythm/2421297) | ✅（2026 岗位未见）|
+| MSCA DN：无博士、12/36 流动规则、€4,010 + €710、免学费、向项目而非欧盟申请、EURAXESS | [Hohenheim EU office](https://eu-office.uni-hohenheim.de/fileadmin/einrichtungen/eu-office/Dateien/MSCA_Eligibility_Requirements_Doctoral_Candidates.pdf) | ✅ |
+| 各国博士月薪（二手）| [uni2study](https://www.uni2study.com/articles/phd-researcher-salaries-across-europe-compared)、[academicpositions NL](https://academicpositions.de/career-advice/phd-postdoc-and-professor-salaries-in-the-netherlands?locale=sv) | ⚠️ |
+| NordicSMC 联合招聘发在 AUDITORY list | [auditory.org 2018](https://auditory.org/postings/2018/190.html) | ✅（旧）|

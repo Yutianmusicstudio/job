@@ -12,10 +12,10 @@
 | 层 | 项目（侧栏名） | 状态 | 公开日期 | 交付物 | 档案 |
 |---|---|---|---|---|---|
 | 一 · 有截止 | eeg 论文建档发布（PeerJ，Paper 1） | 六月版只有 3 / 10 被试，跨被试 0.52；投前须补全被试、处理声音混淆、改投 PeerJ CS；可选加对齐实验 | 2026-11 最低限度 / 2026-12 含对齐 | 投稿 + 公开 pipeline 仓库（MNE） | projects/eeg-openmiir-paper.md |
-| 一 · 有截止 | eeg-robotic-human（Shimon 观众 EEG 研究） | 定方向；我领 IRB 和写作 | IRB 2026-11；数据 2027 春 | 合一 protocol；HRI 2028 late-breaking | — |
-| 一 · 有截止 | robot pet | 真机已验证跟随 / 注视 / 归位；七步计划；终点是宠物交互感 | 2027-03 | 三分钟视频；作品路线 | projects/robot-pet.md |
-| 二 · 条件触发 | 钢琴视觉化教育系统（v0.0.7，儿童钢琴项目） | 系统已跑通；待 PI | 2026-10 约 Freeman / Weinberg | 有 PI → 进第一层；无 PI → demo + 作品集 | projects/piano-visual-education.md |
-| 二 · 条件触发 | 音乐表演分析 Agent（perfagent） | M0 已开工 | 2027-03 评估 | PeerJ 投出后补论文槽，先做研究 1（误差传播，无需被试） | projects/music-performance-agent.md |
+| 一 · 有截止 | eeg-robotic-human（Shimon 观众 EEG 研究） | 基础框架（2026-10-22）；我领 IRB 和写作 | IRB 2026-11；数据 2027 春 | 合一 protocol；HRI 2028 late-breaking | — |
+| 一 · 有截止 | robot pet | 基础框架（2026-10-22）；真机已验证跟随 / 注视 / 归位；七步计划 | 2027-03 | 三分钟视频；作品路线 | projects/robot-pet.md |
+| 二 · 条件触发 | 钢琴视觉化教育系统（v0.0.7，儿童钢琴项目） | 系统接近完成（2026-10-22 我说"快出来了"）；待 PI | 2026-10 约 Freeman / Weinberg | 有 PI → 进第一层；无 PI → demo + 作品集 | projects/piano-visual-education.md |
+| 二 · 条件触发 | 音乐表演分析 Agent（perfagent） | 接近完成（2026-10-22 我说"快出来了"）；研究 1 论文未开始 | 2027-03 评估 | PeerJ 投出后补论文槽，先做研究 1（误差传播，无需被试） | projects/music-performance-agent.md |
 | 已封档 | 小节号自动标注（measure-numbers） | MVP 封档 2026-10-12，线上可用 | GitHub 干净快照后公开 | perfagent 看谱层零件 + 作品集条目；不续做 roadmap | projects/measure-numbers.md |
 | 三 · 排队 | 钢琴四手联弹机器人平台（终极 A） | 独立项目；待 pet 动作系统成型后评估复用 | 不定 | — | — |
 | 三 · 排队 | 终极 B 阶段二（EEG 参数驱动机器演奏） | 构想；挂在四手联弹之后 | 不定 | 一个参数、3 人 pilot | — |
@@ -43,3 +43,7 @@ pet → 社交机器人、表现性动作、HRI；四手联弹 → 具身智能�
 ## 对两条路线的价值
 - 对 PhD：PeerJ + Shimon 是神经线材料；pet + 视觉系统是具身线与 MIT 材料（Hoffman 的 Blossom / Kip、Weinberg 的 Shimi、Bresin 的机器人动作都对 pet 的口味）；perfagent 对港科广 CMA、计算音乐学方向有用。
 - 对回国工作：EEG pipeline 对应 BCI 研究院；pet / 四手联弹对应具身智能；perfagent、视觉系统对应创业备选。
+
+## 2026-10-22 状态更新
+我说：视觉系统和 perfagent 都快出来了；小节标注已做好；剩 lab 的 EEG 和 pet 还在基础框架。
+含义：三个"软件"项目先于两个"实验 / 硬件"项目成熟，和可行性表的预测一致。快出来的两个要立刻定公开日期：视觉系统 → 两分钟录屏 + 约 Freeman / Weinberg；perfagent → 系统封版，转研究 1 论文。慢的两个（Shimon、pet）才是 2027 春真正要花时间的。
