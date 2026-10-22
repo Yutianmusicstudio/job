@@ -29,3 +29,13 @@
 
 ## 四、一句话版本（给 SoP 和自我介绍用）
 我做音乐交互技术，研究它如何改变人的感知、学习和康复；博士阶段聚焦演奏感知，用 EEG 和机器人作为测量与干预工具。
+
+## 五、补（2026-10-22 晚）：工具与问题分开；Claire Arthur
+我说：如果看就业，MIR 和 Claire 的 EEG 都更适合我，感觉完蛋了。
+
+Claude 的判断：
+- **不完蛋。把"问题"和"工具"分开就通了。** 交互实验室给的是问题（人怎么感知机器演奏）和场子（HRI / NIME / CHI）；雇主买的是工具（EEG 分析、音频机器学习、C++）。两者不冲突：Shimon 观众研究就是用 EEG 工具答交互问题。
+- **MIR**：你拒绝的理由是卷和无聊，不是没用。不读 MIR 博士，但把 MIR 的工具（音频深度学习、PyTorch、DSP）当技能拿。perfagent 的感知层本来就是 MIR 工具链，对外讲工具时它就是 MIR 项目，对外讲问题时它是计算音乐学。
+- **Claire Arthur ✅**：GT 音乐学院副教授（兼心理学院），Computational and Cognitive Musicology Lab（与 Nat Condit-Schultz 共管）；**2026-05 拿到 Renée Fleming Neuroarts Investigator Award，课题"The Music Within: Neural Markers of Imagined Sound and Memory"，用 EEG 测音乐想象** ✅。这和你的 OpenMIIR 论文（听 vs 想象的 EEG 解码）是同一个题目。GT 另有 Brain Music Lab（EEG + 新音乐技术）⚠️ 负责人未核。
+- 结论：**不换实验室，加一个人。** Weinberg 主导师，Claire 做合作导师 / 委员会成员，这是 GT 内部就能完成的事，不用申请季。它同时给你神经线的标签、EEG 的工具、和一个刚拿到经费的项目。
+- 动作（本周）：给 Claire 发邮件约 20 分钟，附六月版 OpenMIIR 稿 + 一页"我打算补全 10 人和对齐实验"的计划，说明 Weinberg 是主导师，问能否参与她的 EEG 想象课题或请她做论文第二读者。这封邮件在 PeerJ 投出前发，她的意见能直接改进论文。

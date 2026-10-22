@@ -119,3 +119,8 @@ QMUL AIM / C4DM、UPF MTG、JKU Widmer、KAIST Nam、Indiana、中央音乐学�
 | 机动 | Rosa Chan | 城大电机系 | BCI | 接收博士生 ✅ |
 | 机动 | Ran Tao | 理大 | 神经 | 音乐训练与语言，EEG/fMRI ✅ |
 详见 `phd-geography.md` 第五节。
+
+## 2026-10-22 补：GT 内部
+| 档 | 人 | 单位 | 线 | 备注 |
+|---|---|---|---|---|
+| 保底（GT 内部合作导师）| Claire Arthur | GT 音乐学院副教授、CCML | 神经 | 2026-05 Neuroarts 奖，EEG 音乐想象课题 ✅；与 OpenMIIR 论文同题；本周约见 |
