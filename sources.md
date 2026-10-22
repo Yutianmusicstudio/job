@@ -140,3 +140,5 @@
 | MSCA DN：无博士、12/36 流动规则、€4,010 + €710、免学费、向项目而非欧盟申请、EURAXESS | [Hohenheim EU office](https://eu-office.uni-hohenheim.de/fileadmin/einrichtungen/eu-office/Dateien/MSCA_Eligibility_Requirements_Doctoral_Candidates.pdf) | ✅ |
 | 各国博士月薪（二手）| [uni2study](https://www.uni2study.com/articles/phd-researcher-salaries-across-europe-compared)、[academicpositions NL](https://academicpositions.de/career-advice/phd-postdoc-and-professor-salaries-in-the-netherlands?locale=sv) | ⚠️ |
 | NordicSMC 联合招聘发在 AUDITORY list | [auditory.org 2018](https://auditory.org/postings/2018/190.html) | ✅（旧）|
+| 2025-12 长沙学院"音乐科技与产业"研讨会，央音 / 国音 / 上音 / 中传 / 浙音到场 | [华声在线](https://m.voc.com.cn/xhn/news/202512/31133319.html) | ✅（未见新增博士点）|
+| 2024 博士毕业 9.72 万 vs 高校岗位约 3.5 万（单一学者估算）；35 岁门槛；杭电 2025 全员编制无非升即走 | [虎嗅](https://www.huxiu.com/article/4881906.html)、[高校人才网](https://www.gaoxiaojob.com/news/detail/6194.html) | ⚠️ 自媒体 / 转载 |
