@@ -38,6 +38,7 @@ PeerJ 6h → 投出后转给 pet；Shimon 8h；pet 6h → 12h；perfagent ≤4h�
 - 整体：主题统一；短板是只有 PeerJ 接近完成，其余全是 v0.x；价值在交付那一刻解锁。
 
 ## 改名规则
+- 2026-10-22 起加第三张标签：HCI / 人机交互研究（lab 原生标签）。pet、视觉系统、捏握乐器、Shimon 观众研究都能这样讲。
 pet → 社交机器人、表现性动作、HRI；四手联弹 → 具身智能、机器人音乐；EEG 项目 → 神经解码、脑机接口；合起来 → 脑信号驱动的具身交互；perfagent → 计算音乐学 / Agent 评估（讲问题不讲工具）；视觉系统 → music-based intervention。
 
 ## 对两条路线的价值

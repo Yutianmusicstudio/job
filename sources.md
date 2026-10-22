@@ -142,3 +142,4 @@
 | NordicSMC 联合招聘发在 AUDITORY list | [auditory.org 2018](https://auditory.org/postings/2018/190.html) | ✅（旧）|
 | 2025-12 长沙学院"音乐科技与产业"研讨会，央音 / 国音 / 上音 / 中传 / 浙音到场 | [华声在线](https://m.voc.com.cn/xhn/news/202512/31133319.html) | ✅（未见新增博士点）|
 | 2024 博士毕业 9.72 万 vs 高校岗位约 3.5 万（单一学者估算）；35 岁门槛；杭电 2025 全员编制无非升即走 | [虎嗅](https://www.huxiu.com/article/4881906.html)、[高校人才网](https://www.gaoxiaojob.com/news/detail/6194.html) | ⚠️ 自媒体 / 转载 |
+| 华为 Human-Machine Interaction Lab 招 HCI researcher：看作品集、论文、专利、上线产品；联想 HCI 研究岗要 3 年经验 | [华为加拿大招聘](https://huaweicanada.recruitee.com/o/researcher-human-computer-interaction)、[联想](https://jobs.lenovo.com/en_US/careers/JobDetail/Advisory-Researcher-HCI/66935) | ✅（腾讯 / 字节 HCI 岗未检到 ⚠️）|

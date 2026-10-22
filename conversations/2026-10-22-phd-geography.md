@@ -31,3 +31,9 @@ Claude：写 `decisions/europe-howto.md`：三种渠道（岗位制、MSCA 博�
 ## 第五轮：国内音科在发展，总会有学校要；偏艺术的大厂不要
 
 Claude：同意偏艺术的不要，但把"造新乐器机器人"和"Shimon 观众 EEG 实验"分开，后者可出口。"总会有学校要"对一半：地方院校在建系缺人，但博士供给远大于岗位、35 岁门槛、星海级别几年一个岗。结论不变：工程内核 + 音乐外壳。记入 lab-alumni-signal.md 第二轮。
+
+---
+
+## 第六轮：这是交互实验室，不是机器人实验室
+
+Claude：这句话解释了毕业生去向：交互实验室不产机器人工程技能。工程内核自配不变；新加一条出路：大厂 HCI 研究岗（华为 HMI Lab ✅），不走 MIR、不要 ROS2，要用户研究 + 原型 + CHI/HRI/NIME 论文，正是 lab 能给的。标签从两张变三张：BCI、HRI、HCI。写入 profile.md、lab-alumni-signal.md 第三轮、projects.md 改名规则。
