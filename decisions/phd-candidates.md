@@ -109,3 +109,13 @@ QMUL AIM / C4DM、UPF MTG、JKU Widmer、KAIST Nam、Indiana、中央音乐学�
 ### 代价
 - 去掉 MIR 即去掉最大企业出口（腾讯音乐、生成式音乐公司）。剩余出口：研究院 / 高校、具身智能公司、文旅机器人。与"不想去企业"一致，但是主动关门。
 - 神经和 HRI 线的痛苦是"慢"：IRB、被试、效应做不出来。
+
+## 2026-10-22 补：香港（不走 MIR）
+| 档 | 人 | 单位 | 线 | 备注 |
+|---|---|---|---|---|
+| 匹配 | Teng Xiangbin | 中大心理系 | 神经 | EEG/MEG 音乐时间结构，前 MPI，NYU 博士 ✅ |
+| 匹配 | Xiaojuan Ma | 科大计算机系 | 具身 | HRI、社交机器人；博士导师 Perry Cook ✅ |
+| 机动 | Patrick Wong | 中大脑与心智研究所 | 神经 | 语言与音乐神经基础 ✅ |
+| 机动 | Rosa Chan | 城大电机系 | BCI | 接收博士生 ✅ |
+| 机动 | Ran Tao | 理大 | 神经 | 音乐训练与语言，EEG/fMRI ✅ |
+详见 `phd-geography.md` 第五节。

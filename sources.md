@@ -122,3 +122,11 @@
 | HKPFS 2026/27 HK$28,400 / 月；不限国籍；HKU 音乐系、CityU SCM 声音方向有博士 | [CityU](https://www.cityu.edu.hk/cc/programmes/research-degree-programmes/hong-kong-phd-fellowship-scheme)、[HKU Music](https://www.music.hku.hk/postgraduate-application-2026-27.html)、[CityU SoundLab](https://soundlab.scm.cityu.edu.hk/?p=1213) | ✅ |
 | 内地申请-考核：境外硕士须教育部留服认证；跨专业无统一禁令，按学术背景打分 | [北大国关](https://www.sis.pku.edu.cn/docs/20251015155022354739.pdf)、[南医大](https://jcyxy.njmu.edu.cn/_upload/article/files/ad/5f/8128191f42149b896455ad53a1fb/4a18e0cb-f44f-46f8-a94f-fe842c3b9845.docx) | ✅ |
 | 海归溢价下降：2019 报道"海外经历优先"；2025 财新评论 | [中国教育在线 2019](https://www.eol.cn/rencai/201903/t20190304_1647228.shtml)、[财新 2025](https://www.caixinglobal.com/2025-06-12/western-degrees-lose-their-cachet-as-chinese-returnees-face-harsh-job-market-102329719.html) | ✅（无 2026 统计 ⚠️）|
+| 星海音乐学院 2026 第二批招聘含"音乐人工智能教学岗"（2026-04-23） | [转载页](https://campus.niuqizp.com/job-vmy5tNLLC.html)、[本地宝](https://m.gz.bendibao.com/job/company/5906030/gonggao/) | ✅（岗位条件 ⚠️）|
+| 港科广 CMA 官方领域含声音艺术、音乐、机器人艺术、HRI | [HKUST-GZ CMA](https://www.hkust-gz.edu.cn/academics/hubs-and-thrust-areas/information-hub/computational-media-and-arts)、[招聘页](https://cma.hkust-gz.edu.cn/recruitment/) | ✅ |
+| Teng Xiangbin：中大心理系，EEG/MEG 音乐与语音时间结构 | [CUHK 主页](https://www.psy.cuhk.edu.hk/en/people/faculty-members/xiang-bin-teng.html) | ✅ |
+| Patrick Wong：中大脑与心智研究所，语言与音乐 | [CUHK IHCR](https://www.ihcr.cuhk.edu.hk/?p=1996) | ✅ |
+| Ran Tao：理大，音乐训练与语言，EEG/fMRI | [PolyU](https://www.polyu.edu.hk/lst/people/academic-staff/tao-ran/) | ✅ |
+| Rosa Chan：城大电机，BCI，接收博士生 | [CityU Scholars](https://scholars.cityu.edu.hk/en/persons/rosachan/) | ✅ |
+| Raymond Tong：中大生医工程，EEG BCI 康复 | [CUHK BME 存档](https://webarchive.lib.cuhk.edu.hk/20240123091647mp_/http://www.bme.cuhk.edu.hk/kytong/researchteam) | ✅（2024 存档）|
+| Xiaojuan Ma：科大 CSE 副教授，HRI / 社交机器人，博士导师 Perry Cook | [HKUST 主页](https://cse.hkust.edu.hk/~mxj/about.html)、[CV](https://cse.hkust.edu.hk/~mxj/cv.html) | ✅ |
