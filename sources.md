@@ -108,3 +108,17 @@
 | 音频算法岗：DSP、C/C++、Python、ISMIR/ICASSP 论文优先 | [猎聘](https://www.liepin.com/job/1977528445.shtml)、[小红书校招](https://campus.niuqizp.com/job-vys5LtZNC.html) | ✅（酷狗 / 网易云广州岗未检到）|
 | TENOR 2027：根特，Orpheus Instituut，五类投稿统一截止 2026-12-15，通知 2027-02-17 | [Orpheus Instituut](https://orpheusinstituut.be/en/news/tenor2027) | ✅ |
 | TENOR 类别规则：论文 4–12 页双盲；海报 2 页扩展摘要轻评审；demo | [TENOR 2024 征稿](https://www.zhdk.ch/forschung/icst/tenor24/call-for-contributions-20264) | ✅（2024 规则，2027 待发 ⚠️）|
+
+## 2026-10-22 · 博士地域与学位标签（12 次检索）
+| 事项 | 来源 | 状态 |
+|---|---|---|
+| CSC 公派攻博：经所在单位申请，3-10 至 4-1；材料含最高学历学位证、无条件录取 | [北航 2026 手册](https://graduate.buaa.edu.cn/2026nianguojiagongpaiyanjiushengxiangmuxuanpaigongzuoshouce.doc)、[华工通知](https://www2.scut.edu.cn/_upload/article/files/ae/58/2ed190574f759df7bba52524b921/a956d5b8-0aec-4b04-bf31-aef6cf8f1eeb.doc) | ✅（海外在读硕士资格 ⚠️）|
+| 优自奖：A 类 $6,000，海外自费博二以上；受 CSC 资助者不可申 | [UEA 说明](https://research-portal.uea.ac.uk/en/prizes/chinese-government-award-for-outstanding-self-financed-students-a/)、[中国教育在线](https://www.eol.cn/liuxue/redian/kb20241016585343.html) | ✅ |
+| 央音音乐人工智能博士 2019 首招、2022 首批毕业 | [DAMO 转载](https://damodev.csdn.net/6a424a3310ee7a33f283e1a2.html) | ✅（2026 简章 ⚠️）|
+| Plymouth ICCMR BCMI PhD 存在，Miranda 任主任 | [Plymouth 课程页](https://plymouth.ac.uk/courses/postgraduate/phd-brain-computer-music-interfacing) | ✅（资助 ⚠️）|
+| Aarhus MIB：MSCA Lullabyte 预定博士课题；往年 EEG/MEG 课题 | [MIB open call](https://musicinthebrain.au.dk/display/artikel/open-call-predefined-phd-project)、[AU newsroom](https://newsroom.au.dk/nyheder/vis/artikel/calls-for-four-phd-fellowships-at-center-for-music-in-the-brain/) | ✅ |
+| 欧洲博士为带薪岗位、按岗招：KTH 2026 博士岗、IEM Graz 全资助岗 | [KTH academicpositions](https://academicpositions.no/ad/kth-royal-institute-of-technology/2026/doctoral-student-licentiate-in-sound-and-vibration/249517?locale=en)、[IEM Graz](https://auditory.org/postings/2026/226.html) | ✅ |
+| 英国国际生资助难：C4DM 多为自筹；QUB 国际生须自筹学费 | [C4DM get involved](https://c4dm.eecs.qmul.ac.uk/get-involved/)、[QUB SARC](https://www.qub.ac.uk/research-centres/sarc/news/121124PhDStudentship.html) | ✅ |
+| HKPFS 2026/27 HK$28,400 / 月；不限国籍；HKU 音乐系、CityU SCM 声音方向有博士 | [CityU](https://www.cityu.edu.hk/cc/programmes/research-degree-programmes/hong-kong-phd-fellowship-scheme)、[HKU Music](https://www.music.hku.hk/postgraduate-application-2026-27.html)、[CityU SoundLab](https://soundlab.scm.cityu.edu.hk/?p=1213) | ✅ |
+| 内地申请-考核：境外硕士须教育部留服认证；跨专业无统一禁令，按学术背景打分 | [北大国关](https://www.sis.pku.edu.cn/docs/20251015155022354739.pdf)、[南医大](https://jcyxy.njmu.edu.cn/_upload/article/files/ad/5f/8128191f42149b896455ad53a1fb/4a18e0cb-f44f-46f8-a94f-fe842c3b9845.docx) | ✅ |
+| 海归溢价下降：2019 报道"海外经历优先"；2025 财新评论 | [中国教育在线 2019](https://www.eol.cn/rencai/201903/t20190304_1647228.shtml)、[财新 2025](https://www.caixinglobal.com/2025-06-12/western-degrees-lose-their-cachet-as-chinese-returnees-face-harsh-job-market-102329719.html) | ✅（无 2026 统计 ⚠️）|
