@@ -124,11 +124,11 @@
 | 海归溢价下降：2019 报道"海外经历优先"；2025 财新评论 | [中国教育在线 2019](https://www.eol.cn/rencai/201903/t20190304_1647228.shtml)、[财新 2025](https://www.caixinglobal.com/2025-06-12/western-degrees-lose-their-cachet-as-chinese-returnees-face-harsh-job-market-102329719.html) | ✅（无 2026 统计 ⚠️）|
 | 星海音乐学院 2026 第二批招聘含"音乐人工智能教学岗"（2026-04-23） | [转载页](https://campus.niuqizp.com/job-vmy5tNLLC.html)、[本地宝](https://m.gz.bendibao.com/job/company/5906030/gonggao/) | ✅（岗位条件 ⚠️）|
 | 港科广 CMA 官方领域含声音艺术、音乐、机器人艺术、HRI | [HKUST-GZ CMA](https://www.hkust-gz.edu.cn/academics/hubs-and-thrust-areas/information-hub/computational-media-and-arts)、[招聘页](https://cma.hkust-gz.edu.cn/recruitment/) | ✅ |
-| Teng Xiangbin：中大心理系，EEG/MEG 音乐与语音时间结构 | [CUHK 主页](https://www.psy.cuhk.edu.hk/en/people/faculty-members/xiang-bin-teng.html) | ✅ |
-| Patrick Wong：中大脑与心智研究所，语言与音乐 | [CUHK IHCR](https://www.ihcr.cuhk.edu.hk/?p=1996) | ✅ |
+| Teng Xiangbin：港中大心理系，EEG/MEG 音乐与语音时间结构 | [CUHK 主页](https://www.psy.cuhk.edu.hk/en/people/faculty-members/xiang-bin-teng.html) | ✅ |
+| Patrick Wong：港中大脑与心智研究所，语言与音乐 | [CUHK IHCR](https://www.ihcr.cuhk.edu.hk/?p=1996) | ✅ |
 | Ran Tao：理大，音乐训练与语言，EEG/fMRI | [PolyU](https://www.polyu.edu.hk/lst/people/academic-staff/tao-ran/) | ✅ |
 | Rosa Chan：城大电机，BCI，接收博士生 | [CityU Scholars](https://scholars.cityu.edu.hk/en/persons/rosachan/) | ✅ |
-| Raymond Tong：中大生医工程，EEG BCI 康复 | [CUHK BME 存档](https://webarchive.lib.cuhk.edu.hk/20240123091647mp_/http://www.bme.cuhk.edu.hk/kytong/researchteam) | ✅（2024 存档）|
+| Raymond Tong：港中大生医工程，EEG BCI 康复 | [CUHK BME 存档](https://webarchive.lib.cuhk.edu.hk/20240123091647mp_/http://www.bme.cuhk.edu.hk/kytong/researchteam) | ✅（2024 存档）|
 | Xiaojuan Ma：科大 CSE 副教授，HRI / 社交机器人，博士导师 Perry Cook | [HKUST 主页](https://cse.hkust.edu.hk/~mxj/about.html)、[CV](https://cse.hkust.edu.hk/~mxj/cv.html) | ✅ |
 
 ## 2026-10-22 · 欧洲怎么投（5 次检索）
