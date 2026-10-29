@@ -15,3 +15,7 @@ Yutian Wang
 MS Music Technology, first year
 
 附件：manuscript_jop_submission_draft（六月版）或补全后的新版。
+
+## 改口版（读过十月稿后）
+第二段换成：
+More relevant may be a draft we are about to submit: a validation case study on OpenMIIR showing that when cued and uncued imagery trials come in fixed-order, opposite-label pairs, trial-grouped cross-validation scores below chance (~0.47) while pair-grouped scoring restores ~0.54, and deleting the training partner shifts the score by 0.07-0.12 against exactly matched controls. The practical lesson is about counterbalancing condition order in imagery designs, which seemed relevant to your Neuroarts study. Draft attached.
