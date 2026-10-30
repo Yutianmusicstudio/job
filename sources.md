@@ -170,3 +170,4 @@
 | CREATE-X Startup Lab：3 学分、全专业含硕博、春季 CS 特殊专题课 | [CREATE-X](https://create-x.gatech.edu/node/218)、[ECE 新闻](https://ece.gatech.edu/news/2023/12/create-x-will-build-students-entrepreneurial-confidence) | ✅（课号 ⚠️）|
 | Quadrant-i Startup Launch：研究生 / 教师专场，须基于 GT 实验室有经费研究 | [Quadrant-i](https://create-x.gatech.edu/quadrant-i-startup-launch) | ✅ |
 | TI:GER：MBA 方向 / 博士辅修；2027 届截止 10-01 | [Scheller TI:GER](https://www.scheller.gatech.edu/centers-and-initiatives/tiger) | ✅ |
+| HKPFS 评审四条（学业卓越首要、研究潜力、沟通、领导力）；约 400 个 / 年；2027/28 截止 2026-12-01 | [HKU 研究生院](https://gradsch.hku.hk/hkpfs)、[聚合页](https://www.heysuccess.com/opportunity/2027-Hong-Kong-PhD-Fellowship-Scheme-(HKPFS)-5672) | ✅（数量来自聚合页 ⚠️）|
