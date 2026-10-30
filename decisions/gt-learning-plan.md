@@ -46,3 +46,15 @@
 - 禁止脚本、自动刷新抢课。
 - 本计划要选的课：MUSI 7100（Weinberg 分节）、CS 7641 或 ISYE 6740（非本系选修常要 permit，先问）、MUSI 6201 若春季开。
 - 11-02 前做：查 holds；问 Erin Jackson 非 MUSI 选修上限与 permit 流程；给 CS 7641 / ISYE 6740 授课老师发邮件问非本系 permit；二选一有候补就两个都排。
+
+## 创业课（2026-10-30，2 次检索）
+| 项目 | 是什么 | 对你 | 状态 |
+|---|---|---|---|
+| **CREATE-X Startup Lab** | 3 学分课，"全专业、含硕博"，春季以 CS 特殊专题课开设 ✅；课号未核 ⚠️ | 唯一真正的"创业课"；2027 春若修，要和 CS 7641 抢学分 | 11-02 选课前查 OSCAR 里 CS 特殊专题的 Startup Lab 分节 |
+| Startup Launch（夏）| 12 周孵化，$5k + 实物 | 已在 roadmap，2027-03 决定 | — |
+| Quadrant-i Startup Launch（研究生 / 教师专场）| 面向把 GT 实验室**有经费的研究**商业化，须在校 ✅ | measure-numbers 不是 lab 经费项目，不合；Shimon 相关才合 | 了解即可 |
+| I2P | $500 / 学期，需本科生队友 | 春季试创业意愿 | 已在 events.md |
+| TI:GER（Scheller）| MBA 方向或博士辅修，无非 MBA 硕士通道 ✅；2027 届 10-01 已截 | 不适用 | — |
+| Invention Studio | ME 的创客空间，不是课；春季重开 ✅ | 做硬件 | 已在 gt-campus.md |
+| "venture studio / startup studio" | 未查到对应课程 ❌ | — | — |
+我记的"studio"大概率是 Invention Studio（创客空间）或 Startup Lab（课）之一。

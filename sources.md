@@ -167,3 +167,6 @@
 | Stober：马格德堡大学 AI 实验室主任（页面 2026-03 更新） | [OVGU AI Lab](https://www2.ai.ovgu.de/Team/AILab/Stober.html) | ✅ |
 | HKUST × HKSTP Co-ideation 2026：10-01 开班，截止 09-20；HKSTP Ideation HK$100k，窗口 1 月 / 8–9 月 | [HKUST 日历](https://calendar.hkust.edu.hk/node/47213)、[HKSTP Ideation](https://www.hkstp.org/programmes/ideation) | ✅（窗口冲突 ⚠️）|
 | 港科广 120+ 公司、240+ 孵化项目；2026 广州创新创业大赛 × HKUST 百万奖金赛广州赛区 6 月启动 | [China Daily HK](https://www.chinadailyhk.com/article/632376)、[chinaservicesinfo](https://www.chinaservicesinfo.com/s/202604/20/WS69e5b2ab498e23165e06ee87/guangzhous-tech-hub-proving-popular-with-innovators.html) | ✅ |
+| CREATE-X Startup Lab：3 学分、全专业含硕博、春季 CS 特殊专题课 | [CREATE-X](https://create-x.gatech.edu/node/218)、[ECE 新闻](https://ece.gatech.edu/news/2023/12/create-x-will-build-students-entrepreneurial-confidence) | ✅（课号 ⚠️）|
+| Quadrant-i Startup Launch：研究生 / 教师专场，须基于 GT 实验室有经费研究 | [Quadrant-i](https://create-x.gatech.edu/quadrant-i-startup-launch) | ✅ |
+| TI:GER：MBA 方向 / 博士辅修；2027 届截止 10-01 | [Scheller TI:GER](https://www.scheller.gatech.edu/centers-and-initiatives/tiger) | ✅ |
