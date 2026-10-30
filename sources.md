@@ -164,3 +164,6 @@
 | 港大工程学院：非英语授课学位须达标，豁免个案审批 G2(b) | [HKU Engg](https://engg.hku.hk/Admissions/MSc/Admission-Requirement) | ✅（研究型 ⚠️）|
 | 上海电力大学 2026：英语国家学位 + 留服认证可免英语 | [简章](https://yjsc.shiep.edu.cn/_upload/article/files/91/a0/61f09b2247e8b2e8c4366cb518d2/4130b371-3a76-4960-9964-d1a7a4642a58.pdf) | ✅ |
 | 华东理工：英语国家全日制学习一年以上列为免试情形 | [细则](https://gschool.ecust.edu.cn/_upload/article/files/ee/95/8ee5b4724e98b2614065215b4a70/363cc840-0353-4f77-b180-6d645c81e073.pdf) | ✅ |
+| Stober：马格德堡大学 AI 实验室主任（页面 2026-03 更新） | [OVGU AI Lab](https://www2.ai.ovgu.de/Team/AILab/Stober.html) | ✅ |
+| HKUST × HKSTP Co-ideation 2026：10-01 开班，截止 09-20；HKSTP Ideation HK$100k，窗口 1 月 / 8–9 月 | [HKUST 日历](https://calendar.hkust.edu.hk/node/47213)、[HKSTP Ideation](https://www.hkstp.org/programmes/ideation) | ✅（窗口冲突 ⚠️）|
+| 港科广 120+ 公司、240+ 孵化项目；2026 广州创新创业大赛 × HKUST 百万奖金赛广州赛区 6 月启动 | [China Daily HK](https://www.chinadailyhk.com/article/632376)、[chinaservicesinfo](https://www.chinaservicesinfo.com/s/202604/20/WS69e5b2ab498e23165e06ee87/guangzhous-tech-hub-proving-popular-with-innovators.html) | ✅ |

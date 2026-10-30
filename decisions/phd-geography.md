@@ -95,3 +95,5 @@
 ## 九、命名澄清（2026-10-29）
 我以为提过一位**中山大学**教授做脑电 + 音乐的论文，并和 Claire 的课题很像。查档案：没有这个人。我说的是**香港中文大学**心理系 Teng Xiangbin（EEG / MEG 看大脑处理音乐的时间结构，2024 J Neurosci 乐句切分，29 人音乐聆听 EEG），当时写作"中大"造成混淆；"和 Claire 很像"指的是 Claire Arthur 2026-05 的 EEG 音乐想象课题与我 OpenMIIR 论文同题，Teng 的方向与之相邻。中山大学在仓库里只出现过 BCI 组深圳博后招聘。自此香港中文大学一律写"港中大"。
 - 2026-10-29 补：我已向 Claire 提过"有篇论文可能和她的研究很像，可以发她看"。核实：Teng 2024 = *Segmenting and Predicting Musical Phrase Structure Exploits Neural Gain Modulation and Phase Precession*（Teng, Larrouy-Maestri, Poeppel，J Neurosci 44(30)）✅，讲聆听时大脑如何切分和**预测**乐句结构；Claire 的课题是想象音乐与记忆的 EEG 标记。关系是相邻不是相同：想象 = 没有输入的预测，Teng 讲的预测机制可能正是想象所依赖的。发她时用这一句框住即可，不算说错。更对题的是我自己的 OpenMIIR 稿和 Di Liberto, Marion & Shamma 2021（想象态 note onset 解码），一并附上。
+
+- 2026-10-30 补：选香港的一个实际理由：港科广的博士身份自动打开 HKUST 创业中心、HKUST × HKSTP Co-ideation、广州校内孵化这张创业网；欧洲博士没有对应的大湾区入口。见 people.md 六。
