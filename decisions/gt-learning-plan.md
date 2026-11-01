@@ -58,3 +58,9 @@
 | Invention Studio | ME 的创客空间，不是课；春季重开 ✅ | 做硬件 | 已在 gt-campus.md |
 | "venture studio / startup studio" | 未查到对应课程 ❌ | — | — |
 我记的"studio"大概率是 Invention Studio（创客空间）或 Startup Lab（课）之一。
+
+## 2026-11-01 · 选课 hold
+- OSCAR 显示：Gr Adm-Records Missing，原因 Missing Documentation，Graduate Studies 10-30 加的，只影响 Registration。时段 11-03 15:00 至 12-18 23:59。
+- 性质：研究生院入学材料没收齐（通常是本科最终正式成绩单 / 学位证明，国际生常要官方电子版或认证件）。GT 页面写明"收到缺的材料才解除" ✅；谁加的谁解 ✅。
+- 做法：查 grad.gatech.edu 申请门户和 10-30 前后的邮件看缺哪一份 → 电子渠道提交（官方首选）→ 同日邮件研究生院问能否在 11-03 前解除 → 同时邮件 Erin Jackson 说明情况，请系里给 MUSI 7100 和选修留位 / permit。
+- 风险只有一个：热门课在 hold 解除前满员。选课开到 12-18，材料一周内到位就没事。
