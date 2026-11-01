@@ -97,3 +97,5 @@
 - 2026-10-29 补：我已向 Claire 提过"有篇论文可能和她的研究很像，可以发她看"。核实：Teng 2024 = *Segmenting and Predicting Musical Phrase Structure Exploits Neural Gain Modulation and Phase Precession*（Teng, Larrouy-Maestri, Poeppel，J Neurosci 44(30)）✅，讲聆听时大脑如何切分和**预测**乐句结构；Claire 的课题是想象音乐与记忆的 EEG 标记。关系是相邻不是相同：想象 = 没有输入的预测，Teng 讲的预测机制可能正是想象所依赖的。发她时用这一句框住即可，不算说错。更对题的是我自己的 OpenMIIR 稿和 Di Liberto, Marion & Shamma 2021（想象态 note onset 解码），一并附上。
 
 - 2026-10-30 补：选香港的一个实际理由：港科广的博士身份自动打开 HKUST 创业中心、HKUST × HKSTP Co-ideation、广州校内孵化这张创业网；欧洲博士没有对应的大湾区入口。见 people.md 六。
+
+- 2026-11-01 更正第八节：我已有 FSU 硕士（英语授课、已授予），香港"硕士英语授课"豁免直接成立，不依赖 GT 在读证明；内地"英语国家学位 + 留服认证"路径也可用 FSU 学位（需确认已做留服认证）。
