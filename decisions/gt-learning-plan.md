@@ -99,3 +99,8 @@
   - 两门核心课春季都开、时间不冲突。6001 是 Claire 本人教 → 选课本身就是认识她的最好方式。
   - 其他可作补位：MUSI 6002 G（Alexandria Smith，周一三 09:30，28 座全空；Smith 是 Claire Neuroarts 课题的合作者）；MUSI 6203（Albert，周一三 11:00）；MUSI 6304（Muller，周一三 15:30）；MUSI 6103 仅余 1 座。
   - 第四门 CS 7641 / ISYE 6740 必须避开周二四 09:30 和 14:00；时间待查。MUSI 7100 Weinberg 分节在第 6–9 页，待看。
+- 11-02 OSCAR 第 6–9 页：
+  - **MUSI 7100 GW**，Weinberg，周一三 14:00–14:50，学分可变（选 3），9 座全空，CRN 342…（截断，以 OSCAR 为准）✅。Claire 也有 7100 CA 分节（同时段）。
+  - MUSI 8998 GW = Weinberg 的 Research Assistantship 注册课，**只有拿到 GRA 才注册**；8997 = TA。
+  - MUSI 8803 Hip-hop and Data Science（Condit-Schultz，周一三 12:30）可作补位。
+- **春季课表（定稿，待第四门）**：6001 TR 14:00 + 6202 TR 09:30 + 7100 GW MW 14:00（3 学分）= 9 学分，三门互不冲突。第四门 CS 7641 / ISYE 6740 须避开 TR 09:30、TR 14:00、MW 14:00。
