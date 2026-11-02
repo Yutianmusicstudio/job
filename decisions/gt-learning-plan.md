@@ -93,3 +93,9 @@
 | 3 | CS 7641 或 ISYE 6740（二选一）| 3 | CS 7643 的先修 | 候补 + permit；6740 通常好进 ⚠️ |
 | 放 | Startup Lab、MUSI 6201 | — | 学分装不下；秋季再看 | — |
 两门核心课若只开一门，用 MUSI 6201（若开）或 BMED / 其他选修补位，凑满 12。
+- 11-02 OSCAR（Spring 2027 MUSI 前五页截图）核实：
+  - **MUSI 6001 G**，Claire Arthur，周二四 14:00–15:15，20 座余 18 ✅
+  - **MUSI 6202 0**，Henrik von Coler，周二四 09:30–10:45，CRN 35110，24 座余 22 ✅
+  - 两门核心课春季都开、时间不冲突。6001 是 Claire 本人教 → 选课本身就是认识她的最好方式。
+  - 其他可作补位：MUSI 6002 G（Alexandria Smith，周一三 09:30，28 座全空；Smith 是 Claire Neuroarts 课题的合作者）；MUSI 6203（Albert，周一三 11:00）；MUSI 6304（Muller，周一三 15:30）；MUSI 6103 仅余 1 座。
+  - 第四门 CS 7641 / ISYE 6740 必须避开周二四 09:30 和 14:00；时间待查。MUSI 7100 Weinberg 分节在第 6–9 页，待看。
