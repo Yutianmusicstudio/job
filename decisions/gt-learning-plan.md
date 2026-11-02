@@ -130,3 +130,4 @@
 - 正式 audit：注册、成绩记 V（Visitor），无学分、不进 GPA；没达到老师要求会被记 W。研究生选 1000 / 2000 级课只能 audit 或 P/F，需系里 permit。
 - 正式 audit 是否计入学分负担与学费、是否算 F-1 全日制：**未查到 GT 原文** ⚠️。一般而言 audit 不计入 F-1 全日制学分（未核实）。
 - 建议：用"非正式坐听"——邮件老师请求坐听，不注册、不付费、不占学分。正式 audit 只在需要 Canvas 权限且老师要求注册时才用。
+- 11-02 补查 6203：GT 的 Project Studio 是**每学期换主题**的课（本科 MUSI 3770 catalog："由一个基础研究问题驱动的音乐科技主题项目"✅；2026 秋本科版由 Muller 教 ✅）。研究生版 catalog PDF 标为 MUSI 6203。春季 6203 A 标题"Improvised Music and Sy…"、与 4843 U 同时同师 → 极可能是本学期主题 ⚠️。Jeff Albert：2023 起副教授，即兴、爵士、现场电脑音乐演奏范式、录音 ✅。核实方法：OSCAR 点课程标题 → Course Description / Catalog 看是否显示 Project Studio。
