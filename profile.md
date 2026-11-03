@@ -51,3 +51,4 @@
 
 - 2026-11-01（来自 GT 申请门户截图，待我确认细节）：**本科 = 江苏第二师范学院**；**已有一个硕士 = Florida State University M.S.**（GT 门户显示"Final official Florida State transcript confirming award of MS degree"已收）；GT 推荐人：Gainsford Read（FSU）、Xiao Chen（江苏二师）、Yeoh Li（FSU）。含义：(1) HK 语言豁免可直接用 FSU 硕士，不用等 GT；(2) CSC"最高学位证"已有；(3) 申博材料里是"两个硕士"，年龄与叙事要处理；(4) 合作者 Ruiting Chen 是 FSU 音乐学院、Keling Wang 是江苏二师，都是旧关系。待确认：FSU 学位名称与年份、是否做过留服认证。
 - 2026-11-01 学历链（据证书）：专科 江苏联合职业技术学院·常州幼儿师范学校办学点，学前教育，五年一贯制，2016-09 至 2021-06 → 专升本 江苏第二师范学院，音乐学（师范），艺术学学士，2021-09 至 2023-06 → FSU M.S.（年份待确认）→ GT M.S. Music Technology 2026-08 起。年龄 25（2001 年生）。申博叙事：幼师 → 音乐 → 音乐科技，一作论文是把这条线讲通的证据。
+- 2026-11-03：FSU 硕士 = 钢琴表演（课程型，无论文，只有几篇 essay）。→ 目前没有研究型硕士；GT 论文轨是唯一能补上的机会。
