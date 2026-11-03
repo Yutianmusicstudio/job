@@ -223,3 +223,4 @@ EEG 实操靠：Shimon 观众研究、Claire 的 7100 CA 分节 / Neuroarts 课�
 注意：选研究生分节（G / 0 / GW），别选同时段的本科分节 MUSI 4677 UG、4459 0。不加系外课。
 步骤：① 现在用 OSCAR 的 Plan Ahead 把四门存成计划（hold 不影响做计划）→ ② hold 解除后 Register for Classes → Plans 页"Add All" → Submit → ③ 在 Schedule and Options 里把 7100 的 Hours 改成 3 → ④ 检查总 12 学分、无冲突、状态都是 Registered → ⑤ 截图存档。
 截止：Phase I 12-18 23:59；办公室 12-18 16:00 关门；hold 到 12-11 还没解除就找 Erin + 研究生院要临时解除。
+- 11-03 Erin 在 School of Music Teams 发通知：Spring 2027 Phase I 的 permit **只通过邮件处理，须写 GT ID 和正确 CRN**。→ Erin 邮件改为"permit 请求 + 课程问题"合一：MUSI 7100 GW 必申（directed study）；6001 / 6202 / 6002 若需要一并申。需补全 6001 G 与 7100 GW 的完整 CRN。

@@ -1,10 +1,14 @@
 # 给 Erin Jackson（MSMT 研究生协调人）
 
-Subject: MSMT program of study questions (6204 exception, outside electives, thesis option)
+Subject: Spring 2027 permit request + MSMT program questions – Yutian Wang, GTID ________
 
 Hi Erin,
 
-I'm a first-year MSMT student (Fall 2026, catalog 2026–27). I ran DegreeWorks and have a few questions before Spring registration:
+Permit request for Spring 2027 Phase I (GTID ________):
+- MUSI 7100 GW (Weinberg), CRN ________, 3 credit hours
+- If any of the following also require a permit: MUSI 6001 G, CRN ________; MUSI 6202, CRN 35110; MUSI 6002 G, CRN 35112
+
+I'm a first-year MSMT student (Fall 2026, catalog 2026–27). I also ran DegreeWorks and have a few questions:
 
 1. MUSI 6204 (Fall 2026) currently sits in "Fall Through" because it isn't on the Additional Music Technology Courses list. Could it be applied as an exception to Additional Elective Courses?
 2. I'd like to use the 15 elective hours partly for courses outside MUSI: CS 7641 (or ISYE 6740), CS 7643, CS 7633, and BMED 7610. Would these be approvable as electives?
