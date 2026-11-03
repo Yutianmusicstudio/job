@@ -180,3 +180,4 @@
 | 2027 秋 | 7100、MUSI 6201（音科选修，若秋季开 ⚠️）、CS 7641、CS 7633 或 BMED 7610 | 研究 + 音科 + 一般 |
 | 2028 春 | 7100、MUSI 8002 学徒教学或 6304（音科选修）、CS 7643、再一门一般选修 | 研究 + 音科 + 一般 |
 MUSI 8002 Apprentice Teaching（春季 Lerch 有开）= 教学经历，对"音乐学院教职"目标直接有用。
+- 11-03：What-If 的 Concentration 列表里**没有任何 MSMT 选项**（只有 MBA / MSARCH / MSBCFM / MSCS / MSNE 等）→ DegreeWorks 不区分项目 / 论文轨，论文轨要求只能问 Erin。合并后的邮件：drafts/2026-11-03-email-erin-jackson.md（6204 例外、系外选修、论文轨、6203 先修、hold 留位）。
