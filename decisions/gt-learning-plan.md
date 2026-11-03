@@ -182,3 +182,19 @@
 MUSI 8002 Apprentice Teaching（春季 Lerch 有开）= 教学经历，对"音乐学院教职"目标直接有用。
 - 11-03：What-If 的 Concentration 列表里**没有任何 MSMT 选项**（只有 MBA / MSARCH / MSBCFM / MSCS / MSNE 等）→ DegreeWorks 不区分项目 / 论文轨，论文轨要求只能问 Erin。合并后的邮件：drafts/2026-11-03-email-erin-jackson.md（6204 例外、系外选修、论文轨、6203 先修、hold 留位）。
 - 11-03：项目 / 论文轨**第二年才选**（我确认，与项目说明一致）。现在不用定。排法原则：第二年系外课按优先级排 CS 7641 → CS 7643 → CS 7633 / BMED 7610；若选论文轨，MUSI 7000 的 6 学分挤掉的是最后那一门。Erin 邮件第 3 条改为只问论文轨要求。
+
+## 11-03 系外候选课说明 + 神经 / EEG 课检索
+| 课 | 是什么 | 对应 |
+|---|---|---|
+| CS 7641 Machine Learning | 机器学习基础：监督 / 无监督 / 强化学习；7643 的先修 | 所有工具线的地基 |
+| ISYE 6740 Computational Data Analysis | 统计视角的机器学习；与 7641 学分互斥 ✅ | 7641 替代 |
+| CS 7643 Deep Learning | CNN / RNN / Transformer，PyTorch，作业含 C++ ✅ | 音频 ML、EEG 深度解码、简历 |
+| CS 7633 Human-Robot Interaction | Chernova；HRI 综述 + 统计方法 + 研究项目 ✅ | HRI 标签、Shimon / pet |
+| BMED 7610 Computational Neuroscience | Stanley；神经信号处理与编码、机器学习（偏神经元层面，不专讲 EEG）✅ | 神经线 |
+**GT 没有专门的 EEG 课**（两轮检索未找到；Emory 也未找到）。最接近：
+- PSYC 6090 Cognitive Neuroscience：认知神经科学理论 + 实验方法（EEG 是其中之一）✅
+- PSYC 8070 / "Topics in Cognitive Neuroscience"（2026 秋，Tran & Park）：每周读一篇新方法论文，主题轮换 ✅
+- PSYC 6042 Neuroimaging：只讲 fMRI ✅
+- MUSI 6001（Claire）：音乐认知
+EEG 实操靠：Shimon 观众研究、Claire 的 7100 CA 分节 / Neuroarts 课题、MNE 自学。
+第二年一般选修 12 学分优先级：CS 7641 → CS 7643 → 第三门在 CS 7633 / BMED 7610 / PSYC 6090 中按当时主线选；落选的非正式坐听。
