@@ -198,3 +198,8 @@ MUSI 8002 Apprentice Teaching（春季 Lerch 有开）= 教学经历，对"音�
 - MUSI 6001（Claire）：音乐认知
 EEG 实操靠：Shimon 观众研究、Claire 的 7100 CA 分节 / Neuroarts 课题、MNE 自学。
 第二年一般选修 12 学分优先级：CS 7641 → CS 7643 → 第三门在 CS 7633 / BMED 7610 / PSYC 6090 中按当时主线选；落选的非正式坐听。
+
+## 11-03 工程课要不要修
+- **CS/ME/ECE/AE/BME 7785 Introduction to Robotics Research**：2026 秋 Sean Wilson，周一三五 12:30–13:20，TSRB 118；力学、控制、感知、AI、自主；有实体机器人（只能留在计算机学院楼）+ 小组项目；是机器人博士三门必修之一 ✅。用不用 ROS 未在片段里确认 ⚠️。
+- **ECE 6250 Advanced DSP**：2026 秋 CRN 90388；线性代数视角的高阶 DSP（多速率、滤波器组、压缩感知）✅ → 偏理论，MUSI 6202 已覆盖你需要的 DSP，**不修**。
+- 判断：工程课只有在走"具身智能工程岗"时才值得占选修，且只修一门 7785（替换第三门 7633 / BMED / PSYC）。走音乐学院教职、HCI 研究岗、BCI 研究院都不需要。C++ / ROS2 不靠课：GTRI 机器人 GRA + pet 用 ROS2 重写 + 每周固定时段；硬件靠 Hive / Invention Studio。
