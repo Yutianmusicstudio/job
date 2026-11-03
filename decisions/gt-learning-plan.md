@@ -181,3 +181,4 @@
 | 2028 春 | 7100、MUSI 8002 学徒教学或 6304（音科选修）、CS 7643、再一门一般选修 | 研究 + 音科 + 一般 |
 MUSI 8002 Apprentice Teaching（春季 Lerch 有开）= 教学经历，对"音乐学院教职"目标直接有用。
 - 11-03：What-If 的 Concentration 列表里**没有任何 MSMT 选项**（只有 MBA / MSARCH / MSBCFM / MSCS / MSNE 等）→ DegreeWorks 不区分项目 / 论文轨，论文轨要求只能问 Erin。合并后的邮件：drafts/2026-11-03-email-erin-jackson.md（6204 例外、系外选修、论文轨、6203 先修、hold 留位）。
+- 11-03：项目 / 论文轨**第二年才选**（我确认，与项目说明一致）。现在不用定。排法原则：第二年系外课按优先级排 CS 7641 → CS 7643 → CS 7633 / BMED 7610；若选论文轨，MUSI 7000 的 6 学分挤掉的是最后那一门。Erin 邮件第 3 条改为只问论文轨要求。
