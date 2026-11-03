@@ -41,3 +41,30 @@
 - 毕业证英文认证翻译（**待做**）
 - 成绩单英文认证翻译（**待做**，需先拿到中文成绩单）
 - 身份证扫描件（备用）
+
+## 给教务处老师直接复制用的 GT 邮件（学校 → GT，英文，老师只需粘贴 + 加附件）
+To: transcripts@grad.gatech.edu
+Cc: ywang4818@gatech.edu
+Subject: Official academic documents – Yutian Wang (GTID ________) – Jiangsu Second Normal University
+
+Dear Georgia Tech Graduate Admissions,
+
+On behalf of Jiangsu Second Normal University, the Office of Academic Affairs is sending the official academic records of our graduate:
+
+Name: Wang Yutian (Yutian Wang)
+Date of birth: February 9, 2001
+Program: Musicology (Teacher Training), Bachelor of Arts
+Dates of study: September 2021 – June 2023
+Graduation certificate no.: 144361202305001811
+Degree certificate no.: 1443642023001561
+
+Attached:
+1. Official transcript (Chinese, sealed)
+2. Graduation certificate (Chinese, sealed copy)
+3. Bachelor's degree certificate (Chinese, sealed copy)
+4. Certified English translations of the above
+
+Please contact us at this address if any verification is needed.
+
+Office of Academic Affairs
+Jiangsu Second Normal University
