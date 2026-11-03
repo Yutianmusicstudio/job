@@ -212,3 +212,14 @@ EEG 实操靠：Shimon 观众研究、Claire 的 7100 CA 分节 / Neuroarts 课�
 | 2027 春 | ① CS 7641 / ISYE 6740，若候补没进 → 坐听，秋季正式修时轻松；② MUSI 6203（Albert，周一三 11:00）：没选的创作课，即兴系统贴 Shimon；③ PSYC 6090（若春季开 ⚠️）：EEG 理论 | ② 空（6002 到 10:45，7100 从 14:00）|
 | 2027 秋 | 正式修的课外，第三门落选者（CS 7633 / BMED 7610 / PSYC 6090 / CS 7785）| — |
 邮件模板三句：我是谁（MSMT 一年级，Weinberg 组）；为什么想听（具体到课的哪部分和我的项目）；只听不交作业，若需 Canvas 观察者权限可否开。
+
+## 2027 春选课定稿（11-03）
+| 课 | 分节 | CRN | 时间 | 学分 |
+|---|---|---|---|---|
+| MUSI 6001 Music Perception & Cognition | G（Claire）| 316…（截图截断）| 周二四 14:00–15:15 | 3 |
+| MUSI 6202 DSP for Music | 0（von Coler）| 35110 | 周二四 09:30–10:45 | 3 |
+| MUSI 6002 Computer Supported Interactive Music | G（Smith）| 35112 | 周一三 09:30–10:45 | 3 |
+| MUSI 7100 Research Lab | GW（Weinberg）| 342…（截图截断）| 周一三 14:00–14:50 | **改成 3** |
+注意：选研究生分节（G / 0 / GW），别选同时段的本科分节 MUSI 4677 UG、4459 0。不加系外课。
+步骤：① 现在用 OSCAR 的 Plan Ahead 把四门存成计划（hold 不影响做计划）→ ② hold 解除后 Register for Classes → Plans 页"Add All" → Submit → ③ 在 Schedule and Options 里把 7100 的 Hours 改成 3 → ④ 检查总 12 学分、无冲突、状态都是 Registered → ⑤ 截图存档。
+截止：Phase I 12-18 23:59；办公室 12-18 16:00 关门；hold 到 12-11 还没解除就找 Erin + 研究生院要临时解除。
