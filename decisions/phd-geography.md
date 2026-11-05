@@ -111,3 +111,4 @@
 | 系统音乐学 / 跨学科中心 | Ghent IPEM、Oslo RITMO、Jyväskylä | 音乐学 / 心理学 |
 找人用的搜索词：music cognition lab、music neuroscience、auditory cognitive neuroscience、"music and brain"、beat / rhythm perception EEG、musical imagery EEG。
 标签原则不变：同一个课题，挂在心理 / 神经 / ECE 下拿到的学位，就业面比挂在音乐学院下宽。
+- 2026-11-05 补：Claire 这类课题的名字 = **musical imagery / auditory imagery**（音乐表象、听觉表象），属于音乐认知神经科学；做 EEG 解码的一支也叫 **imagery decoding**，接 BCI 时叫 auditory-imagery BCI；Stober 的说法是 music imagery information retrieval（OpenMIIR）。这条线上的人（记忆所及，未本轮核验 ⚠️）：Andrea Halpern（Bucknell，听觉表象心理学）、Robert Zatorre（McGill，听觉表象神经机制）、Rebecca Schaefer（Leiden，音乐想象 EEG）、Giovanni Di Liberto（Trinity College Dublin，与 Marion、Shamma 2021 想象态解码）、Sebastian Stober（马格德堡，OpenMIIR ✅）、Claire Arthur（GT ✅）。Schaefer、Di Liberto 值得进候选表（欧洲线）。
