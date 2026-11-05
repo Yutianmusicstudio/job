@@ -99,3 +99,15 @@
 - 2026-10-30 补：选香港的一个实际理由：港科广的博士身份自动打开 HKUST 创业中心、HKUST × HKSTP Co-ideation、广州校内孵化这张创业网；欧洲博士没有对应的大湾区入口。见 people.md 六。
 
 - 2026-11-01 更正第八节：我已有 FSU 硕士（英语授课、已授予），香港"硕士英语授课"豁免直接成立，不依赖 GT 在读证明；内地"英语国家学位 + 留服认证"路径也可用 FSU 学位（需确认已做留服认证）。
+
+## 十、音乐 × 脑神经的实验室挂在什么专业下（2026-11-05，常识整理，未逐个核验 ⚠️）
+领域名：music cognition / music psychology（音乐心理学）、cognitive neuroscience of music（音乐认知神经科学）、auditory neuroscience（听觉神经科学）、systematic musicology（系统音乐学，欧洲用法）、neuromusicology。
+| 授予学位的系 | 例子（候选表里的人）| 学位标签 |
+|---|---|---|
+| 心理学 / 心理与脑科学 | McMaster Trainor（心理、神经科学与行为）、港中大 Teng（心理）、McGill / BRAMS | 理学，最通用 |
+| 神经科学 / 医学 | Aarhus 音乐与脑中心（临床医学）| 理学 / 医学 |
+| 电子工程 / 生医工程 | UMD Shamma（ECE / ISR）、城大 Rosa Chan、华工 BCI | 工学 |
+| 音乐学院（音乐理论与认知、音科）| GT Claire（音乐，兼心理）、Stanford Fujioka（CCRMA）| 视学校而定，多为音乐 |
+| 系统音乐学 / 跨学科中心 | Ghent IPEM、Oslo RITMO、Jyväskylä | 音乐学 / 心理学 |
+找人用的搜索词：music cognition lab、music neuroscience、auditory cognitive neuroscience、"music and brain"、beat / rhythm perception EEG、musical imagery EEG。
+标签原则不变：同一个课题，挂在心理 / 神经 / ECE 下拿到的学位，就业面比挂在音乐学院下宽。
