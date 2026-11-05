@@ -151,3 +151,21 @@ QMUL AIM / C4DM、UPF MTG、JKU Widmer、KAIST Nam、Indiana、中央音乐学�
 | 机器人 + 音乐 | — | 国大 Social Robotics Lab、南洋 IMI（Nadine）| 资料多为 2012–14 年，未找到机器人 + 音乐 | — | ❌ 弱 |
 钱：国大研究奖学金国际生 **S$3,000 / 月，通过资格考后 S$3,500**，通常 4 年，免学费 ✅（国大研究生院官方页）。SINGA 金额各来源不一 ⚠️。
 判断：新加坡对"脑神经 + 音乐"和"音乐科技 + 健康"很强，对"机器人 + 音乐"基本没有。Agres 的 AffectMachine 几乎就是终极 B（EEG 驱动音乐）+ 治疗域。
+
+## 2026-11-05 全球三路扫描（三个子进程并行，各 ~50 次检索；完整表见 decisions/sweeps/）
+| 路 | 新增 | ✅ 核实 | 文件 |
+|---|---|---|---|
+| 脑神经 + 音乐 | 29 | 12 | sweeps/2026-11-05-neuro-music.md |
+| 机器人 + 音乐 | 26 | 大部分招生情况为推断 | sweeps/2026-11-05-robot-music.md |
+| 纯音乐科技 | 26 | 18 | sweeps/2026-11-05-music-tech.md |
+
+### 每路前 8（子进程结论，我未逐一复核 ⚠️）
+**脑神经 + 音乐**：Casey（Dartmouth CS，想象解码 + 自监督，与 OpenMIIR 最对口）；Grahn（Western 心理，OpenMIIR 原始采集方）；Nozaradan（UCLouvain 神经，2026 有名额）；Overath（Duke，自然音乐 EEG 的 mTRF）；Pearce（QMUL EECS，AI&Music CDT）；Morillon / Schön（马赛 INS，MEG 节奏预测）；Farrugia（IMT Atlantique，深度学习 EEG，工程）；Jacoby（Cornell 心理）。
+**机器人 + 音乐**：Leonard（Princeton MAE，Beatbots）；Venture（东大机械，表现性动作 / Laban）；Iida（剑桥工程，合作钢琴机器人 T-RO 2024）；Knight（Oregon State 机器人，表现性动作）；Xambó（QMUL EECS，人机 live coding 博士招聘 2025-12）；Lim（SFU CS）；Alves-Oliveira（Michigan Robotics）；Giusti / Paolillo（IDSIA）。艺术标签备选：米海鹏（清华美院，墨甲机器人乐队，博导）、Wanderley（McGill）、Martin（ANU）。
+**纯音乐科技**：McGill IDMIL / CIRMMT；Michigan PAT（2026 秋有资助招生）；Aalborg Serafin；KAIST GSCT；Jyväskylä CoE（2027-01 起 2–6 个博士岗）；Nottingham I2MT / MRL（Horizon CDT）；Stanford CCRMA；港科广 CMA Red Bird。另：KUG Graz IEM SMC 博士项目（2 个资助岗）、UWE Bristol MICA（Tom Mitchell）、Western Sydney MARCS、Monash SensiLab、HfMT Hamburg。
+
+### 扫描后的判断
+- 三路加起来 80 多个新实验室，加上原有约 70 个 → 名单够大，**之后不再扩名单，只做筛选**。
+- 剔除名单（子进程给出理由）：Nina Kraus、Duncan Williams、Iversen、Kaneshiro、Matarić（兼 DeepMind）、Takanishi、Berdahl（荣退）。
+- 内地仍是最难核实的一块（上音 / 中传 / 北大无 2026 博士简章）。
+- 下一步（2027-03 前）：从三路前 8 里按"学位标签 + 2028 招生 + 回信概率"各挑 3 个进第一批套磁名单，与香港、新加坡的 Teng / Bhattacharya / Zhang / Agres / Ye Wang 合并成 15 人表。
