@@ -124,3 +124,19 @@ QMUL AIM / C4DM、UPF MTG、JKU Widmer、KAIST Nam、Indiana、中央音乐学�
 | 档 | 人 | 单位 | 线 | 备注 |
 |---|---|---|---|---|
 | 保底（GT 内部合作导师）| Claire Arthur | GT 音乐学院副教授、CCML | 神经 | 2026-05 Neuroarts 奖，EEG 音乐想象课题 ✅；与 OpenMIIR 论文同题；本周约见 |
+
+## 2026-11-05 香港完整清单（按"音乐想象 EEG"主线分档）
+| 档 | 人 | 单位 / 系 | 做什么 | 学位标签 | 状态 |
+|---|---|---|---|---|---|
+| A 核心 | Xiangbin Teng | 港中大 心理系 | EEG / MEG 音乐与语音时间结构、乐句预测 | 心理学 | ✅ |
+| A 核心 | **Joydeep Bhattacharya** | **浸大 音乐系** | 认知神经科学家（前 Goldsmiths 心理学教授）；音乐认知与情绪、神经美学、创造力、心流；EEG / MEG / fMRI / 脑刺激 | 浸大音乐 PhD（48 个月，可申 HKPFS）→ 标签偏音乐 ⚠️ | ✅ 新增 |
+| A 核心 | Patrick Wong | 港中大 语言学 / 脑与心智研究所 | 听觉神经科学、音乐认知、语言 | 语言学 / 神经 | ✅ |
+| B 相邻 | **Caicai Zhang** | 理大 语言科学与技术系（原中文及双语学系），NeuroLML 实验室 | 语言与音乐的神经认知、记忆、睡眠；**主页写招 RA / PhD / 博后** | 语言科学 | ✅ 新增 |
+| B 相邻 | Ran Tao | 理大 | 音乐训练对语言加工的影响，EEG / fMRI | 语言科学 | ✅ |
+| B 相邻 | **William Choi** | 港大 言语及听觉科学，Speech and Music Perception Lab | 超音段言语感知、音乐认知（是否用 EEG 未确认）| 言语科学 | ✅ 新增 |
+| C BCI | Rosa Chan | 城大 电机工程系 | BCI、计算神经、神经假体；页面标"接收博士生" | 工学 | ✅ |
+| C BCI | Raymond Tong | 港中大 生医工程 | EEG BCI 中风康复 | 工学 | ✅（2024 存档）|
+| D 具身 | Xiaojuan Ma | 科大 计算机系 | HRI、社交机器人 | 工学 | ✅ |
+| D 作品 | 港科广 CMA | 信息枢纽 | 声音艺术、机器人艺术、HRI；无具名教授 | — | ⚠️ |
+| 不优先（偏 MIR / 生成）| Yike Guo（科大 MACRE 实验室，音乐与音频生成）、Wei Xue、Anyi Rao（科大 AI 音乐）、Andrew Horner（科大 CSE，电脑音乐）| — | — | — | ✅ |
+| 不优先 | Sara Li | 都会大学 | 音乐认知，部分用 EEG / 眼动 | — | ✅ |
