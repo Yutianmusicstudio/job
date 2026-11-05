@@ -113,3 +113,4 @@
 标签原则不变：同一个课题，挂在心理 / 神经 / ECE 下拿到的学位，就业面比挂在音乐学院下宽。
 - 2026-11-05 补：Claire 这类课题的名字 = **musical imagery / auditory imagery**（音乐表象、听觉表象），属于音乐认知神经科学；做 EEG 解码的一支也叫 **imagery decoding**，接 BCI 时叫 auditory-imagery BCI；Stober 的说法是 music imagery information retrieval（OpenMIIR）。这条线上的人（记忆所及，未本轮核验 ⚠️）：Andrea Halpern（Bucknell，听觉表象心理学）、Robert Zatorre（McGill，听觉表象神经机制）、Rebecca Schaefer（Leiden，音乐想象 EEG）、Giovanni Di Liberto（Trinity College Dublin，与 Marion、Shamma 2021 想象态解码）、Sebastian Stober（马格德堡，OpenMIIR ✅）、Claire Arthur（GT ✅）。Schaefer、Di Liberto 值得进候选表（欧洲线）。
 - 2026-11-05 香港清单扩充见 phd-candidates.md 末节：新增浸大 Bhattacharya（音乐系里的认知神经科学家）、理大 Caicai Zhang（招 PhD）、港大 William Choi。
+- 2026-11-05：新加坡加入地区表。强项：国大 Kat Agres（EEG 音乐 BCI + 音乐健康）、南洋 Cuntai Guan（BCI）、国大 Ye Wang（音乐计算 + 健康，计算机学位）；弱项：机器人 + 音乐。奖学金 S$3,000→3,500 / 月。见 phd-candidates.md。

@@ -140,3 +140,14 @@ QMUL AIM / C4DM、UPF MTG、JKU Widmer、KAIST Nam、Indiana、中央音乐学�
 | D 作品 | 港科广 CMA | 信息枢纽 | 声音艺术、机器人艺术、HRI；无具名教授 | — | ⚠️ |
 | 不优先（偏 MIR / 生成）| Yike Guo（科大 MACRE 实验室，音乐与音频生成）、Wei Xue、Anyi Rao（科大 AI 音乐）、Andrew Horner（科大 CSE，电脑音乐）| — | — | — | ✅ |
 | 不优先 | Sara Li | 都会大学 | 音乐认知，部分用 EEG / 眼动 | — | ✅ |
+
+## 2026-11-05 新加坡（6 次检索）
+| 路 | 人 | 单位 | 做什么 | 学位标签 | 状态 |
+|---|---|---|---|---|---|
+| 脑神经 + 音乐 | **Kat Agres** | 国大 杨秀桃音乐学院，Centre for Music and Health 创始主任（2023）| 音乐认知、计算创造力、音乐健康干预；**EEG 音乐 BCI：AffectMachine，用 EEG 实时生成音乐帮助情绪自我调节**；Cornell 心理学博士 | 音乐学院 → 偏音乐 ⚠️ | ✅ |
+| 脑神经 + 音乐（工程端）| **Cuntai Guan** | 南洋理工 计算机与数据科学学院副院长，Centre for Brain-Computing Research | BCI 大牛（A*STAR BCI 创始人、FBCSP）；中风康复、ADHD、认知训练；与格拉茨工大 Müller-Putz 联合培养博士 | 工学 | ✅ |
+| 纯音乐科技（工程标签）| **Ye Wang** | 国大 计算机学院，Sound and Music Computing Lab | "音乐计算促进人类健康与潜能"；中风康复、学习；在带约 6 名博士 | 计算机 | ✅ |
+| 纯音乐科技（偏 MIR）| Dorien Herremans | 新科大 AMAAI 实验室 | 音乐生成、情绪预测、MIR；资助优先新加坡 / 东盟，国际生需另申资助 | 工学 | ✅（偏 MIR，不优先）|
+| 机器人 + 音乐 | — | 国大 Social Robotics Lab、南洋 IMI（Nadine）| 资料多为 2012–14 年，未找到机器人 + 音乐 | — | ❌ 弱 |
+钱：国大研究奖学金国际生 **S$3,000 / 月，通过资格考后 S$3,500**，通常 4 年，免学费 ✅（国大研究生院官方页）。SINGA 金额各来源不一 ⚠️。
+判断：新加坡对"脑神经 + 音乐"和"音乐科技 + 健康"很强，对"机器人 + 音乐"基本没有。Agres 的 AffectMachine 几乎就是终极 B（EEG 驱动音乐）+ 治疗域。
