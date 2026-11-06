@@ -169,3 +169,10 @@ QMUL AIM / C4DM、UPF MTG、JKU Widmer、KAIST Nam、Indiana、中央音乐学�
 - 剔除名单（子进程给出理由）：Nina Kraus、Duncan Williams、Iversen、Kaneshiro、Matarić（兼 DeepMind）、Takanishi、Berdahl（荣退）。
 - 内地仍是最难核实的一块（上音 / 中传 / 北大无 2026 博士简章）。
 - 下一步（2027-03 前）：从三路前 8 里按"学位标签 + 2028 招生 + 回信概率"各挑 3 个进第一批套磁名单，与香港、新加坡的 Teng / Bhattacharya / Zhang / Agres / Ye Wang 合并成 15 人表。
+
+## 2026-11-06 压成 15 人套磁表 → `decisions/phd-outreach-15.md`
+- 主攻线暂按脑神经（7）+ 机器人（4）+ 纯音科（4）；主攻线待我定。
+- 更正：**Iida 已从剑桥调到东京大学精密工学专攻**（2025 年起，兼剑桥 research professor）⚠️。
+- 更正：**Jyväskylä CoE 最后一轮博士岗 2026-09-13 已截止**（合同 2027-01 起三年），2028 入学不再算它的 CoE 名额 ✅。
+- 新增具名：港科广 CMA 的 Omar Costa Hamido（组里出钱的名额限量子方向）、Raul Masu（adjunct）⚠️。
+- 澄清：Di Liberto, Marion & Shamma 2021 的想象解码论文在 Frontiers in Neuroscience（*Accurate Decoding of Imagined and Heard Melodies*），J Neurosci 那篇是 *Music of Silence Part II*。
