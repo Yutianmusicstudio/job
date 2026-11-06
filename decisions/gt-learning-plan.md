@@ -237,3 +237,37 @@ EEG 实操靠：Shimon 观众研究、Claire 的 7100 CA 分节 / Neuroarts 课�
 - 论文轨：2028 春把"一般选修第三门"换成 MUSI 7000（6 学分）→ 该学期 15 学分，或把 8002 挪走。
 - 候补：7641 进不去 → ISYE 6740；6201 不开 → 6304 或 6106。
 - 旁听（每学期 ≤1）：2027 春 6203 或 7641 预热；2027 秋 主线课的落选者。
+
+## DegreeWorks 要求逐条解释（2026-11-06）
+**A. 定死的（不用选）**
+| 要求 | 课 | 内容 | 状态 |
+|---|---|---|---|
+| 核心 | MUSI 6001 Music Perception & Cognition | 人怎么听音乐：听觉系统、心理声学、音乐认知 | 春季修 |
+| 核心 | MUSI 6003 Music Tech History & Repertoire | 音乐科技史与经典作品 | 在修 |
+| 核心 | MUSI 6202 DSP for Music | 音乐分析与合成的数字信号处理 | 春季修 |
+| 核心 | MUSI 8001 Research Methods | 研究设计、数据集、评估、引用、写作与展示 | 在修 |
+| 研究 | MUSI 7100 Research Lab ×4 = 12 学分 | 跟导师做研究，Weinberg 分节 | 在修第 1 次 |
+
+**B. 创作课，三选一（3 学分）**
+| 课 | 内容 | 对你 |
+|---|---|---|
+| MUSI 6002 Computer Supported Interactive Music | 交互音乐系统的理论与实践；读文献、讨论、展示、设计期末项目 | **选这门**：HCI 标签，期末做 pet 或 EEG 驱动音乐 |
+| MUSI 6004 Technology Ensemble | 科技合奏团（2026 秋主题"Scores and Systems"，von Coler）：用新乐器和系统做非传统音乐演出 | 偏演出，每学期主题不同 |
+| MUSI 6203 Project Studio | 计算机音乐应用与演奏控制器的讨论、设计、开发 | 偏动手，DegreeWorks 标有先修 |
+
+**C. 音乐科技选修，6 学分，只能从这六门选两门**
+| 课 | 内容 | 对你 |
+|---|---|---|
+| MUSI 6103 Music Recording & Mixing | 录音与混音 | 无用 |
+| MUSI 6104 Integrating Music into Multimedia | 音乐与音频用于多媒体和网络的工具技术（Muller）| 无用 |
+| MUSI 6106 Audio Software Engineering | 音频软件工程（内容未查到 ⚠️，名字看是 C++ 音频开发）| **候选**：唯一可能给 C++ 的课 |
+| MUSI 6201 Audio Content Analysis | 音频内容分析，Lerch，MIR 工具链 + 机器学习 | **选**：音频 ML |
+| MUSI 6304 Computer Music Composition | 电脑音乐作曲（Muller）| 无用 |
+| MUSI 8002 Apprentice Teaching | 学徒教学，跟老师带一门课 | **选**：教职经历 |
+→ 两个名额：6201 + 8002；若 6106 真教 C++ 音频开发，6106 顶掉 8002 或 6201。
+
+**D. 一般选修，15 学分（6204 获例外后 12）**
+范围："咨询导师，导师批准的课做例外"→ 任何系的 6000 级以上课都可能，需 Erin / Weinberg 批。
+计划：CS 7641 → CS 7643 → 主线课（CS 7633 / BMED 7610 / PSYC 6090 / CS 7785）。
+
+**E. 其他硬规则**：总 48；6000 级以上 ≥30；GPA ≥2.7；所有课程须导师和系主任批准。
