@@ -271,3 +271,21 @@ EEG 实操靠：Shimon 观众研究、Claire 的 7100 CA 分节 / Neuroarts 课�
 计划：CS 7641 → CS 7643 → 主线课（CS 7633 / BMED 7610 / PSYC 6090 / CS 7785）。
 
 **E. 其他硬规则**：总 48；6000 级以上 ≥30；GPA ≥2.7；所有课程须导师和系主任批准。
+
+## 全校系外课扫描（2026-11-06，子进程，24 门，22 门 ✅；全表 decisions/sweeps/2026-11-06-gt-outside-courses.md）
+GT **没有**研究生级 BCI / EEG 课；唯一 EEG 课是本科 NEUR 3832 EEG Lab。
+在原有名单（7641 / 7643 / 7633 / 7785 / BMED 7610 / PSYC 6090）之外，值得进选修池的：
+| 课 | 内容 | 线 | 备注 |
+|---|---|---|---|
+| **ECE 6122 Advanced Programming**（Hurley，F26）| C++、GPU、网络编程 | 全部 | **唯一补 C++ 的正课**，可替代"固定时段自学" |
+| **CS 7648 Interactive Robot Learning**（Gombolay，F26）| 示范学习 + 人类被试实验 | 机器人 | 比 7633 更工程，pet 对口 |
+| PSYC 6018 Research Design / 7101 | 实验设计 | 神经 / HCI | 被试研究的方法课 |
+| ISYE 6414 Regression（F26）| 回归统计 | 全部 | 用户研究与 EEG 特征分析 |
+| CS 6750 HCI（Dombrowski / Joyner，F26，无先修）| 用户研究方法 | HCI | 第三张标签的底 |
+| ECE 6254 Statistical ML（F26，有一节曾取消 ⚠️）| 信号处理口味的 ML | 神经 | 7641 的替代 |
+| ECE 6255 Speech Signal Processing（先修 ECE 4270）| 最深的音频 DSP | 音科 | 先修门槛高 |
+| CS 7470 Mobile & Ubiquitous Computing（Zeagler，Su26）| 可穿戴传感项目 | HCI / 治疗 | 捏握乐器、生理信号接口 |
+| CS 6456 UI Software（Edwards，F26）| 交互系统与工具包 | HCI | — |
+| CS 7642 Reinforcement Learning（F26）| 强化学习 | 机器人 | 7641 之后 |
+未见 2025–27 开课：CS 7644、7649、7460、6455、ME 6405、LMC 8803、BMED 6517。
+**对三学期选修池的修正**：一般选修 12 学分 = CS 7641 + CS 7643 + ECE 6122（C++）+ 主线课，刚好四门；若 6204 例外未批则砍主线课改旁听。
