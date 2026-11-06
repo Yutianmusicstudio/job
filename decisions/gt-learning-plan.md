@@ -301,3 +301,4 @@ GT **没有**研究生级 BCI / EEG 课；唯一 EEG 课是本科 NEUR 3832 EEG 
 - 11-06 实测：ISYE 6740 B（谢瑶，周二四 11:00，CRN 29440）→ **Department Restriction**；CS 7641 A → 需 permit。两门 ML 对外系都锁。更正：Roozbahani 是 CSE 讲师，非博士生。结论：春季 ML 课能否上完全取决于 permit 回信；默认按原方案 6002，permit 批了再换。6740 B 的 permit 走 ISyE 研究生办公室 / 谢瑶本人，和 7641 并行申请，哪个先批上哪个。
 - 11-06 **两件定案**：① Bursar 回复（DeAndra）："Yes, that is correct"——12 学分以上按学期定额，15 学分不加钱 ✅。② 研究生院邮件"Application Verification is Complete"——入学材料核验完成，hold 永久解除 ✅；二师直发与翻译流程停止。
 - 春季定稿：6001（已注册）+ 6202（permit 待 Erin）+ 7100 GW（permit 待 Erin，3 学分）+ CS 7641 A（permit 待 Roozbahani，不批则 6002）。超修免费 → 若 7641 批下且想保 6002，可上 15 学分，但不建议（数学与时间）。
+- 11-06 OSCAR 实况：**6001（31686）、6203 A（35108，先修未拦）已注册**；Pending：6202（35110）、7100 GW（**34205**，学分需改 3）、7641 A（23368）。创作课定 6203（Albert，即兴系统，期末对 pet）。若三门全批 → 15 学分，不加钱；是否保留 7641 待寒假自测。
