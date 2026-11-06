@@ -37,5 +37,6 @@
 
 ## 分线（2026-11-06 起）
 - **选课 / GT 事务线**（原对话）：课程、permit、hold、学费、GRA、旁听。写 `decisions/gt-*.md`、`drafts/` 里的校内邮件。
-- **博士申请线**（新对话，开场说明 `briefs/2026-11-06-phd-thread-brief.md`）：候选、套磁、SoP、会议、人脉。写 `decisions/phd-*.md`、`sweeps/`、`people.md`、`imagery-phd-pitch.md`。
+- **博士申请线**（新对话，开场说明 `briefs/2026-11-06-phd-thread-brief.md`）：候选、套磁、SoP、会议、人脉。写 `decisions/phd-*.md`、`decisions/sweeps/`、`decisions/people.md`、`decisions/imagery-phd-pitch.md`、`drafts/` 里的套磁信。
 - 两线共用 profile.md、projects/、conversations/、sources.md；改同一文件前先 pull。
+- 每个会话各有自己的 `claude/*` 分支，两线只在 master 汇合：开工先 `git pull origin master`，收工把本分支并回 master，另一条线下次 pull 才看得到。
