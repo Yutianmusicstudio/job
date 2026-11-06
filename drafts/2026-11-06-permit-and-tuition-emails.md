@@ -12,9 +12,9 @@ Subject: Permit request – CS 7641 A (CRN 23368), Spring 2027 – MS Music Tech
 
 Dear Prof. Roozbahani,
 
-I am a first-year MS Music Technology student (GTID ________) in Prof. Gil Weinberg's lab. I would like to take CS 7641 A (CRN 23368) in Spring 2027 as an approved elective for my degree. It is the prerequisite for CS 7643, and my current research (EEG decoding of musical imagery; a first-author manuscript under preparation) uses the methods the course covers. I have completed [list: Python / linear algebra / probability coursework or equivalent projects].
+I am a first-year MS Music Technology student (GTID ________). My current projects need a solid machine learning foundation: I built a small CNN pipeline for sheet-music analysis that is now deployed, and I am working on EEG decoding for a manuscript. I would like to take CS 7641 A (CRN 23368) in Spring 2027 rather than keep learning this piecemeal; it also counts as an approved elective for my degree.
 
-Registration currently requires a permit for students outside the College of Computing. Could you approve a permit, or let me know whom to ask? Section A still shows open seats.
+Registration shows a permit requirement for students outside the College of Computing. Could you approve one, or let me know whom to ask? Section A still has open seats, and the time does not conflict with my other courses.
 
 Thank you,
 Yutian Wang
