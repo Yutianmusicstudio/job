@@ -302,3 +302,4 @@ GT **没有**研究生级 BCI / EEG 课；唯一 EEG 课是本科 NEUR 3832 EEG 
 - 11-06 **两件定案**：① Bursar 回复（DeAndra）："Yes, that is correct"——12 学分以上按学期定额，15 学分不加钱 ✅。② 研究生院邮件"Application Verification is Complete"——入学材料核验完成，hold 永久解除 ✅；二师直发与翻译流程停止。
 - 春季定稿：6001（已注册）+ 6202（permit 待 Erin）+ 7100 GW（permit 待 Erin，3 学分）+ CS 7641 A（permit 待 Roozbahani，不批则 6002）。超修免费 → 若 7641 批下且想保 6002，可上 15 学分，但不建议（数学与时间）。
 - 11-06 OSCAR 实况：**6001（31686）、6203 A（35108，先修未拦）已注册**；Pending：6202（35110）、7100 GW（**34205**，学分需改 3）、7641 A（23368）。创作课定 6203（Albert，即兴系统，期末对 pet）。若三门全批 → 15 学分，不加钱；是否保留 7641 待寒假自测。
+- 11-06 Erin 回信（erin.jackson@music.gatech.edu）：① **6204 例外批了**，记入 Additional Elective，也算 general ✅ → 一般选修剩 12；② 6202 的 permit 暂缓，系里"行政层面有问题在处理"，承诺毕业前能修 ⚠️ 等她通知；③ 同时收到 PERMITS 系统自动邮件"Approval of Registration Override Request"→ 大概率是 7100 GW 的 permit 已放，去 OSCAR 再 Submit 一次。
