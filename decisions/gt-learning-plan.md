@@ -296,3 +296,4 @@ GT **没有**研究生级 BCI / EEG 课；唯一 EEG 课是本科 NEUR 3832 EEG 
 3. **自学 vs 注册**：要上成绩单 / 当先修 / 要别人认 → 注册；只要会 → Udacity（GT 自己的 ML 课免费）/ YouTube。
 - 春季新发现：BMED 7610 春季开（Stanley，周二四 12:30，27 座），与 7641 A 同时段，二选一；7641 已 Pending（CRN 23368），待 Submit。
 - 11-06 permit 现实：**CS 研究生课 permit 原则上只给计算机学院及其跨学科项目的研究生** ✅（CoC FAQ）；音乐系学生要走例外：直接邮件授课老师（7641 A：Max Roozbahani）请求 permit，附 GTID + CRN 23368 + 一句理由（7643 先修、EEG 解码研究）；不行就改 ISYE 6740（工业工程，对外系较松 ⚠️）。MUSI 6202 permit 走 Erin（Teams 规则：邮件 + GTID + CRN 35110）。Bursar：bursar.ask@business.gatech.edu，(404) 894-4618 ✅。GRA 春季大概率无 → 不堆学分。
+- 11-06 核实："跨学科可选外系课"是 MSMT 的规则，"给不给 permit"是 CS 的规则（只给 CoC 与关联跨学科项目，名单未公开 ⚠️）；两者不矛盾，决定权在 CS → 邮件授课老师 + cse-advisor@cc.gatech.edu。超修是否免费：学费表只有"12 or more"定额一栏，政策文字未找到 ⚠️ → 邮件 bursar.ask@business.gatech.edu。两封草稿：drafts/2026-11-06-permit-and-tuition-emails.md。
