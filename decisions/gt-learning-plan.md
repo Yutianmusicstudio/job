@@ -346,3 +346,4 @@ GT **没有**研究生级 BCI / EEG 课；唯一 EEG 课是本科 NEUR 3832 EEG 
   | MUSI 8803 Hip-hop & Data Science（Condit-Schultz）| MW 12:30 | 一般选修（需例外）| 有趣、轻，数据分析 |
   | BMED 7610 Computational Neuroscience（Stanley）| TR 12:30，27 座 | 一般选修（需例外）| 原计划 2027 秋的主线课；permit 规则未查 ⚠️；春季同时修太重 |
 - 定案：春季第五门**只留给 6202**。12 学分底线由 6002 占位保证；Erin 放 6202 就加成 15 或退 6002（寒假自测后定）。不为"测学费"专门加课——Bursar 已白纸黑字。
+- 11-09 BMED 7610 补充：教材 Dayan & Abbott《Theoretical Neuroscience》（MIT Press 2001）✅，即经典"理论神经科学"路线——神经元生物物理模型、放电编码 / 解码、网络动力学、突触可塑性与学习，数学为主（微分方程、线性代数、概率）。**不讲 EEG、不讲 BCI 管线**。对你的价值是"神经科学"标签和编码 / 解码的理论语言（博士面试能讲 population coding、decoding），不是实操。syllabus.gatech.edu 本会话网络不可达 ⚠️，周次表未读。
