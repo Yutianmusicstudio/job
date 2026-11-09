@@ -14,6 +14,7 @@
 | `decisions/phd-candidates.md` | 博士候选实验室清单（中美 / 欧洲） |
 | `decisions/phd-readiness.md` | 博士申请准备度自评与申请组合 |
 | `decisions/salary-guangzhou.md` | 广州各类单位博士 / 博后薪资与补贴 |
+| `decisions/phd-checklist.md` | 申博清单：材料 / 人 / 递交，31 件事各带截止与归属线 |
 | `decisions/phd-outreach-15.md` | 15 人套磁表：系、学位标签、2028 招生、最相关一篇、讲法、发信顺序 |
 | `decisions/phd-roadmap.md` | PhD 申请路线定稿：八所、时间线、四个决策点 |
 | `decisions/priorities.md` | 项目优先级规则：两篇论文一个 demo 在飞 |
