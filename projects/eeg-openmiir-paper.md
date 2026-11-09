@@ -66,3 +66,12 @@ NC 的解释；术语表；主文种子与小数下沉；Table 3 / 5 加一句"�
 
 ### 对 Claire 的角度
 不再是"同题解码"，而是"配对设计 + 固定顺序会让验证失真"的方法学提醒。她的 Neuroarts 想象研究是新采数据，**条件顺序要平衡**，这篇正好是反例。邮件改口：附这篇，说"这是我们在 OpenMIIR 上踩到的坑，可能对你的采集设计有用"。比"同题"更站得住，也更有用。
+
+## 2026-11-08 已投 PeerJ（来源：本人 11-09 提供的投稿摘要）
+- 题目定稿：**Paired-trial grouping and validation sensitivity in cued and uncued music imagery decoding in OpenMIIR**
+- 期刊：PeerJ（不是 PeerJ CS），稿件号 152942，状态 Checking。
+- 作者：Yutian Wang（一作，GT 音乐学院，ORCID 0009-0008-4269-246X）；Keling Wang（江苏二师）；Ruiting Chen（通讯，广东工业大学通识教育中心）。
+- 定位：验证方法案例研究，10 人全集。按配对分组 CV 中位数 0.541（logreg）/ 0.548（RF）；按试次分组 0.469 / 0.448；删除配对伙伴比匹配对照高 0.067 / 0.097。不对音乐想象机制下结论。
+- 可复现包：Zenodo 2.0，https://doi.org/10.5281/zenodo.24048111（套磁可直接附）。
+- 投稿史：Brain Sciences 直接拒；PLOS ONE 2026-08-20 编辑拒（预处理描述不足、条件对比含糊、n=10、文献薄弱）。套磁信里不提。
+- 状态：进行中（在审）。
