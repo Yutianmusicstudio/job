@@ -171,3 +171,11 @@ NIME 2027、ICMC 2027、SMC 2027、AIMC 2027、WoRMS 2027、DLfM 2027、MOCO 202
 ## 2026-10-27 · 临时问：Gotham Sound Atlanta Mixer Mixer 2026
 - 是什么：Gotham Sound（影视现场录音器材商）每年 11 月初在亚特兰大办的**影视现场录音师**聚会：周五晚店里（500 Bishop St NW，离 GT 很近）开场派对 + 厂商摆摊（Lectrosonics、DPA、Sanken、K-Tek 等），周六在 IATSE Local 479 工会厅办厂商工作坊。2025 为 11-07 至 09 ✅；2026 页面本会话无法打开（域名未放行）⚠️，日期按惯例推 11 月初。
 - 判断：**不算事业投入，可算放松。** 人群是影视剧组录音师和器材代理，不是音乐科技、HRI、BCI；不过会议两条前置（会前邮件、导师引荐）。如果免费、就在隔壁、你想摸一晚上无线和话筒，去开场派对两小时无妨，不记入事件计划。
+
+## 2026-11-10 · AIMC 2027（选课线代记，会议归博士线判断）
+- 来源：音乐学院 Teams，Eric Honour 转发的征稿（截图）；官网 2027.aimusiccreativity.org/calls 未打开核对 ⚠️。
+- AI and Musical Creativity 2027，蒙特利尔，**2027-08-18 至 20**，CIRMMT + 蒙特利尔大学，主题"At the Limits of Immersion"。收研究论文、音乐作品、工作坊。**摘要 2027-02-21，全文 2027-02-28**。
+- 对口项目：perfagent 研究 1（误差传播 / 编造率评测）最合；视觉系统的 AI 伴奏可投作品或 demo。
+- 约束：在飞论文 ≤2，PeerJ 投出后才开 perfagent 论文槽 → PeerJ 须 2026-12 投出，否则 2-28 赶不上。TENOR 12-15（measure-numbers）在前。
+- 行程：会期在暑期回国末尾、秋季开学前；中国护照去加拿大要访客签证，且回美 F-1 签证须有效 → 路线可排成 国内 → 蒙特利尔 → 亚特兰大，签证提前 2–3 个月办。差旅：SGA Conference Fund 春季申。
+- 判断：**值得作为 perfagent 的目标截止日**，去不去等录用后再定。
