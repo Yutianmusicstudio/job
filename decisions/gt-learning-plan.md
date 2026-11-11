@@ -386,3 +386,12 @@ GT **没有**研究生级 BCI / EEG 课；唯一 EEG 课是本科 NEUR 3832 EEG 
 - 做法：① 回 Roozbahani：感谢，说明 CoC 的答复，请他保留这份同意，开学第一天若仍需老师许可再请他发；② 新开一张 CoC 工单（gradregistration@cc.gatech.edu），附老师同意的邮件，问"授课老师已同意，有没有可提前办理的表"。问一次即可，不追。
 - 这封回信的真实价值：开学当天若座位已满或仍限 permit，有老师的书面同意可用。7641 留不留仍看寒假数学自测。
 - 11-11 DocuSign 表二次检索（extended）：CoC 研究生注册页确有 DocuSign 表，**但只有两张**——研究生修 3000 / 4000 级 CS / CX 课、研究生修 1000 / 2000 级 CS 课，均由授课老师填、自动流转签字 ✅。**没有**"外院研究生修研究生级 CS 课"的表（7641 是 7000 级，不适用）。Registrar：permit 由开课院系发，申请写目的 + GTID + CRN ✅。cc.gatech.edu / registrar.gatech.edu 本会话网络不可达，未能逐字读页面 ⚠️ → 由我自己打开 cc.gatech.edu/student-registration-dates-information-graduate 看一眼 Forms 区，或以 CoC 工单回复为准。
+
+## 11-11 CoC 研究生注册页原文（我手动打开贴来，Spring 2027 版）——定论 ✅
+- **没有**外院研究生修 CS 研究生课的表。Forms 只有六张：8903、6999、7000、3000 / 4000 级、1000 / 2000 级、本科生修研究生课。Roozbahani 说的 DocuSign 不存在于这个场景。
+- 原文："All CS/CSE graduate courses will be PERMIT RESTRICTED for the ENTIRETY of Phase I"；Permit 与 Major Restrictions 在 Phase I **都不解除**；permit 只发给 CoC 及关联跨学科项目的研究生（靠 10-19 至 10-28 的问卷）。
+- 原文："Please DO NOT email a professor to seek permission… professors have no control over this." → 老师签字无效；**不再给 CoC 开第二张工单**（撤回 11-11 上一条的做法 ②）。
+- 原文："We DO NOT accept requests for overrides." 课满只能上候补；候补通常在 Phase II 结束前的周三撤掉。
+- 原文：非 CoC 学生"见上文 major restrictions 何时解除"——本页未给日期；helpdesk #478059 说的是**开学第一天**。另："没拿到 Phase I permit 不等于不能上，Phase II 可继续尝试注册"。
+- 结论：7641 A 唯一的路 = 开学第一天（Phase II 内）限制解除后去 OSCAR 加；满了就上候补；进不去就 2027 秋。春季 12 学分照旧用 MUSI 课守住。
+- CS 7785 需 Christian Middleton（christian.middleton@cc.gatech.edu）许可 ✅，备查。
