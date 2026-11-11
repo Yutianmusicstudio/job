@@ -385,3 +385,4 @@ GT **没有**研究生级 BCI / EEG 课；唯一 EEG 课是本科 NEUR 3832 EEG 
 - 已知规则：CoC helpdesk（#478059）说外院生等开学第一天限制解除；CoC 研究生注册页另写"开学后仍限 permit 的课须授课老师许可"✅（2026 春页面，当期待核 ⚠️）。检索未找到给外院研究生用的 DocuSign 表（现有表只管本科生修研究生课、研究生修本科课、CSE 7000 / 8903 等）。
 - 做法：① 回 Roozbahani：感谢，说明 CoC 的答复，请他保留这份同意，开学第一天若仍需老师许可再请他发；② 新开一张 CoC 工单（gradregistration@cc.gatech.edu），附老师同意的邮件，问"授课老师已同意，有没有可提前办理的表"。问一次即可，不追。
 - 这封回信的真实价值：开学当天若座位已满或仍限 permit，有老师的书面同意可用。7641 留不留仍看寒假数学自测。
+- 11-11 DocuSign 表二次检索（extended）：CoC 研究生注册页确有 DocuSign 表，**但只有两张**——研究生修 3000 / 4000 级 CS / CX 课、研究生修 1000 / 2000 级 CS 课，均由授课老师填、自动流转签字 ✅。**没有**"外院研究生修研究生级 CS 课"的表（7641 是 7000 级，不适用）。Registrar：permit 由开课院系发，申请写目的 + GTID + CRN ✅。cc.gatech.edu / registrar.gatech.edu 本会话网络不可达，未能逐字读页面 ⚠️ → 由我自己打开 cc.gatech.edu/student-registration-dates-information-graduate 看一眼 Forms 区，或以 CoC 工单回复为准。
