@@ -23,6 +23,7 @@
 | `decisions/startups-in-field.md` | 本领域创业案例与规律 |
 | `decisions/gt-campus.md` | GT 校内活动与旁听规则 |
 | `decisions/gt-resources.md` | 最大化利用学校资源：框架、逐类、前十动作 |
+| `learning/` | 自学系统：五条线、每周流程、考官提示词、学习记录、AI 错误记录（三线共用） |
 | `ideas/map.md` | 所有想法的唯一总览，按主线两半 + 成熟度分层 |
 | `ideas/inbox.md` | 想法收件箱（入口），新想法先进这里过五问 |
 | `conversations/` | 每次对话的记录，文件名 `YYYY-MM-DD-主题.md` |
