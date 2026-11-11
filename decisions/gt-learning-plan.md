@@ -395,3 +395,13 @@ GT **没有**研究生级 BCI / EEG 课；唯一 EEG 课是本科 NEUR 3832 EEG 
 - 原文：非 CoC 学生"见上文 major restrictions 何时解除"——本页未给日期；helpdesk #478059 说的是**开学第一天**。另："没拿到 Phase I permit 不等于不能上，Phase II 可继续尝试注册"。
 - 结论：7641 A 唯一的路 = 开学第一天（Phase II 内）限制解除后去 OSCAR 加；满了就上候补；进不去就 2027 秋。春季 12 学分照旧用 MUSI 课守住。
 - CS 7785 需 Christian Middleton（christian.middleton@cc.gatech.edu）许可 ✅，备查。
+
+## 11-11 第四门改找系外课（我提：统计 / 数学 / 机器人都比 6002 强）
+- 同意。6002 降为最后保底。春季第四门优先级：6202（等 permit）> 系外工具课 > 7641（开学第一天）> 6002。
+- 约束：须 6000 级以上才稳妥计入（研究生修 1000–3000 级无学分 ✅ CoC 页原文）；记入一般选修要 Erin / Weinberg 批；CoC 全锁、ISYE 6740 实测 Department Restriction；空闲时段 = 周二四 11:00–13:45、周一三 12:30–13:45、周一三 15:00 后、周五。
+- 候选（春季是否开、时间、限制**均未核** ⚠️，需我在 OSCAR 查）：
+  1. PSYC 6018 Principles of Research Design / PSYC 的研究生统计序列（6019 秋 → 6020 春，6020 可能要先修）：被试实验设计 + 统计，直接喂 Shimon 观众 EEG 研究和 IRB；数学难度合适。**首选**。
+  2. ISYE 6414 Regression Analysis：回归，EEG 特征与用户研究分析；ISyE 可能同样锁外系。
+  3. PSYC 7101 Engineering Psychology Methods（2025 春开过）：人机系统研究方法，HRI 标签。
+  4. 机器人：ME 6407 Robotics（春季，先修 ME 3015 / ECE 3550，运动学动力学，数学重）不建议；CS 7785 / 7648 / 7633 都在秋季且 CoC 锁。春季没有合适的机器人课。
+  5. 数学：研究生级 MATH 课过陡；本科线代 / 概率无学分 → 寒假自学，不占课位。
