@@ -437,3 +437,6 @@ GT **没有**研究生级 BCI / EEG 课；唯一 EEG 课是本科 NEUR 3832 EEG 
 - **6204 例外未生效**：Additional Elective 仍显示还差 15。Erin 11-06 邮件说已批记入 Additional Elective；页面写明"例外由 advisor 在系统里录入"。→ 刷新后若仍是 15，等一周，再发 drafts/2026-11-16-email-erin-6204-exception.md。
 - 刷新 + 例外生效后，春季结束时还差 24 = 7100 ×2（6）+ 音科选修 6（6201 / 8002 / 6106 中两门）+ 一般选修 12。正好两学期各 12。
 - 11-16 音科选修复查（2 次检索）：名单固定六门，只能从里面选两门。**6201** 2023 秋由 Lerch 指导、博士生 Watcharasupat 以教学实习形式授课 ✅：音高 / 节拍跟踪、特征提取、风格分类，教材 Lerch《An Introduction to Audio Content Analysis》第二版 → 秋季课，排 2027 秋。**8002** 春季有开（11-03 OSCAR 所见），排 2028 春；6201 那次的授课方式说明 8002 可能就是"给某门课当助教"，具体带哪门课问 Lerch / Erin ⚠️。**6106** 内容仍未查到 ⚠️ → 在 DegreeWorks 点课号看描述与开课学期。6103 / 6104 / 6304 不选。
+- 11-16 澄清 6204 归类：Erin 11-06 批的是记入 **Additional Elective Courses（一般选修 15）**，不是 **Additional Music Technology Courses（音科选修 6，限六门）**。原因在我们这边：11-03 / 11-06 两版邮件都是 Claude 起草，问的就是"作为例外记入 Additional Elective"。
+- 改记音科选修的好处：总学分不变，但音科选修只剩 3（6201），一般选修空出 15，**8002 不再是被迫选**；教学经历可改由 GTA（8997，还带工资）拿。6204 是 Claire 的计算音乐课，算音乐科技课说得通。
+- 时机：DegreeWorks 显示例外尚未录入 → 现在问最合适。草稿 drafts/2026-11-16-email-erin-6204-exception.md 已改为"能否改记音科选修"，不行就维持原批。
