@@ -20,8 +20,8 @@
 |---|---|---|---|---|
 | MUSI 6001 G 音乐感知与认知（Claire）| 31686 | 周二四 14:00 | **已注册** | — |
 | MUSI 6203 A Project Studio 即兴系统（Albert）| 35108 | 周一三 11:00 | **已注册**（创作课）| — |
-| MUSI 7100 GW 研究实验室（Weinberg）| 34205 | 周一三 14:00 | **已注册**（11-10 我说已选）| 确认 Hours = 3 ⚠️ |
-| MUSI 6002 G 交互音乐（Smith）| 35112 | 周一三 09:30 | 占位 | **11-12 前**加上，守住 12 学分 |
+| MUSI 7100 GW 研究实验室（Weinberg）| 34205 | 周一三 14:00 | **已注册，3 学时 ✅**（11-16）| — |
+| MUSI 6002 G 交互音乐（Smith）| 35112 | 周一三 09:30 | 已注册（第五门，15 学时）| 占位任务已完成；Phase II 前决定换系外统计课 / 7641 或退掉 |
 | MUSI 6202 DSP（von Coler）| 35110 | 周二四 09:30 | Pending，Erin 暂缓（系里行政问题）| 等 Erin；12-11 没消息追问；放出后加，再决定退不退 6002 |
 | BMED 7610 计算神经科学（Stanley）| 待查 | 周二四 12:30，27 座 | **春季不修**（11-10 我说"感觉听不懂"）| 回到 2027 秋主线课候选，届时再看 |
 | CS 7641 A 机器学习（Roozbahani）| 23368 | 周二四 12:30 | CoC 回复：开学第一天限制解除后自己加 | 开学第一天可试加；是否保留看寒假数学自测 |
@@ -46,7 +46,7 @@ Phase I 截止 12-18 23:59 ET；候补 11-23 至 11-30 暂停。开学第一天�
 - 定期去的只有 IRIM 研讨会（隔周周三 12:15，Klaus 1116）。Hive 全校免费；Invention Studio 春季重开。
 - Robotic Musicianship VIP：本科生队友 / pet 帮手来源。
 - 创业课：CREATE-X Startup Lab（3 学分，春季 CS 特殊专题，课号 ⚠️）与 ML 课抢学分，暂放；Startup Launch 2027-03 决定。
-- 学费：国际生 $1,379 / 学分，12+ 封顶 $16,540 / 学期；有 GRA 全免。Bursar：bursar.ask@business.gatech.edu。
+- 学费（11-16 OSCAR 实测 ✅）：MSMT 国际生每学期 **$19,359**（学费 TIAA $9,068 + TIIA $9,433 + 杂费 $858），12 与 15 学时金额相同，超修不加钱；有 GRA 学费全免。旧记的 $1,379 / 学分、$16,540 作废。Bursar：bursar.ask@business.gatech.edu。
 
 ## 联系人
 Erin Jackson（MSMT 协调人，erin.jackson@music.gatech.edu；permit 走邮件 + GTID + CRN）· Max Roozbahani（CS 7641 A，CSE 讲师）· gradregistration@cc.gatech.edu · 研究生院 404-894-2000 · Claire Arthur（6001 任课，约见与进组待谈）· Sonia Chernova（CS 7633，旁听邮件未发 ⚠️）。
