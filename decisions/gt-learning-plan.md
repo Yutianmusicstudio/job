@@ -476,3 +476,16 @@ GT **没有**研究生级 BCI / EEG 课；唯一 EEG 课是本科 NEUR 3832 EEG 
 - 可选的超修第 15 学分（2027 秋）：**CS 7633 HRI**（仅秋季，直接对应论文 = Shimon 观众 EEG；CoC 外系照旧开学第一天抢）或 **ECE 6122 C++**（只在走具身工程岗时才值）。默认 7633；春季 7641 吃力就不加。
 - **真正"必须"的非课程项：RCR 训练** ✅。论文轨须在提交 "Request for Approval of Master's Thesis Topic" 表之前完成 RCR，否则表被研究生院退回；CITI 在线 RCR 是可选途径之一，**和 IRB 用的 CITI 人类被试课是两门**，做过后者不算。GT 还有 PSYC 6000 Responsible Conduct of Research（Fall 2026，Rick Thomas）——能否作为该要求的途径未核实 ⚠️。另：若由 NSF / NIH 经费支持（如 GRA），还有额外线下学时要求。→ 寒假做完 CITI RCR 在线课。
 - **Emory 不去**：两轮检索都没找到 Emory 研究生级 EEG 课；2027 春 ARCHE 截止 11-15 已过；2027 秋截止 7-15（人在国内）；ARCHE 课按转学分记，不进 GT GPA，能否计入 MSMT 学位需导师批 ⚠️。GT–Emory 班车周一至五连接 GT 与 Emory Clifton 主校区（时刻表信息较旧 ⚠️）。
+
+## 11-16 脑电课复查 + "脑电 vs 人机交互哪个重要"（2 次检索）
+- GT **没有研究生级 EEG 课**（第三次确认）。相关的：
+  | 课 | 是什么 | 对我 |
+  |---|---|---|
+  | NEUR 3832 EEG Lab | 本科"专题实验课"，Fall 2026 A 节 CRN 94289，**Eric Schumacher** 教 ✅ | 3000 级，研究生不计学分 → 只坐听或要材料；Schumacher 是 GT 教 EEG 的人，值得认识（设备、论文委员会候选）|
+  | PSYC 6090 Cognitive Neuroscience | catalog ✅："认知神经科学基础：生物机制、主流理论、实验技术"；开课学期与是否讲 EEG 未查到 ⚠️ | **补脑电背后的神经科学理论**，2027 秋第 15 学分首选 |
+  | Topics in Cognitive Neuroscience 研讨课 | Fall 2026 有（syllabus 存在 ✅），每周读一篇方法论文 | 备选 |
+  | PSYC 6042 Neuroimaging | 只讲 fMRI | 不选 |
+  | BMED 7610 | 神经元层面理论，数学重；我说"听不懂" | 不选 |
+- 判断：对博士申请（香港神经线为主）**脑电 / 神经 > 人机交互**；人机交互每天在交互实验室里就在学，论文本身就是 HRI + EEG。但"会脑电"靠的是一串零件，计划里已有：6001 音乐认知、6202 信号处理、7641 / 7643 解码、PSYC 6018 实验设计、OpenMIIR + Shimon 实操。**唯一缺的是神经科学理论 → PSYC 6090**。
+- 改动：2027 秋第 15 学分 **CS 7633 → PSYC 6090**（7633 本来就要开学抢座，我说"不太能报"）。PSYC 6090 秋季不开 → 用 Topics 研讨课或坐听。
+- 动作：春季找 Schumacher 聊一次（Shimon 研究的 EEG 设计、能否借设备、能否坐听 3832 几次实操课）。
