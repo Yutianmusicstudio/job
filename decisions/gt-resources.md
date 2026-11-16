@@ -70,3 +70,8 @@ PACE Phoenix 导师申请 ✅；SGA 差旅 ✅；CommLab ✅；ARCHE 跨校 ✅�
 - 批量爬不做：图书馆与出版商的许可普遍禁止系统性 / 自动化下载（通行条款，GT 图书馆原文未查 ⚠️），出版商会封整个校园 IP 段并追到账号；与"不做脚本抢课"同类风险。
 - 也没必要：读博后新学校有同样的权限；多数相关论文有 arXiv / 开放获取版；脑电数据集（OpenMIIR 等）本来就是公开的，不靠图书馆。
 - 做法：Zotero 精选库，只存读过或要引用的（按 projects/ 五个项目 + 博士三条线分文件夹），手动 / 浏览器插件逐篇存 PDF；规模几百到一两千篇、几个 GB。毕业前半年再补一轮付费墙后的关键文献与标准（ISO / AES 等）、电子书章节。
+
+## 2026-11-16 · 研究生院秋季奖学金清单（Erin 转发 10-06 原件）——全部不适用
+- 八项：P.E.O.、Chih（GT 内部）、HHMI Gilliam、Soros、Hertz、Goizueta（GT 内部）、DOE SCGSR、Liebmann（GT 内部）。
+- 不适用原因：除 HHMI 外全部要求美国公民 / 永久居民（Soros 要移民身份）；Chih、HHMI、Hertz、SCGSR、P.E.O. 只给博士生；截至 11-16 只剩 Liebmann（12-04）未截止，且限美国公民。HHMI 收国际生，但限生物 / 生医博士二三年级。
+- 含义：在美国，国际生的钱基本只能来自 GRA / GTA，不是 fellowship；博士申请线的奖学金看 HKPFS、CSC 与欧洲岗位制。以后同类群发先看"citizenship"一行再读。
