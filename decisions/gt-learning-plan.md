@@ -418,3 +418,10 @@ GT **没有**研究生级 BCI / EEG 课；唯一 EEG 课是本科 NEUR 3832 EEG 
 - 春季每学期实付基准：**$19,359**（学费 $18,501 + 杂费 $858）。11-06 记的 $16,540 作废。
 - **7100 GW 已是 3 学时**（我自己在 OSCAR 改成）→ 给 Erin 的 drafts/2026-11-16 邮件两问都已解决，**不用发**。
 - 在册：6001、6202、6203、7100(3) = 12；加 6002 = 15。6002 留或退由我定（截图一张 Pending、一张 Registered，最终状态待确认）。
+
+## 11-16 PSYC 6018 试加：Time Conflict
+- PSYC 6018 A Principles of Research Design（Rick Thomas），**周一三**上课（具体钟点截图截断 ⚠️），35 座余 18，**没报专业限制，只报时间冲突** → 心理系对外系开放 ✅。
+- 我在册的周一三课只有两门：6203 A（周一三 11:00 起）与 7100 GW（OSCAR 排了 14:00–14:50）。6002 已退。所以冲突对象是二者之一。
+- 7100 是 directed study，但 Banner 只看 OSCAR 里排的时段，不管它是不是真上课 → 若冲突在 7100，属于"纸面冲突"，可请系里开 time conflict override（GT 是否有此类 permit、由谁签：未核实 ⚠️，问 Erin）。若冲突在 6203，是真冲突，6018 春季不修。
+- CS 7641 A 在 Summary 里是 "Errors Preventing Registration"（专业限制，符合 CoC 页规则）→ 选 Remove + Submit 清掉，开学第一天再试。
+- 草稿：drafts/2026-11-16-email-time-conflict-6018.md（只在确认冲突对象是 7100 后发）。
