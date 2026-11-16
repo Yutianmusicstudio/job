@@ -75,3 +75,4 @@ PACE Phoenix 导师申请 ✅；SGA 差旅 ✅；CommLab ✅；ARCHE 跨校 ✅�
 - 八项：P.E.O.、Chih（GT 内部）、HHMI Gilliam、Soros、Hertz、Goizueta（GT 内部）、DOE SCGSR、Liebmann（GT 内部）。
 - 不适用原因：除 HHMI 外全部要求美国公民 / 永久居民（Soros 要移民身份）；Chih、HHMI、Hertz、SCGSR、P.E.O. 只给博士生；截至 11-16 只剩 Liebmann（12-04）未截止，且限美国公民。HHMI 收国际生，但限生物 / 生医博士二三年级。
 - 含义：在美国，国际生的钱基本只能来自 GRA / GTA，不是 fellowship；博士申请线的奖学金看 HKPFS、CSC 与欧洲岗位制。以后同类群发先看"citizenship"一行再读。
+- 2026-11-16 ARCHE 补充：GT 端要求本学期在 GT ≥3 计费学分、每学期单独申请；ARCHE 课按转学分处理、不计 GT GPA ✅；Emory 每学期 ≤2 门、累计 ≤18 学时、暑期不开放 ✅。2027 春截止 11-15 已过，未用。结论：没有锁定具体课就不用。
