@@ -425,3 +425,4 @@ GT **没有**研究生级 BCI / EEG 课；唯一 EEG 课是本科 NEUR 3832 EEG 
 - 7100 是 directed study，但 Banner 只看 OSCAR 里排的时段，不管它是不是真上课 → 若冲突在 7100，属于"纸面冲突"，可请系里开 time conflict override（GT 是否有此类 permit、由谁签：未核实 ⚠️，问 Erin）。若冲突在 6203，是真冲突，6018 春季不修。
 - CS 7641 A 在 Summary 里是 "Errors Preventing Registration"（专业限制，符合 CoC 页规则）→ 选 Remove + Submit 清掉，开学第一天再试。
 - 草稿：drafts/2026-11-16-email-time-conflict-6018.md（只在确认冲突对象是 7100 后发）。
+- 11-16 PSYC 6018 vs CS 7641 判断：**整个学位里 7641 更重要**（7643 先修、简历关键词、导师说的"CS 底子"），**但春季选 6018 更对**：① 7641 春季不可控（开学当天抢座）且数学重；② 6018 现在就能进；③ 研究设计正好补 OpenMIIR 论文的核心教训（条件顺序的 counterbalancing）和 Shimon 观众研究 / IRB 的设计；④ 香港神经线导师（Teng、Patrick Wong、Caicai Zhang）多在心理 / 语言学系，看实验设计功底。两门不互斥：6018 春、7641 秋。超修免费 → 6018 可作 48 学分之外的第 13 门，不挤原选修池；能否记入一般选修问 Erin。课程内容只核到 catalog 一句"实验与相关研究设计"✅，其余按同类课惯例推断 ⚠️，看 syllabus 确认。
