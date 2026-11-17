@@ -88,3 +88,10 @@
 - 我有 CSC 攻博资格（自费留学应届硕士）。CSC 的前提是外方免学费。对导师来说，这种学生不花他的经费，录取门槛实际更低。
 - 适用：TCD（有正式联合项目）、东京大学等接受公派生的学校（是否免学费逐校核 ⚠️）。不适用：美国各校（资助打包）。香港、新加坡、MBZUAI 自有全额资助，不需要 CSC。
 - 套磁信里可以加一句："I am eligible for China Scholarship Council funding, which covers living costs if tuition is waived." 只对欧洲、日本的导师写。
+
+## 九、脑机接口线的放弃条件（2026-11-17）
+不靠想，靠下面四个信号。满足两条以上，就把脑机接口降为三条线里的次要线，名额让给具身智能或 AI 评测：
+1. learning/ T1 学 OpenMIIR 那篇，记录里连续写"受罪"。
+2. 2027 春 Shimon 研究真开始采脑电，坐在被试旁边觉得无聊。
+3. Claire 的 8903 独立研究没谈成，或做了一学期不想继续。
+4. 2027-09 Gate C 时，脑机接口线的导师（Teng、Di Liberto、Casey、Rosa Chan、Guan）没有一位正面回复，而另两条线有。
