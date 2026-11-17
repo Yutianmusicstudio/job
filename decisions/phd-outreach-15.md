@@ -65,3 +65,4 @@
 - 原第三线处理：Michigan PAT（#13）、McGill Wanderley（#14）移入备选（新乐器 / DMI 方向）；港科广 CMA（#15）只保留为暑期访学与广州渠道，不占博士名额；Ye Wang（#12，CS 学位，AI 用于教育与健康）保留进新第三线。
 - 新第三线待核实候选（未核，⚠️）：Chris Donahue（CMU CS，人与 AI 音乐共创，sweeps 里已有）；Cheng-Zhi Anna Huang（据我记忆 2024 起在 MIT，人机音乐共创，需核实）。核实后补满 4 人。
 - 原则不变：押的是"会测、会判断"，不是押某一波 tech 的热度。
+- 2026-11-17：投递名单见 `phd-apply-list.md`。新第三线核实：Donahue（CMU CSD，G-CLef）✅、Anna Huang（MIT 音乐 + EECS，Human-AI Resonance Lab）✅、Gus Xia（MBZUAI，招生未见）⚠️。
