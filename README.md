@@ -15,6 +15,7 @@
 | `decisions/phd-readiness.md` | 博士申请准备度自评与申请组合 |
 | `decisions/salary-guangzhou.md` | 广州各类单位博士 / 博后薪资与补贴 |
 | `decisions/phd-apply-list.md` | 博士申请名单（16 个投递，分保底 / 匹配 / 冲刺；取代 roadmap 第一节）|
+| `decisions/phd-reachable-list.md` | 我够得上的博士去处：18 个，分最有戏 / 够得着 / 够一够，带学位名称与链接 |
 | `decisions/phd-hk-bci-labs.md` | 香港与港科广做脑机接口的实验室（链接、方向、招不招博士）|
 | `decisions/phd-checklist.md` | 申博清单：材料 / 人 / 递交，31 件事各带截止与归属线 |
 | `decisions/phd-outreach-15.md` | 15 人套磁表：系、学位标签、2028 招生、最相关一篇、讲法、发信顺序 |
