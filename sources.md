@@ -212,3 +212,5 @@
 | Bhattacharya：浸大音乐学院，认知神经科学家，横跨工程 / 心理 / 神经 | [浸大个人页](https://mus.hkbu.edu.hk/people-detail/joydeep-bhattacharya) | ✅ |
 | KAIST Kyung Myun Lee：Music and Brain Lab，脑电 / 肌电预测音乐情绪与偏好；西北大学音乐认知博士；在带文化技术研究生院博士生 | [实验室](https://www.mubl.kaist.ac.kr)、[KAIST 教师页](https://hss.kaist.ac.kr/boards/view/fulltime_professor_en/76) | ✅（学位归属 ⚠️）|
 | 港大 William Choi：2025–26 年度不收研究生 | [港大教育学院](https://web.edu.hku.hk/faculty-academics/willchoi) | ✅ |
+| 港大 Guang Ouyang：教育学院副教授，Complex Neural Signals Decoding Lab，非侵入脑电 + 深度学习 | [实验室](https://cnsd.edu.hku.hk/) | ✅（招生 ⚠️）|
+| 港中大脑与心智研究所成员：Patrick Wong（听觉神经科学、音乐认知）、Teng | [BMI](http://bmi.cuhk.edu.hk/scientists.html)、[neuroHK](https://www.neurohk.org/cuhk) | ✅ |

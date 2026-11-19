@@ -47,3 +47,16 @@
 - 我够得上的，和"纯脑机接口 + 工科学位"的交集很小。A、B 两组的学位多是音乐、心理。
 - 现实的走法是**先从音乐 + 脑电这个窄门进去**（这里我的背景是优势），博士期间把方法做成通用的（解码、验证、实时系统），毕业后再转通用脑机接口。Bhattacharya、Agres、Miranda 本人都是这么横跨的。
 - 最接近"两头都占"的五个：Di Liberto（计算机学位，解码）、KAIST Lee（工科学院）、Agres（音乐脑机接口）、Ramirez（脑机音乐接口）、Miranda（学位名就是脑机音乐接口）。
+
+## 只看香港（2026-11-19 补，另查 2 次）
+| 档 | 学校 | 导师 | 做什么 | 博士专业 | 港四大 | 链接 | 注意 |
+|---|---|---|---|---|---|---|---|
+| 最有戏 | 港中大 | Xiangbin Teng | 脑电 / 脑磁追踪音乐乐句的切分与预测 | 心理学 | 是 | [个人页](https://www.psy.cuhk.edu.hk/en/people/faculty-members/xiang-bin-teng.html) | 在招，欢迎工程 / 计算机背景 ✅ |
+| 最有戏 | 港大 | **Guang Ouyang（新增）**，Complex Neural Signals Decoding Lab | **非侵入脑电 + 深度学习做神经信号解码**；认知能力的神经指标 | 教育学院博士 | 是 | [实验室](https://cnsd.edu.hku.hk/) | 教育学院收多种背景，我本科是教育 / 音乐；招生未见 ⚠️ |
+| 最有戏 | 浸大 | Joydeep Bhattacharya | 脑电 / 脑磁研究音乐情绪、创造力、心流 | 音乐（48 个月）| 否 | [个人页](https://mus.hkbu.edu.hk/people-detail/joydeep-bhattacharya) | 音乐标签 |
+| 够得着 | 理大 | Caicai Zhang，NeuroLML | 语言与音乐的神经认知、失歌症 | 语言科学 | 是 | [实验室](https://drcczlab.github.io)、[理大页](https://www.polyu.edu.hk/lst/people/academic-staff/zhang-caicai/) | 主页写不定期招博士；音乐非主线 |
+| 够得着 | 港中大 | Patrick Wong | 听觉神经科学、音乐认知、语言学习 | 语言学 | 是 | [脑与心智研究所](http://bmi.cuhk.edu.hk/scientists.html) | 大组长，回信率低 |
+| 够一够 | 港大 | Yong Hu | 干电极脑电脑机接口，用于神经康复 | 医学院博士 | 是 | [项目页](https://med.hku.hk/en/teaching-and-learning/postgraduate/rpg/projects/High-performance-brain-computer-interface-using-dry-electrode) | 项目页写明在招 ✅ |
+| 够一够 | 港中大 | Raymond Tong | 脑电脑机接口，中风康复 | 生物医学工程 | 是 | [2024 存档](https://webarchive.lib.cuhk.edu.hk/20240123091647mp_/http://www.bme.cuhk.edu.hk/kytong/researchteam) | 工科系，现状 ⚠️ |
+- 现在够不上或不收：城大 Rosa Chan、科大 Yiwen Wang、港大 Ngai Wong、理大 Lei Sun（超声，方向不同）、港中大 Jan Schnupp（听觉神经生理，归属 ⚠️）；港大 William Choi 2025–26 不收研究生（2027 再看）。
+- HKPFS 只有两个志愿（⚠️ 待核官网）：暂定 **Teng + Ouyang**。两人都在港四大，一个音乐 + 脑电，一个脑电解码。
