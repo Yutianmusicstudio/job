@@ -214,3 +214,4 @@
 | 港大 William Choi：2025–26 年度不收研究生 | [港大教育学院](https://web.edu.hku.hk/faculty-academics/willchoi) | ✅ |
 | 港大 Guang Ouyang：教育学院副教授，Complex Neural Signals Decoding Lab，非侵入脑电 + 深度学习 | [实验室](https://cnsd.edu.hku.hk/) | ✅（招生 ⚠️）|
 | 港中大脑与心智研究所成员：Patrick Wong（听觉神经科学、音乐认知）、Teng | [BMI](http://bmi.cuhk.edu.hk/scientists.html)、[neuroHK](https://www.neurohk.org/cuhk) | ✅ |
+| 科大 AMC：Wei Xue（音频智能、AI 音乐）、Yike Guo；AudioX；博士生来自跨学科项目 IIP | [Wei Xue](https://researchportal.hkust.edu.hk/en/persons/wei-xue/)、[科大 AIS](https://ais.hkust.edu.hk/node/2400) | ✅ |

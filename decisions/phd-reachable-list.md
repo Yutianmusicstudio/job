@@ -60,3 +60,31 @@
 | 够一够 | 港中大 | Raymond Tong | 脑电脑机接口，中风康复 | 生物医学工程 | 是 | [2024 存档](https://webarchive.lib.cuhk.edu.hk/20240123091647mp_/http://www.bme.cuhk.edu.hk/kytong/researchteam) | 工科系，现状 ⚠️ |
 - 现在够不上或不收：城大 Rosa Chan、科大 Yiwen Wang、港大 Ngai Wong、理大 Lei Sun（超声，方向不同）、港中大 Jan Schnupp（听觉神经生理，归属 ⚠️）；港大 William Choi 2025–26 不收研究生（2027 再看）。
 - HKPFS 只有两个志愿（⚠️ 待核官网）：暂定 **Teng + Ouyang**。两人都在港四大，一个音乐 + 脑电，一个脑电解码。
+
+## 香港：工科 / 计算机学位的（2026-11-19，我说上一节"都很差"，要工科和 CS 的）
+先分清：上一节不是实验室差，是**学位标签**不是工科（心理、教育、音乐、语言）。Teng 发的是 J Neurosci。下面是香港拿工科或计算机学位的全部选项，把握是我的估计。
+
+| 把握 | 学校 / 系 | 导师 | 做什么 | 博士专业 | 链接 | 卡在哪 |
+|---|---|---|---|---|---|---|
+| 中 | 科大 计算机系 | Xiaojuan Ma | 人机交互、社交机器人怎么表达状态 | 计算机科学与工程 | [主页](https://cse.hkust.edu.hk/~mxj/) | 人机交互方向收跨背景学生，是工科里最够得着的；但不是脑机接口 |
+| 中 | 港大 医学院 | Yong Hu | 干电极脑电脑机接口，神经康复 | 医学院博士（工程性质）| [项目页](https://med.hku.hk/en/teaching-and-learning/postgraduate/rpg/projects/High-performance-brain-computer-interface-using-dry-electrode) | 项目页写明在招 ✅ |
+| 中低 | 城大 电机系 | Rosa Chan | 脑机接口、神经假体、生物信号处理 | 电机工程 | [实验室](https://cityucompuneurolab.github.io) | 在招，但明写偏好电子 / 计算机 / 生物工程背景；不在港四大 |
+| 中低 | 科大 艺术与机器创造力学部（AMC）| Wei Xue、Yike Guo（校首席副校长）| AI 音乐与音频生成（AudioX、YuE）| 跨学科博士（IIP）或 AMC ⚠️ | [Wei Xue](https://researchportal.hkust.edu.hk/en/persons/wei-xue/) | 最新的 tech，音乐背景加分；但要很强的机器学习，偏生成 / MIR |
+| 低 | 港中大 生物医学工程系 | Raymond Tong | 脑电脑机接口，中风康复 | 生物医学工程 | [2024 存档](https://webarchive.lib.cuhk.edu.hk/20240123091647mp_/http://www.bme.cuhk.edu.hk/kytong/researchteam) | 工科系；现状 ⚠️ |
+| 低 | 科大 电子及计算机工程系 | Yiwen Wang | 脑机接口神经解码 | 电子及计算机工程 | [主页](https://ece.hkust.edu.hk/eewangyw) | 偏侵入式、信号处理硬功夫 |
+| 低 | 理大 生物医学工程系 | Lei Sun | 超声脑机接口，帕金森 | 生物医学工程 | [中心](https://www.polyu.edu.hk/rcnibci/news-and-events/news/) | 方向是神经调控，不是解码 |
+| 很低 | 港大 电机电子工程系 | Ngai Wong | 忆阻器芯片解码 | 电机电子工程 | [新闻](https://hku.hk/press/news_detail_28198.html) | 芯片硬件 |
+| ⚠️ | 科大 计算机系 | Andrew Horner | 计算机音乐、音色、音乐情绪 | 计算机科学与工程 | [主页](https://cse.hkust.edu.hk/admin/people/faculty/profile/horner) | 计算机学位 + 音乐；是否还收学生未核 |
+
+**四样不能全要**：港四大、工科学位、脑机接口、现在就够得上。最多占三样。
+- 要工科 + 够得上 → Xiaojuan Ma（放弃脑机接口）。
+- 要脑机接口 + 够得上 → Teng、Ouyang、Bhattacharya（放弃工科标签）。
+- 要工科 + 脑机接口 → Rosa Chan、Yong Hu、Yiwen Wang（把握低，要先补）。
+
+**把"低"变"中"的四件事**（到 2027-12 申请前）：
+1. 成绩单：MUSI 6202（DSP）、CS 7641、CS 7643。
+2. 一个深度学习解码的结果：比如重做 Di Liberto 2021 的一张图（learning/ 项目阶梯第二步）。
+3. 论文：RSOS 那篇接收。
+4. 套磁 + 暑期：2027 夏去港科广或城大待几周，让人见过我干活。
+
+**投法**：HKPFS 两个志愿一冲一稳（例：Rosa Chan 或 Yong Hu + Teng）；其余走各校普通博士申请，不占 HKPFS 志愿（规则 ⚠️ 2027-09 核官网）。
