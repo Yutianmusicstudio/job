@@ -208,3 +208,4 @@
 | GT 其他 BCI：Melody Jackson / Thad Starner（脑电 SSVEP 拼写器，旧）、Woon-Hong Yeo（可穿戴传感器）、GTRI 移动脑电；GT 2026-07 神经技术专题 | [GT Research News 2026-07](https://news.research.gatech.edu/2026/07/22/neuro-revolution-dawning-are-we-ready)、[NEC 2025 秋通讯](https://www.nec.gatech.edu/sites/default/files/Final-Fall-2025-Hemispheres.pdf)、[BME 神经工程](https://www.bme.gatech.edu/bme/areas/neuroengineering) | ⚠️ |
 | 理大非侵入式脑机接口研究中心（Lei Sun，BME）；2026-03 全声学脑机接口（经颅超声，帕金森），与华山医院、珠江医院临床合作 | [理大新闻稿 2026-03-12](https://www.polyu.edu.hk/en/media/media-releases/2026/0312_all-acoustics-brain-computer-interface)、[RCNIBCI](https://www.polyu.edu.hk/rcnibci/news-and-events/news/) | ✅ |
 | 理大联合培养双学位博士（合作校含浙大等），非 BCI 专门项目 | [知乎转载 2023](https://zhuanlan.zhihu.com/p/583567056) | ⚠️ |
+| 香港脑机接口实验室：城大 Rosa Chan（招博士，偏好 EE / CS / 生物工程）、科大 Yiwen Wang（神经解码）、港大 Yong Hu（干电极脑电 BCI，招 MPhil / PhD）、港大 Ngai Wong（忆阻器解码）、港科广 BIRI / Kefei Liu（脑电控制机械臂） | 见 decisions/phd-hk-bci-labs.md 各行链接 | ✅ |
