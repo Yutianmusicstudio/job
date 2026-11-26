@@ -215,3 +215,4 @@
 | 港大 Guang Ouyang：教育学院副教授，Complex Neural Signals Decoding Lab，非侵入脑电 + 深度学习 | [实验室](https://cnsd.edu.hku.hk/) | ✅（招生 ⚠️）|
 | 港中大脑与心智研究所成员：Patrick Wong（听觉神经科学、音乐认知）、Teng | [BMI](http://bmi.cuhk.edu.hk/scientists.html)、[neuroHK](https://www.neurohk.org/cuhk) | ✅ |
 | 科大 AMC：Wei Xue（音频智能、AI 音乐）、Yike Guo；AudioX；博士生来自跨学科项目 IIP | [Wei Xue](https://researchportal.hkust.edu.hk/en/persons/wei-xue/)、[科大 AIS](https://ais.hkust.edu.hk/node/2400) | ✅ |
+| ECE 6254 Statistical Machine Learning：ML 博士核心课选项，课程页称春秋都开（2027 春未核） | [ECE 课程页](https://ece.gatech.edu/courses/ece6254)、[ML 博士核心课](https://ml.gatech.edu/curriculum-core) | ⚠️ |
