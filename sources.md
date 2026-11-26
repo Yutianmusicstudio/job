@@ -216,3 +216,5 @@
 | 港中大脑与心智研究所成员：Patrick Wong（听觉神经科学、音乐认知）、Teng | [BMI](http://bmi.cuhk.edu.hk/scientists.html)、[neuroHK](https://www.neurohk.org/cuhk) | ✅ |
 | 科大 AMC：Wei Xue（音频智能、AI 音乐）、Yike Guo；AudioX；博士生来自跨学科项目 IIP | [Wei Xue](https://researchportal.hkust.edu.hk/en/persons/wei-xue/)、[科大 AIS](https://ais.hkust.edu.hk/node/2400) | ✅ |
 | ECE 6254 Statistical Machine Learning：ML 博士核心课选项，课程页称春秋都开（2027 春未核） | [ECE 课程页](https://ece.gatech.edu/courses/ece6254)、[ML 博士核心课](https://ml.gatech.edu/curriculum-core) | ⚠️ |
+| GT 神经工程课：BMED 6790 / ECE 6790 神经系统信息处理模型、BMED 6791 转化神经工程、BMED 4400 神经工程基础（本科带实验）、BMED / ECE 6787 定量电生理 | [GT 神经科学选修](https://neuroscience.cos.gatech.edu/minor-elective-courses)、[BMED 研究生课程目录](https://catalog.gatech.edu/courses-grad/bmed)、[Neuro 课程一览](https://neuro.gatech.edu/node/1357) | ✅（开课学期 ⚠️）|
+| PSYC 6018 研究设计、6019 / 6020 心理统计（6020 为 5 学分）、6090 认知神经科学、7101 工程心理学方法 | [PSYC 研究生课程目录](https://catalog.gatech.edu/courses-grad/psyc)、[心理学博士要求](https://catalog.gatech.edu/programs/psychology-phd) | ✅ |
