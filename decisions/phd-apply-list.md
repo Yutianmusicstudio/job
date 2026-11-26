@@ -4,6 +4,34 @@
 > 三条线（2026-11-16 定）：① 脑机接口 / 神经解码 ② 具身智能 / 人机器人交互 ③ AI 评测与人机协作。音乐是测试场，不是研究目的。
 > 截止日除已注明外均按往年推（⚠️），2027-09 逐个上官网确认。最终投哪些，2027-09-30 Gate C 按导师回信再砍。
 
+## 〇、当前名单：14 个（2026-11-26，以此为准；下面各节是之前的大名单，留作备选）
+定位见 profile.md 2026-11-26 两条。两张网，同一个人。把握是我的估计；关系阶段全部为 0（GT 除外）。
+
+**人机接口网**（脑电 / 肌电 + 机器；学位偏工科、计算机）
+| # | 学校 | 导师 | 做什么 | 博士专业 | 年限 | 把握 | 链接 |
+|---|---|---|---|---|---|---|---|
+| 1 | 港大 | Yong Hu | 干电极脑电脑机接口，神经康复 | 医学院博士（工程性质）| 3–4 | 中（项目页写明在招）| [项目页](https://med.hku.hk/en/teaching-and-learning/postgraduate/rpg/projects/High-performance-brain-computer-interface-using-dry-electrode) |
+| 2 | 港大 | Guang Ouyang | 非侵入脑电 + 深度学习做神经信号解码 | 教育学院博士 | 3–4 | 中（招生未见）| [实验室](https://cnsd.edu.hku.hk/) |
+| 3 | 科大 | Xiaojuan Ma | 人机交互、社交机器人怎么表达状态 | 计算机科学与工程 | 3–4 | 中 | [主页](https://cse.hkust.edu.hk/~mxj/) |
+| 4 | 城大 | Rosa Chan | 脑机接口、神经假体、生物信号处理 | 电机工程 | 3–4 | 中低（在招，偏好工科背景）| [实验室](https://cityucompuneurolab.github.io) |
+| 5 | 港科广（广州）| 脑与智能研究院；Kefei Liu | 脑电控制机械臂和光标 | 生物医学工程 ⚠️ | 4 左右 | 中低（招生未见）| [研究院](https://biri.hkust-gz.edu.cn/?p=16)、[Liu](https://kefeilab.hkust-gz.edu.cn/?p=15) |
+| 6 | 都柏林圣三一 | Giovanni Di Liberto | 从脑电解码听到的和想象的旋律 | 计算机科学 | 4 | 中（TCD–CSC 不花他的钱）| [个人页](https://www.tcd.ie/biomedicalengineering/people/principal-investigators/gdiliber/) |
+| 7 | 新加坡国大 | Kat Agres（两张网都算）| 用脑电实时生成音乐调节情绪 | 目前只查到音乐实践博士 ⚠️ | 4 | 中（学位路径要先问）| [个人页](https://www.ystmusic.nus.edu.sg/faculty-kat-agres) |
+
+**音乐科技网**（人怎么感知和使用音乐 AI 与音乐机器人）
+| # | 学校 | 导师 | 做什么 | 博士专业 | 年限 | 把握 | 链接 |
+|---|---|---|---|---|---|---|---|
+| 8 | Georgia Tech | Gil Weinberg + Claire Arthur | 机器人音乐与观众感知；想象音乐的脑电 | 音乐科技（+ 计算机辅修）| 约 3（硕转博 ⚠️）| 中（看 Weinberg 的经费）| [博士项目](https://music.gatech.edu/phd-music-technology)、[Claire](https://music.gatech.edu/claire-arthur) |
+| 9 | 浸大 | Joydeep Bhattacharya | 脑电 / 脑磁研究音乐情绪、创造力 | 音乐 | 4 | 中高 | [个人页](https://mus.hkbu.edu.hk/people-detail/joydeep-bhattacharya) |
+| 10 | 港中大 | Xiangbin Teng | 脑电追踪音乐乐句的切分与预测 | 心理学 | 3–4 | 中（在招）| [个人页](https://www.psy.cuhk.edu.hk/en/people/faculty-members/xiang-bin-teng.html) |
+| 11 | KAIST | Kyung Myun Lee | 用脑电、肌电预测音乐情绪和偏好 | 文化技术（工科学院）⚠️ | 4 左右 | 中 | [实验室](https://www.mubl.kaist.ac.kr) |
+| 12 | Western（加拿大）| Jessica Grahn | 节拍感知；OpenMIIR 数据的采集方 | 心理学 / 神经科学 | 4–5 | 中 | [个人页](https://jessicagrahn.com) |
+| 13 | CMU | Chris Donahue | 人与 AI 共创音乐、可控生成 | 计算机科学 | 5–6 | 很低 | [系页](https://csd.cmu.edu/people/faculty/chris-donahue) |
+| 14 | MIT | Anna Huang | 人对 AI 音乐与人作音乐的共鸣差异 | 音乐科技与计算（工学院项目）⚠️ | 5–6 | 很低 | [MIT 页](https://mta.mit.edu/node/14797) |
+
+- 香港 6 个（港四大内 4 个：#1、2、3、10）。HKPFS 两个志愿暂定 #1 或 #2 + #10，其余走普通申请 ⚠️。
+- 回信不理想时的补位顺序：理大 Caicai Zhang、港中大 Patrick Wong、Ye Wang（国大）、Northeastern Loui、Concordia Coffey、UPF Ramirez、Cornell Hoffman、Oregon State Knight。
+
 ## 一、名单
 
 | # | 竞争度（估计，与我无关的客观难度）| 关系阶段 | 学校 / 项目 | 导师 | 线 | 学位标签 | 截止（推）| 渠道 / 备注 | 核实 |
