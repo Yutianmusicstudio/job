@@ -81,3 +81,6 @@ NC 的解释；术语表；主文种子与小数下沉；Table 3 / 5 加一句"�
 - 判断：一作对申博决定性，通讯是加分；一作兼通讯正常。通讯身份对陈老师的国内考核有价值，由她定。
 - Gate B 不受影响：转投后 2027-06 仍可在审。
 - 投稿史更新：Brain Sciences 拒 → PLOS ONE 编辑拒 → PeerJ 范围拒（2026-11-10）→ RSOS（待投）。
+
+## 2026-11-27 状态（来源：我填的中介 CV 采集表）
+- 已转投 Royal Society Open Science，状态：编辑审查中。作者顺序不变（Yutian Wang 一作，Keling Wang，Ruiting Chen 通讯）。通讯作者与 APC 最终怎么定的，待我补一句。
