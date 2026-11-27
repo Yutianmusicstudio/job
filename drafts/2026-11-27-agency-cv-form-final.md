@@ -40,10 +40,10 @@ GRE / GMAT / SAT：【没有就写"无"】
 
 ## 四、研究兴趣
 **关键词**
-非侵入式脑机接口（non-invasive brain–computer interface）；脑电（EEG）；肌电（EMG）；神经信号解码与验证（neural decoding and validation）；人机交互 / 人机器人交互（HCI / HRI）；音乐认知（music cognition）；音乐想象（musical imagery）；音乐 AI 评测（evaluation of music AI）
+非侵入式脑机接口（non-invasive brain–computer interface）；脑电（EEG）；肌电（EMG）；人机器人交互与机器人（human–robot interaction, robotics）；神经信号解码与验证（neural decoding and validation）；音乐认知（music cognition）；音乐想象（musical imagery）
 
 **具体方向的总结性描述**
-我研究用脑电、肌电等非侵入式生理信号实现人与机器的交互，并关注这类系统的结果是否可靠。已有工作集中在两点：一是脑电解码的验证方法（在公开数据集 OpenMIIR 上发现试次配对会使交叉验证结果失真）；二是人如何感知机器演奏的音乐（Shimon 机器人演奏的观众脑电研究）。博士阶段希望做非侵入式脑机接口与人机交互方向的研究，以音乐和机器人为主要应用场景；也愿意在音乐认知神经科学方向下开展同类工作。
+我研究用脑电、肌电等非侵入式生理信号实现人与机器人的交互，并关注这类系统的结果是否可靠。已有工作包括三方面：一是脑电解码的验证方法（在公开数据集 OpenMIIR 上发现试次配对会使交叉验证结果失真）；二是人如何感知机器人的演奏（Shimon 机器人演奏的观众脑电研究）；三是正在搭建的肌电加脑电控制机械臂系统。博士阶段希望做非侵入式脑机接口与人机器人交互方向的研究，以音乐和机器人为主要应用场景；也愿意在音乐认知神经科学方向下开展同类工作。
 
 ## 五、学术项目（每个项目一行，五列）
 
