@@ -45,3 +45,15 @@
 - 六、工作 / 实习：教琴、助教、伴奏等都算，如实写。
 - 七、奖项荣誉；八、技能：Python、PyTorch、scikit-learn、MNE-Python；机械臂与嵌入式入门；钢琴（表演硕士）。
 - 九、个人优势；十、其他。
+
+## 2026-11-27 补：来自我的作品集网站（2025-12 版）的素材
+**开头第三题**：有旧材料了，就是这个网站。建议选"仅供参考，不可直接使用原表述"，因为网站还写着 FSU 在读，是申硕士时的口径。
+
+**学术项目可再加两行（都是 FSU 期间的个人项目，如实写规模）**
+| 项目 | 时间 | 说明 |
+|---|---|---|
+| 图像到音乐生成管线（Image to Music Generation）| 【月/年】| Python，Google Colab。用 BLIP 生成图像描述，再输入 Meta MusicGen Large 生成 30 秒音乐。个人项目，无基金 |
+| 视听交互系统（Audiovisual Interaction）| 【月/年】| Max/MSP。摄像头输入实时控制声音合成参数，计算机视觉 + DSP。个人项目 |
+
+**八、技能**：Python（PyTorch、scikit-learn、MNE-Python）；Max/MSP、Max for Live；Ableton Live、Studio One；录音与混音（多话筒录制、EQ、压缩）；音视频剪辑、After Effects；机械臂与嵌入式入门。乐器：钢琴（表演硕士），单簧管、中提琴。
+**十、其他**：钢琴独奏（Carl Vine 第三钢琴奏鸣曲等）；原创作品（卡普斯汀风格拉格泰姆，有乐谱；Future Bass 电子音乐）；高中参加科技类比赛【名称、奖项待填】。
