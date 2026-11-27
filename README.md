@@ -14,6 +14,7 @@
 | `decisions/phd-candidates.md` | 博士候选实验室清单（中美 / 欧洲） |
 | `decisions/phd-readiness.md` | 博士申请准备度自评与申请组合 |
 | `decisions/salary-guangzhou.md` | 广州各类单位博士 / 博后薪资与补贴 |
+| `decisions/phd-longlist.md` | 博士导师长名单第一轮（25 人，三地区；待我划人后更新申请名单）|
 | `decisions/phd-apply-list.md` | 博士申请名单（16 个投递，分保底 / 匹配 / 冲刺；取代 roadmap 第一节）|
 | `decisions/phd-reachable-list.md` | 我够得上的博士去处：18 个，分最有戏 / 够得着 / 够一够，带学位名称与链接 |
 | `decisions/phd-hk-bci-labs.md` | 香港与港科广做脑机接口的实验室（链接、方向、招不招博士）|
