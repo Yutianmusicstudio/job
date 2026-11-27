@@ -53,3 +53,4 @@ pet → 社交机器人、表现性动作、HRI；四手联弹 → 具身智能�
 - 2026-11-27：Wenku（macOS 文献管理软件，自用，v0.13.1）建档，见 `projects/wenku.md`。主线之外。
 - 2026-11-27：Colab 上跑 MiniMax H3 视频模型做约 3 分钟连贯人物视频（参考图锁长相、LoRA、分段接续、ffmpeg 拼接）。纯个人玩，不商用，不进研究材料，不单独建档。
 - 2026-11-27：钢琴视觉化教育系统状态更新（搭画版为主线，无真人数据），见 `projects/piano-visual-education.md`。
+- 2026-11-28：混合接口系统（VR + 脑电 + 肌电 + 机械臂）建档，见 `projects/hybrid-interface.md`。个人项目唯一槽位，并入原 robot pet。状态：进行中（设备在路上）。
