@@ -142,3 +142,16 @@
   - "只有理大"不对：城大 Rosa Chan（电机系，BCI）✅、港中大 Raymond Tong（生医工程，脑电 BCI 中风康复）✅、港中大 Teng（脑电 / 脑磁 + 音乐）✅ 都在名单或备选里。香港博士按系和导师招，没有哪所学校开"脑机接口专业"。
   - 候选：理大 Lei Sun 中心进脑机接口线备选（工学，非侵入）；中心里有没有做脑电解码的人待查 ⚠️。
   - 注意：若只申"港四大"（港大、港中大、科大、理大），城大 Rosa Chan 会被排除，她是香港脑机接口最对口的人之一。
+
+## 十一、公派线（2026-11-27）：CSC 出生活费 + 外方免学费，和 14 个名单并行
+- 我有资格（自费留学应届硕士，见 phd-geography 十二）。公派须回国服务（通常两年 ⚠️），与回广东一致。
+- **适用**：有 CSC 联合奖学金的学校。已核实三所 ✅：都柏林圣三一（每年 ≤10 人，导师代申）；**伯明翰**（每年 10 个，免海外学费，2027 入学截止 2027-02-05）；**QMUL**（学校免全部学费、CSC 出生活费与机票，四年；2027 入学校内截止 2027-01-27，CSC 系统 3-10 开）。另见列表：Bristol、Nottingham、Lancaster ⚠️ 未细查。
+- **不适用**：已给全额资助的地方（香港、新加坡、MBZUAI、美国带 RA 的录取），CSC 规定拿外方全奖者不得申请；美国很少单独免学费；香港是否在高水平项目范围内 ⚠️ 未核。
+- **时间（按 2027 轮平移一年，⚠️ 2027-09 核）**：2027 秋联系导师并申请学校 → 2028-01 底至 02 初学校截止 → 2028-03 至 04 CSC 网报 → 2028-05 出结果。
+- **新增两个公派目标**（英国因此重新可行）：
+  | 学校 | 导师 | 做什么 | 博士专业 | 链接 |
+  |---|---|---|---|---|
+  | QMUL | Marcus Pearce | 音乐预测的认知模型（IDyOM）+ 脑电 | 电子工程与计算机（EECS）| [实验室](https://music-cognition.eecs.qmul.ac.uk/resources)、[QMUL–CSC](https://www.qmul.ac.uk/scholarships/items/china-scholarship-council-scholarships.html) |
+  | 伯明翰 | Maria Witek | 律动感、耳内脑电 | 音乐 | [实验室](https://more.bham.ac.uk/witeklab)、[伯明翰–CSC](https://birmingham.ac.uk/study/scholarships-funding/china-scholarship-council-university-of-birmingham-phd-scholarships) |
+  QMUL 我硕士拿过录取（原本要去），门槛对得上；Pearce 是工科学位 + 音乐认知 + 脑电。
+- 名单变为 14 + 2 = 16；公派线共 3 个（Di Liberto、Pearce、Witek）。
