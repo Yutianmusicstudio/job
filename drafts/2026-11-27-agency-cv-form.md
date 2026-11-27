@@ -13,7 +13,7 @@
 | 院校 | 时间 | 专业 | GPA、课程 |
 |---|---|---|---|
 | Georgia Institute of Technology（佐治亚理工学院）| 08/2026 – 05/2028（预计）| M.S. in Music Technology（音乐科技，理学硕士）| 【GPA 待本学期出分】课程：MUSI 6003 Music Technology History and Repertoire；MUSI 6204 Computational Music Analysis（课名以成绩单为准）；MUSI 8001 Research Methods。2027 春已注册：MUSI 6001 Music Perception and Cognition 等 |
-| Florida State University（佛罗里达州立大学）| 【月/年 – 月/年】| 【学位全称，如 M.M. / M.S. in Piano Performance，以学位证为准】| 【GPA /4.0】【主要课程】|
+| Florida State University（佛罗里达州立大学）| 08/2024 – 05/2026 | Master's Degree, Piano Performance（钢琴表演硕士；学位名称 M.M. 还是其他，以学位证为准）| **GPA 3.59/4.0**（成绩单 Cum GPA 3.590）。分学期：2.83 → 3.81 → 3.80 → 3.92。主要课程：Applied Music Major Piano（A-、A）；Solo Piano Literature（A-、A-、A、A）；Atonal Analysis（A-）；Theory Piano Tech I（A）；Special Topics: Audio/Video Recording for Musicians（A-）；Special Topics: Music and Sound Systems（A-）；Duo Piano（A）；Music Bibliography（B）；Masters Recital（S）；Masters Comprehensive Exam（P）。请附成绩单 |
 | 江苏第二师范学院 Jiangsu Second Normal University | 09/2021 – 06/2023 | 音乐学（师范），艺术学学士 | 【GPA 或均分 /100】【主要课程】|
 | 江苏联合职业技术学院（常州幼儿师范学校办学点）| 09/2016 – 06/2021 | 学前教育（五年一贯制专科）| 【均分】|
 
@@ -57,3 +57,31 @@
 
 **八、技能**：Python（PyTorch、scikit-learn、MNE-Python）；Max/MSP、Max for Live；Ableton Live、Studio One；录音与混音（多话筒录制、EQ、压缩）；音视频剪辑、After Effects；机械臂与嵌入式入门。乐器：钢琴（表演硕士），单簧管、中提琴。
 **十、其他**：钢琴独奏（Carl Vine 第三钢琴奏鸣曲等）；原创作品（卡普斯汀风格拉格泰姆，有乐谱；Future Bass 电子音乐）；高中参加科技类比赛【名称、奖项待填】。
+
+## 2026-11-27 再补：FSU 成绩单与 Coursera 证书（我上传的两份 PDF）
+
+**二、标准化考试**：【托福 / 雅思分数与日期；没有有效成绩就写"无，拟用英语授课硕士学位申请豁免"】
+
+**六、工作 / 实习经历**：【我没有记录。教琴、伴奏、助教、录音、音乐制作接单，只要真实都可以写；没有就留空，不要让对方编】
+
+**七、奖项与荣誉**：【我没有记录。高中科技类比赛、钢琴比赛、奖学金，有就写名称、级别、年份】
+
+**八、个人特长 / 技能**
+- 编程与数据：Python（PyTorch、scikit-learn、MNE-Python），Google Colab
+- 证书（Coursera，均 2026-01-31 完成，可在线验证）：
+  - Mathematics for Machine Learning 专项课程（Imperial College London；含 Linear Algebra、Multivariate Calculus、PCA 三门）
+  - Python for Data Science, AI & Development（IBM）
+- 音频与交互：Max/MSP、Max for Live、Ableton Live、Studio One；多话筒录音与混音；音视频剪辑、After Effects
+- 硬件：SO101 机械臂、嵌入式入门；肌电 / 脑电采集（进行中）
+- 乐器：钢琴（表演硕士），单簧管、中提琴
+- 爱好：【自己填，例如自己做音箱、电子音乐制作】
+
+**九、个人优势**（都有事实可查，按这个意思写，不要让对方拔高）
+1. 跨学科自学能力：钢琴表演出身，本科最后一年开始学 Python，读表演硕士期间自学完成机器学习数学课程，入读 Georgia Tech 音乐科技后一个学期内以第一作者投出两篇论文。
+2. 对结果较真：两篇论文都起于"这个结果可信吗"——一篇发现脑电解码的交叉验证因试次配对而失真，一篇区分大模型是读谱还是记忆。
+3. 能把东西做出来：上线了乐谱小节号标注工具；做过摄像头控制声音的交互系统、图像到音乐的生成管线、机械臂跟随。
+4. 长期的演奏训练：五岁学琴至表演硕士，独奏会曲目含 Carl Vine 第三钢琴奏鸣曲。
+
+**十、其他信息**：钢琴独奏会（FSU 硕士独奏会，2026）；原创作品（拉格泰姆钢琴曲，有乐谱；电子音乐）；Collegium Musicum 早期音乐合奏、双钢琴。【志愿者、工作坊、游学如有请补】
+
+**关于 FSU 第一学期那门 D**（Special Topics: Music & Race in Brazil，2024 秋，未计研究生学分）：成绩单上看得见，不要让文书老师回避或改写。CV 只写总 GPA 3.59；若被问到，一句话如实说明：来美第一学期的一门阅读讨论课，之后三个学期均在 3.8 以上。
